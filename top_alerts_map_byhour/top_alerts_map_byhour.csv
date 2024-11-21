@@ -1,0 +1,3203 @@
+,latitude,longitude,updated_type,updated_subtype,hour,count
+0,41.65,-87.58,Accident,Minor,05:00,1
+1,41.65,-87.58,Accident,Minor,07:00,2
+2,41.65,-87.58,Hazard,Weather Hazards,03:00,5
+3,41.65,-87.58,Hazard,Weather Hazards,06:00,2
+4,41.65,-87.58,Hazard,Weather Hazards,07:00,3
+5,41.65,-87.58,Hazard,Weather Hazards,09:00,4
+6,41.65,-87.58,Hazard,Weather Hazards,10:00,8
+7,41.65,-87.58,Hazard,Weather Hazards,11:00,9
+8,41.65,-87.58,Hazard,Weather Hazards,21:00,9
+9,41.65,-87.58,Hazard,Weather Hazards,23:00,3
+10,41.66,-87.64,Jam,Unclassified,08:00,1
+11,41.66,-87.6,Hazard,Weather Hazards,15:00,3
+12,41.66,-87.59,Accident,Major,06:00,4
+13,41.66,-87.59,Accident,Major,07:00,4
+14,41.66,-87.59,Accident,Major,11:00,5
+15,41.66,-87.59,Accident,Major,14:00,5
+16,41.66,-87.59,Accident,Minor,05:00,2
+17,41.66,-87.59,Accident,Minor,06:00,1
+18,41.66,-87.59,Accident,Minor,07:00,1
+19,41.66,-87.59,Accident,Minor,09:00,1
+20,41.66,-87.59,Accident,Minor,12:00,2
+21,41.66,-87.59,Accident,Minor,16:00,2
+22,41.66,-87.59,Accident,Unclassified,09:00,5
+23,41.66,-87.59,Hazard,Road Hazards,08:00,18
+24,41.66,-87.59,Hazard,Shoulder Hazards,00:00,120
+25,41.66,-87.59,Hazard,Shoulder Hazards,01:00,98
+26,41.66,-87.59,Hazard,Shoulder Hazards,02:00,115
+27,41.66,-87.59,Hazard,Shoulder Hazards,03:00,81
+28,41.66,-87.59,Hazard,Shoulder Hazards,07:00,30
+29,41.66,-87.59,Hazard,Shoulder Hazards,08:00,24
+30,41.66,-87.59,Hazard,Shoulder Hazards,09:00,42
+31,41.66,-87.59,Hazard,Shoulder Hazards,10:00,83
+32,41.66,-87.59,Hazard,Shoulder Hazards,11:00,111
+33,41.66,-87.59,Hazard,Unclassified,01:00,3
+34,41.66,-87.59,Hazard,Unclassified,03:00,4
+35,41.66,-87.59,Hazard,Weather Hazards,00:00,8
+36,41.66,-87.59,Hazard,Weather Hazards,01:00,7
+37,41.66,-87.59,Hazard,Weather Hazards,02:00,3
+38,41.66,-87.59,Hazard,Weather Hazards,03:00,9
+39,41.66,-87.59,Hazard,Weather Hazards,05:00,4
+40,41.66,-87.59,Hazard,Weather Hazards,06:00,5
+41,41.66,-87.59,Hazard,Weather Hazards,07:00,5
+42,41.66,-87.59,Hazard,Weather Hazards,08:00,13
+43,41.66,-87.59,Hazard,Weather Hazards,09:00,15
+44,41.66,-87.59,Hazard,Weather Hazards,10:00,20
+45,41.66,-87.59,Hazard,Weather Hazards,11:00,27
+46,41.66,-87.59,Hazard,Weather Hazards,12:00,6
+47,41.66,-87.59,Hazard,Weather Hazards,13:00,17
+48,41.66,-87.59,Hazard,Weather Hazards,14:00,10
+49,41.66,-87.59,Hazard,Weather Hazards,15:00,6
+50,41.66,-87.59,Hazard,Weather Hazards,17:00,7
+51,41.66,-87.59,Hazard,Weather Hazards,18:00,12
+52,41.66,-87.59,Hazard,Weather Hazards,20:00,7
+53,41.66,-87.59,Hazard,Weather Hazards,21:00,17
+54,41.66,-87.59,Hazard,Weather Hazards,23:00,15
+55,41.66,-87.59,Jam,Heavy Traffic,09:00,2
+56,41.66,-87.59,Jam,Moderate Traffic,05:00,1
+57,41.66,-87.59,Jam,Stand Still Traffic,09:00,2
+58,41.66,-87.59,Road Closures,Event-Related Closure,10:00,2
+59,41.66,-87.58,Accident,Minor,05:00,1
+60,41.66,-87.58,Hazard,Weather Hazards,08:00,2
+61,41.66,-87.58,Hazard,Weather Hazards,09:00,3
+62,41.66,-87.58,Hazard,Weather Hazards,11:00,6
+63,41.66,-87.56,Accident,Minor,03:00,1
+64,41.66,-87.56,Accident,Minor,07:00,1
+65,41.66,-87.56,Accident,Minor,11:00,1
+66,41.67,-87.64,Jam,Unclassified,08:00,1
+67,41.67,-87.6,Accident,Major,09:00,2
+68,41.67,-87.6,Accident,Minor,04:00,1
+69,41.67,-87.6,Accident,Minor,10:00,1
+70,41.67,-87.6,Hazard,Shoulder Hazards,05:00,47
+71,41.67,-87.6,Hazard,Shoulder Hazards,08:00,24
+72,41.67,-87.6,Hazard,Shoulder Hazards,09:00,32
+73,41.67,-87.6,Jam,Heavy Traffic,07:00,2
+74,41.67,-87.6,Jam,Stand Still Traffic,09:00,2
+75,41.67,-87.59,Accident,Minor,10:00,1
+76,41.67,-87.59,Hazard,Weather Hazards,07:00,2
+77,41.67,-87.59,Jam,Moderate Traffic,03:00,1
+78,41.67,-87.58,Road Closures,Construction,22:00,1
+79,41.68,-87.72,Hazard,Unclassified,12:00,2
+80,41.68,-87.72,Hazard,Unclassified,22:00,2
+81,41.68,-87.64,Jam,Unclassified,08:00,1
+82,41.68,-87.6,Accident,Major,08:00,3
+83,41.68,-87.6,Accident,Major,09:00,3
+84,41.68,-87.6,Accident,Minor,05:00,1
+85,41.68,-87.6,Accident,Minor,09:00,1
+86,41.68,-87.6,Hazard,Road Hazards,08:00,17
+87,41.68,-87.6,Hazard,Shoulder Hazards,06:00,31
+88,41.68,-87.6,Hazard,Shoulder Hazards,07:00,37
+89,41.68,-87.6,Hazard,Shoulder Hazards,09:00,33
+90,41.68,-87.6,Hazard,Shoulder Hazards,11:00,102
+91,41.68,-87.6,Hazard,Unclassified,22:00,2
+92,41.68,-87.6,Hazard,Weather Hazards,23:00,3
+93,41.68,-87.6,Jam,Heavy Traffic,08:00,1
+94,41.68,-87.6,Jam,Unclassified,08:00,1
+95,41.68,-87.6,Road Closures,Construction,16:00,1
+96,41.69,-87.68,Road Closures,Event-Related Closure,17:00,24
+97,41.69,-87.6,Accident,Major,16:00,4
+98,41.69,-87.6,Accident,Minor,05:00,1
+99,41.69,-87.6,Accident,Minor,12:00,2
+100,41.69,-87.6,Hazard,Road Hazards,05:00,30
+101,41.69,-87.6,Hazard,Road Hazards,06:00,23
+102,41.69,-87.6,Hazard,Road Hazards,07:00,22
+103,41.69,-87.6,Hazard,Road Hazards,08:00,20
+104,41.69,-87.6,Hazard,Road Hazards,10:00,69
+105,41.69,-87.6,Hazard,Unclassified,03:00,4
+106,41.69,-87.6,Hazard,Weather Hazards,00:00,4
+107,41.69,-87.6,Hazard,Weather Hazards,01:00,3
+108,41.69,-87.6,Hazard,Weather Hazards,06:00,2
+109,41.69,-87.6,Hazard,Weather Hazards,09:00,4
+110,41.69,-87.6,Hazard,Weather Hazards,11:00,11
+111,41.69,-87.6,Hazard,Weather Hazards,18:00,5
+112,41.69,-87.6,Hazard,Weather Hazards,19:00,7
+113,41.69,-87.6,Hazard,Weather Hazards,21:00,12
+114,41.69,-87.6,Hazard,Weather Hazards,23:00,3
+115,41.69,-87.6,Jam,Heavy Traffic,07:00,1
+116,41.69,-87.6,Jam,Heavy Traffic,09:00,4
+117,41.69,-87.6,Jam,Moderate Traffic,11:00,2
+118,41.69,-87.6,Jam,Stand Still Traffic,05:00,9
+119,41.69,-87.6,Jam,Stand Still Traffic,09:00,2
+120,41.69,-87.6,Jam,Stand Still Traffic,10:00,37
+121,41.69,-87.6,Jam,Unclassified,07:00,2
+122,41.69,-87.6,Road Closures,Event-Related Closure,00:00,218
+123,41.69,-87.6,Road Closures,Event-Related Closure,01:00,214
+124,41.69,-87.6,Road Closures,Event-Related Closure,02:00,195
+125,41.69,-87.6,Road Closures,Event-Related Closure,03:00,186
+126,41.69,-87.6,Road Closures,Event-Related Closure,04:00,219
+127,41.69,-87.6,Road Closures,Event-Related Closure,05:00,220
+128,41.69,-87.6,Road Closures,Event-Related Closure,06:00,199
+129,41.69,-87.6,Road Closures,Event-Related Closure,07:00,185
+130,41.69,-87.6,Road Closures,Event-Related Closure,08:00,219
+131,41.69,-87.6,Road Closures,Event-Related Closure,09:00,218
+132,41.69,-87.6,Road Closures,Event-Related Closure,10:00,192
+133,41.69,-87.6,Road Closures,Event-Related Closure,11:00,184
+134,41.69,-87.6,Road Closures,Event-Related Closure,12:00,216
+135,41.69,-87.6,Road Closures,Event-Related Closure,13:00,220
+136,41.69,-87.6,Road Closures,Event-Related Closure,14:00,200
+137,41.69,-87.6,Road Closures,Event-Related Closure,15:00,190
+138,41.69,-87.6,Road Closures,Event-Related Closure,16:00,223
+139,41.69,-87.6,Road Closures,Event-Related Closure,17:00,222
+140,41.69,-87.6,Road Closures,Event-Related Closure,18:00,202
+141,41.69,-87.6,Road Closures,Event-Related Closure,19:00,200
+142,41.69,-87.6,Road Closures,Event-Related Closure,20:00,236
+143,41.69,-87.6,Road Closures,Event-Related Closure,21:00,229
+144,41.69,-87.6,Road Closures,Event-Related Closure,22:00,194
+145,41.69,-87.6,Road Closures,Event-Related Closure,23:00,183
+146,41.7,-87.72,Hazard,Unclassified,15:00,3
+147,41.7,-87.68,Road Closures,Event-Related Closure,17:00,20
+148,41.7,-87.6,Hazard,Weather Hazards,08:00,2
+149,41.7,-87.6,Hazard,Weather Hazards,17:00,3
+150,41.7,-87.6,Jam,Heavy Traffic,08:00,1
+151,41.7,-87.6,Jam,Moderate Traffic,10:00,1
+152,41.7,-87.6,Jam,Unclassified,09:00,2
+153,41.7,-87.59,Accident,Major,08:00,3
+154,41.7,-87.59,Hazard,Unclassified,11:00,3
+155,41.7,-87.59,Hazard,Weather Hazards,07:00,5
+156,41.7,-87.59,Hazard,Weather Hazards,08:00,3
+157,41.7,-87.59,Hazard,Weather Hazards,09:00,4
+158,41.7,-87.59,Jam,Heavy Traffic,05:00,10
+159,41.7,-87.59,Jam,Heavy Traffic,06:00,4
+160,41.7,-87.59,Jam,Heavy Traffic,10:00,69
+161,41.7,-87.59,Jam,Moderate Traffic,10:00,1
+162,41.7,-87.59,Jam,Stand Still Traffic,08:00,1
+163,41.7,-87.59,Jam,Stand Still Traffic,10:00,18
+164,41.7,-87.59,Jam,Unclassified,06:00,2
+165,41.7,-87.59,Jam,Unclassified,09:00,3
+166,41.71,-87.66,Road Closures,Unclassified,10:00,2
+167,41.71,-87.65,Hazard,Weather Hazards,02:00,2
+168,41.71,-87.64,Road Closures,Event-Related Closure,00:00,215
+169,41.71,-87.64,Road Closures,Event-Related Closure,01:00,214
+170,41.71,-87.64,Road Closures,Event-Related Closure,02:00,190
+171,41.71,-87.64,Road Closures,Event-Related Closure,03:00,191
+172,41.71,-87.64,Road Closures,Event-Related Closure,04:00,220
+173,41.71,-87.64,Road Closures,Event-Related Closure,05:00,220
+174,41.71,-87.64,Road Closures,Event-Related Closure,06:00,194
+175,41.71,-87.64,Road Closures,Event-Related Closure,07:00,188
+176,41.71,-87.64,Road Closures,Event-Related Closure,08:00,219
+177,41.71,-87.64,Road Closures,Event-Related Closure,09:00,218
+178,41.71,-87.64,Road Closures,Event-Related Closure,10:00,190
+179,41.71,-87.64,Road Closures,Event-Related Closure,11:00,189
+180,41.71,-87.64,Road Closures,Event-Related Closure,12:00,215
+181,41.71,-87.64,Road Closures,Event-Related Closure,13:00,218
+182,41.71,-87.64,Road Closures,Event-Related Closure,14:00,193
+183,41.71,-87.64,Road Closures,Event-Related Closure,15:00,194
+184,41.71,-87.64,Road Closures,Event-Related Closure,16:00,222
+185,41.71,-87.64,Road Closures,Event-Related Closure,17:00,221
+186,41.71,-87.64,Road Closures,Event-Related Closure,18:00,197
+187,41.71,-87.64,Road Closures,Event-Related Closure,19:00,202
+188,41.71,-87.64,Road Closures,Event-Related Closure,20:00,229
+189,41.71,-87.64,Road Closures,Event-Related Closure,21:00,227
+190,41.71,-87.64,Road Closures,Event-Related Closure,22:00,190
+191,41.71,-87.64,Road Closures,Event-Related Closure,23:00,191
+192,41.71,-87.64,Road Closures,Unclassified,02:00,11
+193,41.71,-87.62,Jam,Moderate Traffic,23:00,4
+194,41.71,-87.62,Jam,Stand Still Traffic,08:00,1
+195,41.71,-87.62,Jam,Unclassified,06:00,2
+196,41.71,-87.61,Accident,Major,00:00,7
+197,41.71,-87.61,Accident,Major,11:00,5
+198,41.71,-87.61,Accident,Major,12:00,5
+199,41.71,-87.61,Accident,Major,13:00,9
+200,41.71,-87.61,Accident,Major,18:00,9
+201,41.71,-87.61,Accident,Minor,09:00,2
+202,41.71,-87.61,Accident,Minor,12:00,2
+203,41.71,-87.61,Hazard,Shoulder Hazards,01:00,103
+204,41.71,-87.61,Hazard,Shoulder Hazards,02:00,94
+205,41.71,-87.61,Hazard,Shoulder Hazards,05:00,38
+206,41.71,-87.61,Hazard,Shoulder Hazards,06:00,31
+207,41.71,-87.61,Hazard,Shoulder Hazards,07:00,35
+208,41.71,-87.61,Hazard,Shoulder Hazards,08:00,43
+209,41.71,-87.61,Hazard,Shoulder Hazards,09:00,36
+210,41.71,-87.61,Hazard,Shoulder Hazards,10:00,95
+211,41.71,-87.61,Hazard,Shoulder Hazards,11:00,88
+212,41.71,-87.61,Jam,Moderate Traffic,03:00,1
+213,41.71,-87.61,Jam,Moderate Traffic,15:00,4
+214,41.71,-87.61,Jam,Stand Still Traffic,10:00,21
+215,41.71,-87.61,Jam,Unclassified,10:00,20
+216,41.71,-87.61,Road Closures,Unclassified,10:00,1
+217,41.71,-87.6,Accident,Minor,18:00,3
+218,41.71,-87.6,Accident,Unclassified,10:00,7
+219,41.71,-87.6,Hazard,Weather Hazards,14:00,3
+220,41.71,-87.6,Jam,Heavy Traffic,06:00,4
+221,41.71,-87.6,Jam,Heavy Traffic,07:00,1
+222,41.71,-87.6,Jam,Heavy Traffic,10:00,59
+223,41.71,-87.6,Jam,Moderate Traffic,04:00,1
+224,41.71,-87.6,Jam,Moderate Traffic,09:00,1
+225,41.71,-87.6,Jam,Stand Still Traffic,10:00,18
+226,41.71,-87.59,Accident,Major,14:00,5
+227,41.71,-87.59,Accident,Minor,11:00,1
+228,41.71,-87.59,Accident,Minor,12:00,2
+229,41.71,-87.59,Accident,Unclassified,05:00,5
+230,41.71,-87.59,Hazard,Road Hazards,11:00,52
+231,41.71,-87.59,Hazard,Unclassified,11:00,3
+232,41.71,-87.59,Hazard,Weather Hazards,05:00,3
+233,41.71,-87.59,Hazard,Weather Hazards,07:00,10
+234,41.71,-87.59,Hazard,Weather Hazards,14:00,5
+235,41.71,-87.59,Hazard,Weather Hazards,22:00,4
+236,41.71,-87.59,Jam,Heavy Traffic,07:00,2
+237,41.71,-87.59,Jam,Stand Still Traffic,06:00,5
+238,41.71,-87.58,Road Closures,Unclassified,06:00,3
+239,41.71,-87.58,Road Closures,Unclassified,07:00,1
+240,41.71,-87.58,Road Closures,Unclassified,09:00,1
+241,41.72,-87.67,Hazard,Unclassified,22:00,2
+242,41.72,-87.64,Hazard,Weather Hazards,03:00,3
+243,41.72,-87.63,Accident,Major,06:00,4
+244,41.72,-87.63,Jam,Moderate Traffic,11:00,5
+245,41.72,-87.62,Accident,Major,09:00,3
+246,41.72,-87.62,Accident,Major,11:00,5
+247,41.72,-87.62,Accident,Minor,06:00,1
+248,41.72,-87.62,Accident,Unclassified,02:00,9
+249,41.72,-87.62,Hazard,Shoulder Hazards,04:00,55
+250,41.72,-87.62,Hazard,Shoulder Hazards,08:00,28
+251,41.72,-87.62,Hazard,Shoulder Hazards,10:00,64
+252,41.72,-87.62,Jam,Heavy Traffic,10:00,68
+253,41.72,-87.62,Jam,Moderate Traffic,10:00,1
+254,41.72,-87.62,Jam,Moderate Traffic,11:00,4
+255,41.72,-87.62,Jam,Moderate Traffic,16:00,3
+256,41.72,-87.62,Jam,Moderate Traffic,23:00,4
+257,41.72,-87.62,Jam,Unclassified,10:00,20
+258,41.72,-87.6,Hazard,Unclassified,18:00,3
+259,41.73,-87.62,Accident,Major,06:00,4
+260,41.73,-87.62,Accident,Major,09:00,2
+261,41.73,-87.62,Accident,Major,10:00,5
+262,41.73,-87.62,Accident,Major,14:00,5
+263,41.73,-87.62,Accident,Major,21:00,9
+264,41.73,-87.62,Accident,Minor,08:00,1
+265,41.73,-87.62,Accident,Minor,12:00,3
+266,41.73,-87.62,Accident,Minor,13:00,4
+267,41.73,-87.62,Accident,Minor,23:00,3
+268,41.73,-87.62,Accident,Unclassified,07:00,7
+269,41.73,-87.62,Accident,Unclassified,10:00,8
+270,41.73,-87.62,Accident,Unclassified,11:00,10
+271,41.73,-87.62,Hazard,Shoulder Hazards,03:00,69
+272,41.73,-87.62,Hazard,Shoulder Hazards,11:00,99
+273,41.73,-87.62,Hazard,Weather Hazards,03:00,3
+274,41.73,-87.62,Jam,Heavy Traffic,07:00,2
+275,41.73,-87.62,Jam,Heavy Traffic,10:00,82
+276,41.73,-87.62,Jam,Moderate Traffic,10:00,2
+277,41.73,-87.62,Jam,Moderate Traffic,11:00,4
+278,41.73,-87.62,Jam,Stand Still Traffic,08:00,2
+279,41.73,-87.62,Jam,Stand Still Traffic,09:00,3
+280,41.73,-87.62,Jam,Unclassified,10:00,22
+281,41.74,-87.66,Jam,Moderate Traffic,06:00,1
+282,41.74,-87.64,Accident,Minor,04:00,1
+283,41.74,-87.64,Road Closures,Unclassified,09:00,1
+284,41.74,-87.63,Accident,Minor,17:00,2
+285,41.74,-87.63,Hazard,Weather Hazards,19:00,5
+286,41.74,-87.63,Hazard,Weather Hazards,20:00,4
+287,41.74,-87.63,Jam,Moderate Traffic,03:00,1
+288,41.74,-87.62,Accident,Major,07:00,4
+289,41.74,-87.62,Accident,Minor,08:00,1
+290,41.74,-87.62,Hazard,Unclassified,12:00,3
+291,41.74,-87.62,Hazard,Weather Hazards,23:00,4
+292,41.74,-87.62,Jam,Moderate Traffic,10:00,1
+293,41.74,-87.62,Jam,Moderate Traffic,11:00,4
+294,41.74,-87.62,Jam,Stand Still Traffic,10:00,24
+295,41.74,-87.62,Jam,Unclassified,10:00,22
+296,41.74,-87.62,Road Closures,Event-Related Closure,08:00,2
+297,41.74,-87.62,Road Closures,Event-Related Closure,09:00,2
+298,41.74,-87.58,Road Closures,Construction,18:00,1
+299,41.74,-87.57,Hazard,Unclassified,18:00,3
+300,41.74,-87.57,Hazard,Unclassified,21:00,2
+301,41.75,-87.71,Hazard,Weather Hazards,07:00,3
+302,41.75,-87.7,Jam,Unclassified,07:00,4
+303,41.75,-87.7,Jam,Unclassified,08:00,2
+304,41.75,-87.68,Hazard,Unclassified,18:00,6
+305,41.75,-87.67,Hazard,Unclassified,19:00,12
+306,41.75,-87.66,Road Closures,Unclassified,09:00,1
+307,41.75,-87.65,Hazard,Unclassified,19:00,8
+308,41.75,-87.65,Road Closures,Unclassified,08:00,1
+309,41.75,-87.63,Accident,Major,08:00,3
+310,41.75,-87.63,Hazard,Unclassified,07:00,5
+311,41.75,-87.63,Hazard,Unclassified,19:00,8
+312,41.75,-87.63,Jam,Unclassified,08:00,2
+313,41.75,-87.62,Accident,Minor,23:00,3
+314,41.75,-87.62,Jam,Heavy Traffic,08:00,2
+315,41.75,-87.62,Jam,Moderate Traffic,04:00,1
+316,41.75,-87.62,Jam,Moderate Traffic,10:00,1
+317,41.75,-87.62,Jam,Moderate Traffic,11:00,3
+318,41.75,-87.62,Jam,Moderate Traffic,15:00,4
+319,41.75,-87.6,Hazard,Weather Hazards,06:00,3
+320,41.75,-87.59,Accident,Minor,13:00,4
+321,41.76,-87.71,Road Closures,Hazard-Related Closure,22:00,1
+322,41.76,-87.63,Accident,Major,00:00,5
+323,41.76,-87.63,Accident,Major,12:00,6
+324,41.76,-87.63,Accident,Major,18:00,9
+325,41.76,-87.63,Accident,Major,19:00,14
+326,41.76,-87.63,Accident,Unclassified,00:00,17
+327,41.76,-87.63,Accident,Unclassified,07:00,5
+328,41.76,-87.63,Accident,Unclassified,08:00,5
+329,41.76,-87.63,Accident,Unclassified,09:00,6
+330,41.76,-87.63,Accident,Unclassified,18:00,17
+331,41.76,-87.63,Hazard,Shoulder Hazards,06:00,30
+332,41.76,-87.63,Hazard,Weather Hazards,20:00,7
+333,41.76,-87.63,Jam,Moderate Traffic,10:00,1
+334,41.76,-87.63,Jam,Unclassified,10:00,19
+335,41.76,-87.58,Accident,Minor,16:00,2
+336,41.77,-87.69,Hazard,Weather Hazards,02:00,3
+337,41.77,-87.68,Road Closures,Construction,21:00,1
+338,41.77,-87.68,Road Closures,Construction,23:00,1
+339,41.77,-87.68,Road Closures,Hazard-Related Closure,15:00,1
+340,41.77,-87.68,Road Closures,Unclassified,20:00,28
+341,41.77,-87.68,Road Closures,Unclassified,22:00,28
+342,41.77,-87.63,Accident,Major,05:00,8
+343,41.77,-87.63,Accident,Major,07:00,10
+344,41.77,-87.63,Accident,Major,08:00,7
+345,41.77,-87.63,Accident,Minor,10:00,1
+346,41.77,-87.63,Accident,Minor,17:00,2
+347,41.77,-87.63,Hazard,Road Hazards,08:00,17
+348,41.77,-87.63,Hazard,Unclassified,14:00,2
+349,41.77,-87.63,Hazard,Weather Hazards,08:00,2
+350,41.77,-87.63,Jam,Moderate Traffic,04:00,1
+351,41.77,-87.61,Road Closures,Construction,21:00,1
+352,41.77,-87.61,Road Closures,Unclassified,20:00,25
+353,41.77,-87.61,Road Closures,Unclassified,21:00,31
+354,41.77,-87.61,Road Closures,Unclassified,22:00,38
+355,41.77,-87.58,Accident,Minor,05:00,1
+356,41.78,-87.76,Hazard,Unclassified,04:00,5
+357,41.78,-87.76,Hazard,Unclassified,06:00,3
+358,41.78,-87.76,Hazard,Weather Hazards,23:00,3
+359,41.78,-87.75,Hazard,Unclassified,04:00,6
+360,41.78,-87.74,Hazard,Unclassified,06:00,7
+361,41.78,-87.74,Hazard,Unclassified,07:00,3
+362,41.78,-87.74,Hazard,Weather Hazards,01:00,4
+363,41.78,-87.72,Accident,Minor,05:00,1
+364,41.78,-87.68,Hazard,Unclassified,17:00,2
+365,41.78,-87.63,Accident,Major,00:00,6
+366,41.78,-87.63,Accident,Major,01:00,12
+367,41.78,-87.63,Accident,Major,03:00,9
+368,41.78,-87.63,Accident,Major,05:00,5
+369,41.78,-87.63,Accident,Major,06:00,7
+370,41.78,-87.63,Accident,Major,07:00,11
+371,41.78,-87.63,Accident,Major,19:00,17
+372,41.78,-87.63,Accident,Major,21:00,11
+373,41.78,-87.63,Accident,Major,22:00,9
+374,41.78,-87.63,Accident,Major,23:00,7
+375,41.78,-87.63,Accident,Minor,00:00,4
+376,41.78,-87.63,Accident,Minor,02:00,2
+377,41.78,-87.63,Accident,Minor,05:00,1
+378,41.78,-87.63,Accident,Minor,10:00,1
+379,41.78,-87.63,Accident,Minor,22:00,3
+380,41.78,-87.63,Accident,Unclassified,06:00,5
+381,41.78,-87.63,Accident,Unclassified,07:00,10
+382,41.78,-87.63,Accident,Unclassified,08:00,5
+383,41.78,-87.63,Accident,Unclassified,09:00,10
+384,41.78,-87.63,Accident,Unclassified,10:00,7
+385,41.78,-87.63,Accident,Unclassified,19:00,23
+386,41.78,-87.63,Hazard,Road Hazards,08:00,17
+387,41.78,-87.63,Hazard,Road Hazards,10:00,39
+388,41.78,-87.63,Hazard,Shoulder Hazards,09:00,31
+389,41.78,-87.63,Hazard,Shoulder Hazards,19:00,179
+390,41.78,-87.63,Hazard,Shoulder Hazards,20:00,195
+391,41.78,-87.63,Hazard,Shoulder Hazards,21:00,189
+392,41.78,-87.63,Hazard,Shoulder Hazards,22:00,202
+393,41.78,-87.63,Hazard,Unclassified,11:00,5
+394,41.78,-87.63,Hazard,Unclassified,12:00,3
+395,41.78,-87.63,Hazard,Unclassified,13:00,4
+396,41.78,-87.63,Hazard,Unclassified,23:00,4
+397,41.78,-87.63,Hazard,Weather Hazards,19:00,7
+398,41.78,-87.63,Hazard,Weather Hazards,20:00,5
+399,41.78,-87.63,Hazard,Weather Hazards,22:00,5
+400,41.78,-87.63,Jam,Moderate Traffic,03:00,1
+401,41.78,-87.63,Jam,Moderate Traffic,14:00,5
+402,41.78,-87.63,Jam,Stand Still Traffic,08:00,4
+403,41.78,-87.58,Hazard,Weather Hazards,08:00,3
+404,41.78,-87.58,Hazard,Weather Hazards,11:00,9
+405,41.78,-87.57,Accident,Minor,14:00,3
+406,41.79,-87.79,Hazard,Unclassified,17:00,8
+407,41.79,-87.78,Accident,Minor,08:00,1
+408,41.79,-87.76,Hazard,Unclassified,04:00,5
+409,41.79,-87.76,Hazard,Unclassified,08:00,3
+410,41.79,-87.76,Hazard,Unclassified,09:00,3
+411,41.79,-87.75,Hazard,Unclassified,09:00,4
+412,41.79,-87.74,Accident,Minor,03:00,2
+413,41.79,-87.74,Hazard,Unclassified,08:00,6
+414,41.79,-87.74,Hazard,Weather Hazards,09:00,3
+415,41.79,-87.74,Jam,Moderate Traffic,03:00,1
+416,41.79,-87.68,Hazard,Unclassified,18:00,3
+417,41.79,-87.68,Hazard,Weather Hazards,17:00,3
+418,41.79,-87.63,Accident,Major,02:00,5
+419,41.79,-87.63,Accident,Major,04:00,7
+420,41.79,-87.63,Accident,Major,05:00,6
+421,41.79,-87.63,Accident,Major,07:00,5
+422,41.79,-87.63,Accident,Major,09:00,3
+423,41.79,-87.63,Accident,Major,15:00,6
+424,41.79,-87.63,Accident,Major,16:00,6
+425,41.79,-87.63,Accident,Major,17:00,7
+426,41.79,-87.63,Accident,Major,18:00,7
+427,41.79,-87.63,Accident,Major,21:00,12
+428,41.79,-87.63,Accident,Major,22:00,9
+429,41.79,-87.63,Accident,Major,23:00,11
+430,41.79,-87.63,Accident,Minor,00:00,3
+431,41.79,-87.63,Accident,Minor,03:00,2
+432,41.79,-87.63,Accident,Minor,10:00,1
+433,41.79,-87.63,Accident,Minor,22:00,4
+434,41.79,-87.63,Accident,Minor,23:00,5
+435,41.79,-87.63,Accident,Unclassified,05:00,10
+436,41.79,-87.63,Accident,Unclassified,06:00,6
+437,41.79,-87.63,Accident,Unclassified,09:00,5
+438,41.79,-87.63,Accident,Unclassified,19:00,25
+439,41.79,-87.63,Accident,Unclassified,22:00,32
+440,41.79,-87.63,Accident,Unclassified,23:00,23
+441,41.79,-87.63,Hazard,Shoulder Hazards,02:00,90
+442,41.79,-87.63,Hazard,Shoulder Hazards,03:00,71
+443,41.79,-87.63,Hazard,Shoulder Hazards,08:00,31
+444,41.79,-87.63,Hazard,Shoulder Hazards,12:00,137
+445,41.79,-87.63,Hazard,Shoulder Hazards,13:00,148
+446,41.79,-87.63,Hazard,Shoulder Hazards,14:00,158
+447,41.79,-87.63,Hazard,Shoulder Hazards,16:00,139
+448,41.79,-87.63,Hazard,Shoulder Hazards,17:00,169
+449,41.79,-87.63,Hazard,Shoulder Hazards,18:00,168
+450,41.79,-87.63,Hazard,Shoulder Hazards,19:00,190
+451,41.79,-87.63,Hazard,Shoulder Hazards,20:00,236
+452,41.79,-87.63,Hazard,Shoulder Hazards,21:00,233
+453,41.79,-87.63,Hazard,Shoulder Hazards,22:00,251
+454,41.79,-87.63,Hazard,Shoulder Hazards,23:00,172
+455,41.79,-87.63,Hazard,Unclassified,03:00,4
+456,41.79,-87.63,Hazard,Unclassified,06:00,4
+457,41.79,-87.63,Hazard,Unclassified,11:00,2
+458,41.79,-87.63,Hazard,Unclassified,13:00,4
+459,41.79,-87.63,Hazard,Weather Hazards,21:00,5
+460,41.79,-87.63,Jam,Heavy Traffic,06:00,4
+461,41.79,-87.63,Jam,Heavy Traffic,07:00,1
+462,41.79,-87.63,Jam,Moderate Traffic,05:00,1
+463,41.79,-87.63,Jam,Stand Still Traffic,07:00,4
+464,41.79,-87.63,Jam,Stand Still Traffic,09:00,2
+465,41.79,-87.63,Jam,Unclassified,06:00,4
+466,41.79,-87.63,Jam,Unclassified,07:00,2
+467,41.79,-87.6,Road Closures,Unclassified,11:00,4
+468,41.79,-87.58,Accident,Minor,01:00,2
+469,41.79,-87.58,Accident,Unclassified,06:00,4
+470,41.79,-87.58,Jam,Moderate Traffic,02:00,2
+471,41.8,-87.76,Accident,Minor,18:00,2
+472,41.8,-87.66,Hazard,Road Hazards,20:00,89
+473,41.8,-87.63,Accident,Major,03:00,7
+474,41.8,-87.63,Accident,Major,04:00,10
+475,41.8,-87.63,Accident,Major,05:00,5
+476,41.8,-87.63,Accident,Major,06:00,5
+477,41.8,-87.63,Accident,Minor,07:00,1
+478,41.8,-87.63,Accident,Minor,08:00,1
+479,41.8,-87.63,Accident,Minor,11:00,2
+480,41.8,-87.63,Accident,Unclassified,07:00,7
+481,41.8,-87.63,Accident,Unclassified,08:00,4
+482,41.8,-87.63,Hazard,Road Hazards,09:00,21
+483,41.8,-87.63,Hazard,Shoulder Hazards,00:00,153
+484,41.8,-87.63,Hazard,Shoulder Hazards,01:00,96
+485,41.8,-87.63,Hazard,Shoulder Hazards,06:00,31
+486,41.8,-87.63,Hazard,Shoulder Hazards,08:00,28
+487,41.8,-87.63,Hazard,Shoulder Hazards,10:00,68
+488,41.8,-87.63,Hazard,Shoulder Hazards,11:00,103
+489,41.8,-87.63,Hazard,Shoulder Hazards,12:00,126
+490,41.8,-87.63,Hazard,Shoulder Hazards,13:00,151
+491,41.8,-87.63,Hazard,Shoulder Hazards,14:00,175
+492,41.8,-87.63,Hazard,Shoulder Hazards,15:00,168
+493,41.8,-87.63,Hazard,Shoulder Hazards,16:00,152
+494,41.8,-87.63,Hazard,Shoulder Hazards,17:00,154
+495,41.8,-87.63,Hazard,Shoulder Hazards,18:00,201
+496,41.8,-87.63,Hazard,Shoulder Hazards,19:00,174
+497,41.8,-87.63,Hazard,Shoulder Hazards,21:00,199
+498,41.8,-87.63,Hazard,Shoulder Hazards,22:00,205
+499,41.8,-87.63,Hazard,Shoulder Hazards,23:00,195
+500,41.8,-87.63,Hazard,Unclassified,08:00,3
+501,41.8,-87.63,Hazard,Unclassified,12:00,5
+502,41.8,-87.63,Hazard,Unclassified,13:00,4
+503,41.8,-87.58,Accident,Minor,02:00,2
+504,41.81,-87.76,Accident,Minor,10:00,1
+505,41.81,-87.74,Hazard,Weather Hazards,01:00,3
+506,41.81,-87.74,Jam,Heavy Traffic,09:00,2
+507,41.81,-87.63,Accident,Major,02:00,9
+508,41.81,-87.63,Accident,Major,03:00,9
+509,41.81,-87.63,Accident,Major,04:00,6
+510,41.81,-87.63,Accident,Major,05:00,8
+511,41.81,-87.63,Accident,Major,07:00,6
+512,41.81,-87.63,Accident,Major,08:00,7
+513,41.81,-87.63,Accident,Major,09:00,11
+514,41.81,-87.63,Accident,Major,10:00,4
+515,41.81,-87.63,Accident,Major,13:00,6
+516,41.81,-87.63,Accident,Major,14:00,8
+517,41.81,-87.63,Accident,Major,18:00,11
+518,41.81,-87.63,Accident,Major,20:00,12
+519,41.81,-87.63,Accident,Major,22:00,12
+520,41.81,-87.63,Accident,Minor,02:00,2
+521,41.81,-87.63,Accident,Minor,04:00,2
+522,41.81,-87.63,Accident,Minor,07:00,1
+523,41.81,-87.63,Accident,Minor,10:00,1
+524,41.81,-87.63,Accident,Minor,15:00,5
+525,41.81,-87.63,Accident,Unclassified,03:00,11
+526,41.81,-87.63,Accident,Unclassified,04:00,11
+527,41.81,-87.63,Accident,Unclassified,05:00,9
+528,41.81,-87.63,Accident,Unclassified,07:00,10
+529,41.81,-87.63,Accident,Unclassified,08:00,5
+530,41.81,-87.63,Accident,Unclassified,09:00,8
+531,41.81,-87.63,Accident,Unclassified,10:00,9
+532,41.81,-87.63,Accident,Unclassified,11:00,19
+533,41.81,-87.63,Accident,Unclassified,12:00,15
+534,41.81,-87.63,Accident,Unclassified,13:00,20
+535,41.81,-87.63,Accident,Unclassified,14:00,23
+536,41.81,-87.63,Accident,Unclassified,20:00,27
+537,41.81,-87.63,Accident,Unclassified,21:00,28
+538,41.81,-87.63,Hazard,Road Hazards,02:00,54
+539,41.81,-87.63,Hazard,Road Hazards,03:00,52
+540,41.81,-87.63,Hazard,Road Hazards,04:00,34
+541,41.81,-87.63,Hazard,Road Hazards,05:00,40
+542,41.81,-87.63,Hazard,Road Hazards,06:00,56
+543,41.81,-87.63,Hazard,Road Hazards,07:00,50
+544,41.81,-87.63,Hazard,Road Hazards,08:00,27
+545,41.81,-87.63,Hazard,Road Hazards,09:00,38
+546,41.81,-87.63,Hazard,Road Hazards,10:00,35
+547,41.81,-87.63,Hazard,Road Hazards,11:00,54
+548,41.81,-87.63,Hazard,Road Hazards,14:00,81
+549,41.81,-87.63,Hazard,Road Hazards,15:00,77
+550,41.81,-87.63,Hazard,Road Hazards,16:00,71
+551,41.81,-87.63,Hazard,Shoulder Hazards,04:00,55
+552,41.81,-87.63,Hazard,Shoulder Hazards,05:00,46
+553,41.81,-87.63,Hazard,Shoulder Hazards,06:00,30
+554,41.81,-87.63,Hazard,Shoulder Hazards,07:00,27
+555,41.81,-87.63,Hazard,Shoulder Hazards,10:00,67
+556,41.81,-87.63,Hazard,Shoulder Hazards,11:00,104
+557,41.81,-87.63,Hazard,Shoulder Hazards,12:00,137
+558,41.81,-87.63,Hazard,Shoulder Hazards,13:00,164
+559,41.81,-87.63,Hazard,Shoulder Hazards,14:00,165
+560,41.81,-87.63,Hazard,Shoulder Hazards,15:00,155
+561,41.81,-87.63,Hazard,Shoulder Hazards,16:00,143
+562,41.81,-87.63,Hazard,Shoulder Hazards,20:00,201
+563,41.81,-87.63,Hazard,Shoulder Hazards,21:00,190
+564,41.81,-87.63,Hazard,Shoulder Hazards,22:00,179
+565,41.81,-87.63,Hazard,Unclassified,01:00,4
+566,41.81,-87.63,Hazard,Unclassified,02:00,8
+567,41.81,-87.63,Hazard,Unclassified,05:00,5
+568,41.81,-87.63,Hazard,Unclassified,07:00,3
+569,41.81,-87.63,Hazard,Unclassified,11:00,3
+570,41.81,-87.63,Hazard,Unclassified,13:00,7
+571,41.81,-87.63,Hazard,Unclassified,14:00,3
+572,41.81,-87.63,Hazard,Weather Hazards,14:00,3
+573,41.81,-87.63,Jam,Heavy Traffic,11:00,114
+574,41.81,-87.59,Hazard,Weather Hazards,12:00,5
+575,41.81,-87.59,Hazard,Weather Hazards,13:00,5
+576,41.81,-87.59,Road Closures,Construction,23:00,1
+577,41.82,-87.74,Accident,Major,14:00,5
+578,41.82,-87.74,Accident,Major,15:00,5
+579,41.82,-87.74,Accident,Minor,00:00,4
+580,41.82,-87.74,Accident,Minor,08:00,1
+581,41.82,-87.74,Accident,Minor,09:00,1
+582,41.82,-87.74,Accident,Minor,11:00,2
+583,41.82,-87.74,Accident,Minor,20:00,3
+584,41.82,-87.74,Accident,Unclassified,05:00,7
+585,41.82,-87.74,Accident,Unclassified,06:00,5
+586,41.82,-87.74,Accident,Unclassified,08:00,4
+587,41.82,-87.74,Accident,Unclassified,13:00,21
+588,41.82,-87.74,Accident,Unclassified,15:00,13
+589,41.82,-87.74,Hazard,Road Hazards,00:00,53
+590,41.82,-87.74,Hazard,Road Hazards,11:00,55
+591,41.82,-87.74,Hazard,Road Hazards,12:00,75
+592,41.82,-87.74,Hazard,Road Hazards,14:00,93
+593,41.82,-87.74,Hazard,Road Hazards,16:00,75
+594,41.82,-87.74,Hazard,Road Hazards,17:00,81
+595,41.82,-87.74,Hazard,Road Hazards,18:00,70
+596,41.82,-87.74,Hazard,Road Hazards,19:00,94
+597,41.82,-87.74,Hazard,Road Hazards,20:00,91
+598,41.82,-87.74,Hazard,Road Hazards,22:00,71
+599,41.82,-87.74,Hazard,Shoulder Hazards,08:00,26
+600,41.82,-87.74,Hazard,Weather Hazards,00:00,4
+601,41.82,-87.74,Hazard,Weather Hazards,01:00,4
+602,41.82,-87.74,Hazard,Weather Hazards,03:00,4
+603,41.82,-87.74,Hazard,Weather Hazards,04:00,4
+604,41.82,-87.74,Hazard,Weather Hazards,06:00,3
+605,41.82,-87.74,Hazard,Weather Hazards,07:00,4
+606,41.82,-87.74,Hazard,Weather Hazards,09:00,2
+607,41.82,-87.74,Jam,Heavy Traffic,07:00,1
+608,41.82,-87.74,Jam,Heavy Traffic,09:00,3
+609,41.82,-87.74,Jam,Heavy Traffic,10:00,56
+610,41.82,-87.74,Jam,Moderate Traffic,08:00,1
+611,41.82,-87.74,Jam,Moderate Traffic,11:00,4
+612,41.82,-87.74,Jam,Moderate Traffic,19:00,13
+613,41.82,-87.74,Jam,Moderate Traffic,22:00,7
+614,41.82,-87.74,Jam,Stand Still Traffic,10:00,34
+615,41.82,-87.74,Jam,Unclassified,09:00,2
+616,41.82,-87.74,Jam,Unclassified,11:00,31
+617,41.82,-87.74,Jam,Unclassified,16:00,37
+618,41.82,-87.74,Jam,Unclassified,18:00,40
+619,41.82,-87.73,Accident,Minor,07:00,1
+620,41.82,-87.73,Hazard,Shoulder Hazards,04:00,54
+621,41.82,-87.73,Hazard,Shoulder Hazards,10:00,69
+622,41.82,-87.73,Hazard,Shoulder Hazards,11:00,91
+623,41.82,-87.73,Hazard,Shoulder Hazards,12:00,132
+624,41.82,-87.73,Hazard,Shoulder Hazards,17:00,166
+625,41.82,-87.73,Hazard,Shoulder Hazards,18:00,170
+626,41.82,-87.73,Hazard,Shoulder Hazards,19:00,197
+627,41.82,-87.73,Jam,Moderate Traffic,00:00,6
+628,41.82,-87.73,Jam,Moderate Traffic,01:00,4
+629,41.82,-87.73,Jam,Moderate Traffic,06:00,1
+630,41.82,-87.73,Jam,Moderate Traffic,12:00,9
+631,41.82,-87.73,Jam,Moderate Traffic,16:00,7
+632,41.82,-87.73,Jam,Moderate Traffic,18:00,7
+633,41.82,-87.73,Jam,Unclassified,11:00,32
+634,41.82,-87.72,Accident,Major,19:00,11
+635,41.82,-87.72,Accident,Minor,07:00,1
+636,41.82,-87.72,Accident,Minor,12:00,3
+637,41.82,-87.72,Hazard,Unclassified,07:00,3
+638,41.82,-87.72,Hazard,Weather Hazards,05:00,4
+639,41.82,-87.72,Hazard,Weather Hazards,09:00,2
+640,41.82,-87.63,Accident,Major,04:00,5
+641,41.82,-87.63,Accident,Major,06:00,7
+642,41.82,-87.63,Accident,Major,10:00,3
+643,41.82,-87.63,Accident,Major,11:00,8
+644,41.82,-87.63,Accident,Major,13:00,9
+645,41.82,-87.63,Accident,Major,16:00,6
+646,41.82,-87.63,Accident,Minor,06:00,2
+647,41.82,-87.63,Accident,Minor,12:00,4
+648,41.82,-87.63,Accident,Minor,21:00,4
+649,41.82,-87.63,Accident,Unclassified,05:00,9
+650,41.82,-87.63,Accident,Unclassified,10:00,9
+651,41.82,-87.63,Accident,Unclassified,11:00,16
+652,41.82,-87.63,Accident,Unclassified,14:00,17
+653,41.82,-87.63,Hazard,Shoulder Hazards,00:00,133
+654,41.82,-87.63,Hazard,Shoulder Hazards,01:00,104
+655,41.82,-87.63,Hazard,Shoulder Hazards,02:00,94
+656,41.82,-87.63,Hazard,Shoulder Hazards,05:00,52
+657,41.82,-87.63,Hazard,Shoulder Hazards,06:00,42
+658,41.82,-87.63,Hazard,Shoulder Hazards,07:00,36
+659,41.82,-87.63,Hazard,Shoulder Hazards,08:00,29
+660,41.82,-87.63,Hazard,Shoulder Hazards,09:00,46
+661,41.82,-87.63,Hazard,Shoulder Hazards,10:00,79
+662,41.82,-87.63,Hazard,Shoulder Hazards,11:00,111
+663,41.82,-87.63,Hazard,Shoulder Hazards,12:00,147
+664,41.82,-87.63,Hazard,Shoulder Hazards,13:00,218
+665,41.82,-87.63,Hazard,Shoulder Hazards,14:00,212
+666,41.82,-87.63,Hazard,Shoulder Hazards,15:00,203
+667,41.82,-87.63,Hazard,Shoulder Hazards,16:00,151
+668,41.82,-87.63,Hazard,Shoulder Hazards,17:00,155
+669,41.82,-87.63,Hazard,Shoulder Hazards,18:00,195
+670,41.82,-87.63,Hazard,Shoulder Hazards,19:00,212
+671,41.82,-87.63,Hazard,Shoulder Hazards,20:00,241
+672,41.82,-87.63,Hazard,Shoulder Hazards,21:00,239
+673,41.82,-87.63,Hazard,Shoulder Hazards,22:00,235
+674,41.82,-87.63,Hazard,Shoulder Hazards,23:00,167
+675,41.82,-87.63,Hazard,Unclassified,01:00,4
+676,41.82,-87.63,Hazard,Unclassified,03:00,4
+677,41.82,-87.63,Hazard,Unclassified,08:00,4
+678,41.82,-87.63,Hazard,Unclassified,11:00,3
+679,41.82,-87.63,Hazard,Unclassified,13:00,6
+680,41.82,-87.63,Jam,Stand Still Traffic,10:00,31
+681,41.82,-87.62,Hazard,Weather Hazards,14:00,3
+682,41.82,-87.6,Accident,Minor,17:00,2
+683,41.83,-87.72,Hazard,Weather Hazards,01:00,8
+684,41.83,-87.72,Hazard,Weather Hazards,02:00,3
+685,41.83,-87.72,Hazard,Weather Hazards,04:00,4
+686,41.83,-87.72,Hazard,Weather Hazards,06:00,3
+687,41.83,-87.72,Hazard,Weather Hazards,07:00,3
+688,41.83,-87.72,Hazard,Weather Hazards,16:00,5
+689,41.83,-87.72,Hazard,Weather Hazards,17:00,3
+690,41.83,-87.72,Hazard,Weather Hazards,20:00,5
+691,41.83,-87.72,Jam,Heavy Traffic,07:00,2
+692,41.83,-87.71,Accident,Major,01:00,5
+693,41.83,-87.71,Accident,Minor,02:00,2
+694,41.83,-87.71,Hazard,Unclassified,08:00,3
+695,41.83,-87.71,Jam,Heavy Traffic,08:00,2
+696,41.83,-87.71,Jam,Moderate Traffic,17:00,4
+697,41.83,-87.71,Jam,Moderate Traffic,19:00,7
+698,41.83,-87.71,Jam,Stand Still Traffic,06:00,4
+699,41.83,-87.71,Jam,Stand Still Traffic,07:00,2
+700,41.83,-87.7,Accident,Major,10:00,3
+701,41.83,-87.7,Accident,Major,12:00,5
+702,41.83,-87.7,Accident,Minor,06:00,2
+703,41.83,-87.7,Accident,Minor,18:00,2
+704,41.83,-87.7,Accident,Minor,19:00,4
+705,41.83,-87.7,Accident,Unclassified,19:00,21
+706,41.83,-87.7,Hazard,Weather Hazards,04:00,4
+707,41.83,-87.7,Hazard,Weather Hazards,17:00,4
+708,41.83,-87.7,Jam,Heavy Traffic,06:00,3
+709,41.83,-87.7,Jam,Stand Still Traffic,05:00,9
+710,41.83,-87.7,Jam,Stand Still Traffic,06:00,7
+711,41.83,-87.7,Jam,Stand Still Traffic,07:00,2
+712,41.83,-87.69,Hazard,Weather Hazards,02:00,3
+713,41.83,-87.69,Hazard,Weather Hazards,10:00,8
+714,41.83,-87.69,Hazard,Weather Hazards,14:00,4
+715,41.83,-87.69,Hazard,Weather Hazards,17:00,5
+716,41.83,-87.69,Hazard,Weather Hazards,22:00,4
+717,41.83,-87.68,Hazard,Weather Hazards,16:00,4
+718,41.83,-87.66,Hazard,Weather Hazards,15:00,3
+719,41.83,-87.65,Hazard,Weather Hazards,13:00,5
+720,41.83,-87.65,Hazard,Weather Hazards,16:00,3
+721,41.83,-87.64,Hazard,Unclassified,09:00,5
+722,41.83,-87.64,Hazard,Unclassified,10:00,3
+723,41.83,-87.64,Road Closures,Construction,00:00,1
+724,41.83,-87.64,Road Closures,Construction,14:00,1
+725,41.83,-87.64,Road Closures,Construction,21:00,1
+726,41.83,-87.64,Road Closures,Event-Related Closure,16:00,29
+727,41.83,-87.64,Road Closures,Event-Related Closure,19:00,34
+728,41.83,-87.64,Road Closures,Hazard-Related Closure,00:00,1
+729,41.83,-87.63,Accident,Major,06:00,6
+730,41.83,-87.63,Accident,Major,07:00,4
+731,41.83,-87.63,Accident,Major,10:00,3
+732,41.83,-87.63,Accident,Minor,06:00,1
+733,41.83,-87.63,Accident,Minor,15:00,3
+734,41.83,-87.63,Accident,Minor,16:00,2
+735,41.83,-87.63,Accident,Minor,19:00,3
+736,41.83,-87.63,Accident,Unclassified,10:00,7
+737,41.83,-87.63,Accident,Unclassified,14:00,17
+738,41.83,-87.63,Accident,Unclassified,15:00,14
+739,41.83,-87.63,Hazard,Shoulder Hazards,03:00,71
+740,41.83,-87.63,Hazard,Shoulder Hazards,07:00,27
+741,41.83,-87.63,Hazard,Shoulder Hazards,09:00,37
+742,41.83,-87.63,Hazard,Shoulder Hazards,10:00,63
+743,41.83,-87.63,Hazard,Shoulder Hazards,11:00,107
+744,41.83,-87.63,Hazard,Shoulder Hazards,12:00,157
+745,41.83,-87.63,Hazard,Shoulder Hazards,13:00,171
+746,41.83,-87.63,Hazard,Shoulder Hazards,14:00,181
+747,41.83,-87.63,Hazard,Shoulder Hazards,15:00,162
+748,41.83,-87.63,Hazard,Shoulder Hazards,17:00,160
+749,41.83,-87.63,Hazard,Shoulder Hazards,18:00,181
+750,41.83,-87.63,Hazard,Shoulder Hazards,19:00,160
+751,41.83,-87.63,Hazard,Shoulder Hazards,20:00,192
+752,41.83,-87.63,Hazard,Shoulder Hazards,23:00,166
+753,41.83,-87.63,Hazard,Unclassified,06:00,4
+754,41.83,-87.63,Hazard,Unclassified,08:00,3
+755,41.83,-87.63,Hazard,Unclassified,09:00,5
+756,41.83,-87.63,Hazard,Unclassified,10:00,3
+757,41.83,-87.63,Hazard,Weather Hazards,16:00,3
+758,41.83,-87.63,Hazard,Weather Hazards,21:00,5
+759,41.83,-87.63,Jam,Heavy Traffic,10:00,100
+760,41.83,-87.63,Jam,Heavy Traffic,11:00,108
+761,41.83,-87.63,Jam,Moderate Traffic,10:00,3
+762,41.83,-87.63,Jam,Moderate Traffic,12:00,6
+763,41.83,-87.63,Jam,Moderate Traffic,20:00,5
+764,41.83,-87.63,Jam,Stand Still Traffic,10:00,46
+765,41.83,-87.63,Jam,Stand Still Traffic,11:00,71
+766,41.83,-87.63,Jam,Unclassified,10:00,31
+767,41.83,-87.63,Road Closures,Construction,21:00,1
+768,41.84,-87.72,Jam,Heavy Traffic,08:00,1
+769,41.84,-87.71,Jam,Light Traffic,21:00,1
+770,41.84,-87.69,Hazard,Weather Hazards,10:00,7
+771,41.84,-87.69,Hazard,Weather Hazards,17:00,4
+772,41.84,-87.68,Accident,Minor,02:00,2
+773,41.84,-87.68,Hazard,Unclassified,04:00,6
+774,41.84,-87.67,Hazard,Weather Hazards,02:00,3
+775,41.84,-87.67,Jam,Moderate Traffic,19:00,5
+776,41.84,-87.67,Jam,Unclassified,05:00,4
+777,41.84,-87.67,Road Closures,Hazard-Related Closure,04:00,1
+778,41.84,-87.66,Accident,Major,10:00,4
+779,41.84,-87.66,Accident,Minor,01:00,2
+780,41.84,-87.66,Accident,Minor,06:00,2
+781,41.84,-87.66,Accident,Minor,11:00,2
+782,41.84,-87.66,Accident,Minor,17:00,2
+783,41.84,-87.66,Accident,Minor,23:00,6
+784,41.84,-87.66,Accident,Unclassified,18:00,18
+785,41.84,-87.66,Accident,Unclassified,19:00,27
+786,41.84,-87.66,Hazard,Weather Hazards,04:00,6
+787,41.84,-87.66,Hazard,Weather Hazards,05:00,4
+788,41.84,-87.66,Hazard,Weather Hazards,06:00,4
+789,41.84,-87.66,Jam,Heavy Traffic,10:00,65
+790,41.84,-87.66,Jam,Moderate Traffic,00:00,6
+791,41.84,-87.66,Jam,Moderate Traffic,01:00,5
+792,41.84,-87.66,Jam,Moderate Traffic,02:00,2
+793,41.84,-87.66,Jam,Moderate Traffic,04:00,1
+794,41.84,-87.66,Jam,Moderate Traffic,11:00,4
+795,41.84,-87.66,Jam,Moderate Traffic,16:00,5
+796,41.84,-87.66,Jam,Stand Still Traffic,10:00,30
+797,41.84,-87.66,Jam,Unclassified,09:00,2
+798,41.84,-87.66,Jam,Unclassified,10:00,21
+799,41.84,-87.66,Jam,Unclassified,12:00,40
+800,41.84,-87.66,Road Closures,Unclassified,09:00,2
+801,41.84,-87.65,Jam,Moderate Traffic,10:00,2
+802,41.84,-87.65,Jam,Moderate Traffic,11:00,3
+803,41.84,-87.64,Road Closures,Event-Related Closure,16:00,18
+804,41.84,-87.63,Accident,Major,02:00,5
+805,41.84,-87.63,Accident,Major,03:00,8
+806,41.84,-87.63,Accident,Major,04:00,6
+807,41.84,-87.63,Accident,Major,08:00,5
+808,41.84,-87.63,Accident,Major,10:00,3
+809,41.84,-87.63,Accident,Major,11:00,9
+810,41.84,-87.63,Accident,Major,13:00,8
+811,41.84,-87.63,Accident,Major,15:00,6
+812,41.84,-87.63,Accident,Major,17:00,7
+813,41.84,-87.63,Accident,Major,20:00,11
+814,41.84,-87.63,Accident,Major,21:00,11
+815,41.84,-87.63,Accident,Minor,04:00,2
+816,41.84,-87.63,Accident,Minor,09:00,1
+817,41.84,-87.63,Accident,Minor,18:00,4
+818,41.84,-87.63,Accident,Minor,19:00,3
+819,41.84,-87.63,Accident,Minor,20:00,3
+820,41.84,-87.63,Accident,Unclassified,06:00,8
+821,41.84,-87.63,Accident,Unclassified,07:00,9
+822,41.84,-87.63,Accident,Unclassified,08:00,5
+823,41.84,-87.63,Accident,Unclassified,09:00,9
+824,41.84,-87.63,Accident,Unclassified,10:00,10
+825,41.84,-87.63,Accident,Unclassified,11:00,19
+826,41.84,-87.63,Accident,Unclassified,14:00,18
+827,41.84,-87.63,Accident,Unclassified,17:00,15
+828,41.84,-87.63,Hazard,Road Hazards,01:00,41
+829,41.84,-87.63,Hazard,Road Hazards,05:00,29
+830,41.84,-87.63,Hazard,Road Hazards,06:00,24
+831,41.84,-87.63,Hazard,Road Hazards,10:00,42
+832,41.84,-87.63,Hazard,Road Hazards,11:00,67
+833,41.84,-87.63,Hazard,Road Hazards,12:00,68
+834,41.84,-87.63,Hazard,Road Hazards,13:00,90
+835,41.84,-87.63,Hazard,Road Hazards,14:00,77
+836,41.84,-87.63,Hazard,Road Hazards,17:00,72
+837,41.84,-87.63,Hazard,Road Hazards,19:00,76
+838,41.84,-87.63,Hazard,Road Hazards,20:00,84
+839,41.84,-87.63,Hazard,Shoulder Hazards,00:00,145
+840,41.84,-87.63,Hazard,Shoulder Hazards,01:00,113
+841,41.84,-87.63,Hazard,Shoulder Hazards,02:00,98
+842,41.84,-87.63,Hazard,Shoulder Hazards,03:00,90
+843,41.84,-87.63,Hazard,Shoulder Hazards,04:00,79
+844,41.84,-87.63,Hazard,Shoulder Hazards,05:00,45
+845,41.84,-87.63,Hazard,Shoulder Hazards,06:00,33
+846,41.84,-87.63,Hazard,Shoulder Hazards,07:00,28
+847,41.84,-87.63,Hazard,Shoulder Hazards,09:00,38
+848,41.84,-87.63,Hazard,Shoulder Hazards,10:00,62
+849,41.84,-87.63,Hazard,Shoulder Hazards,11:00,118
+850,41.84,-87.63,Hazard,Shoulder Hazards,12:00,158
+851,41.84,-87.63,Hazard,Shoulder Hazards,13:00,201
+852,41.84,-87.63,Hazard,Shoulder Hazards,14:00,221
+853,41.84,-87.63,Hazard,Shoulder Hazards,15:00,259
+854,41.84,-87.63,Hazard,Shoulder Hazards,16:00,187
+855,41.84,-87.63,Hazard,Shoulder Hazards,17:00,215
+856,41.84,-87.63,Hazard,Shoulder Hazards,18:00,219
+857,41.84,-87.63,Hazard,Shoulder Hazards,19:00,227
+858,41.84,-87.63,Hazard,Shoulder Hazards,20:00,221
+859,41.84,-87.63,Hazard,Shoulder Hazards,21:00,233
+860,41.84,-87.63,Hazard,Shoulder Hazards,22:00,219
+861,41.84,-87.63,Hazard,Shoulder Hazards,23:00,161
+862,41.84,-87.63,Hazard,Unclassified,05:00,7
+863,41.84,-87.63,Hazard,Unclassified,07:00,3
+864,41.84,-87.63,Hazard,Unclassified,08:00,3
+865,41.84,-87.63,Hazard,Unclassified,09:00,8
+866,41.84,-87.63,Hazard,Unclassified,10:00,4
+867,41.84,-87.63,Hazard,Unclassified,11:00,4
+868,41.84,-87.63,Hazard,Unclassified,12:00,3
+869,41.84,-87.63,Hazard,Unclassified,15:00,3
+870,41.84,-87.63,Hazard,Weather Hazards,14:00,3
+871,41.84,-87.63,Hazard,Weather Hazards,16:00,4
+872,41.84,-87.63,Jam,Heavy Traffic,08:00,2
+873,41.84,-87.63,Jam,Heavy Traffic,10:00,57
+874,41.84,-87.63,Jam,Stand Still Traffic,06:00,4
+875,41.84,-87.63,Jam,Stand Still Traffic,09:00,3
+876,41.84,-87.63,Jam,Unclassified,10:00,18
+877,41.84,-87.63,Jam,Unclassified,15:00,38
+878,41.84,-87.63,Road Closures,Construction,02:00,1
+879,41.84,-87.63,Road Closures,Event-Related Closure,00:00,216
+880,41.84,-87.63,Road Closures,Event-Related Closure,01:00,213
+881,41.84,-87.63,Road Closures,Event-Related Closure,02:00,192
+882,41.84,-87.63,Road Closures,Event-Related Closure,03:00,188
+883,41.84,-87.63,Road Closures,Event-Related Closure,04:00,219
+884,41.84,-87.63,Road Closures,Event-Related Closure,05:00,220
+885,41.84,-87.63,Road Closures,Event-Related Closure,06:00,198
+886,41.84,-87.63,Road Closures,Event-Related Closure,07:00,187
+887,41.84,-87.63,Road Closures,Event-Related Closure,08:00,219
+888,41.84,-87.63,Road Closures,Event-Related Closure,09:00,218
+889,41.84,-87.63,Road Closures,Event-Related Closure,10:00,191
+890,41.84,-87.63,Road Closures,Event-Related Closure,11:00,186
+891,41.84,-87.63,Road Closures,Event-Related Closure,12:00,215
+892,41.84,-87.63,Road Closures,Event-Related Closure,13:00,217
+893,41.84,-87.63,Road Closures,Event-Related Closure,14:00,192
+894,41.84,-87.63,Road Closures,Event-Related Closure,15:00,191
+895,41.84,-87.63,Road Closures,Event-Related Closure,16:00,249
+896,41.84,-87.63,Road Closures,Event-Related Closure,17:00,218
+897,41.84,-87.63,Road Closures,Event-Related Closure,18:00,198
+898,41.84,-87.63,Road Closures,Event-Related Closure,19:00,222
+899,41.84,-87.63,Road Closures,Event-Related Closure,20:00,224
+900,41.84,-87.63,Road Closures,Event-Related Closure,21:00,226
+901,41.84,-87.63,Road Closures,Event-Related Closure,22:00,191
+902,41.84,-87.63,Road Closures,Event-Related Closure,23:00,184
+903,41.84,-87.63,Road Closures,Unclassified,00:00,13
+904,41.84,-87.63,Road Closures,Unclassified,12:00,14
+905,41.84,-87.61,Road Closures,Unclassified,06:00,4
+906,41.84,-87.61,Road Closures,Unclassified,08:00,1
+907,41.85,-87.72,Hazard,Unclassified,02:00,6
+908,41.85,-87.71,Hazard,Road Hazards,12:00,77
+909,41.85,-87.7,Road Closures,Unclassified,17:00,16
+910,41.85,-87.7,Road Closures,Unclassified,18:00,24
+911,41.85,-87.7,Road Closures,Unclassified,19:00,27
+912,41.85,-87.68,Hazard,Weather Hazards,11:00,11
+913,41.85,-87.68,Hazard,Weather Hazards,12:00,6
+914,41.85,-87.68,Hazard,Weather Hazards,21:00,5
+915,41.85,-87.66,Road Closures,Construction,14:00,1
+916,41.85,-87.65,Accident,Major,02:00,5
+917,41.85,-87.65,Accident,Major,08:00,4
+918,41.85,-87.65,Accident,Minor,10:00,2
+919,41.85,-87.65,Hazard,Unclassified,09:00,4
+920,41.85,-87.65,Hazard,Weather Hazards,04:00,5
+921,41.85,-87.65,Hazard,Weather Hazards,05:00,4
+922,41.85,-87.65,Hazard,Weather Hazards,06:00,3
+923,41.85,-87.65,Hazard,Weather Hazards,19:00,5
+924,41.85,-87.65,Jam,Moderate Traffic,15:00,6
+925,41.85,-87.65,Jam,Unclassified,09:00,4
+926,41.85,-87.65,Road Closures,Unclassified,08:00,2
+927,41.85,-87.64,Accident,Major,02:00,8
+928,41.85,-87.64,Accident,Major,04:00,11
+929,41.85,-87.64,Accident,Major,08:00,4
+930,41.85,-87.64,Accident,Major,09:00,3
+931,41.85,-87.64,Accident,Major,10:00,6
+932,41.85,-87.64,Accident,Major,11:00,7
+933,41.85,-87.64,Accident,Major,12:00,6
+934,41.85,-87.64,Accident,Major,13:00,10
+935,41.85,-87.64,Accident,Major,14:00,11
+936,41.85,-87.64,Accident,Major,16:00,7
+937,41.85,-87.64,Accident,Major,17:00,6
+938,41.85,-87.64,Accident,Major,18:00,9
+939,41.85,-87.64,Accident,Major,20:00,13
+940,41.85,-87.64,Accident,Major,22:00,10
+941,41.85,-87.64,Accident,Major,23:00,8
+942,41.85,-87.64,Accident,Minor,01:00,4
+943,41.85,-87.64,Accident,Minor,09:00,1
+944,41.85,-87.64,Accident,Minor,12:00,3
+945,41.85,-87.64,Accident,Minor,15:00,6
+946,41.85,-87.64,Accident,Minor,16:00,5
+947,41.85,-87.64,Accident,Minor,18:00,3
+948,41.85,-87.64,Accident,Minor,21:00,7
+949,41.85,-87.64,Accident,Unclassified,00:00,17
+950,41.85,-87.64,Accident,Unclassified,02:00,14
+951,41.85,-87.64,Accident,Unclassified,03:00,16
+952,41.85,-87.64,Accident,Unclassified,04:00,14
+953,41.85,-87.64,Accident,Unclassified,05:00,9
+954,41.85,-87.64,Accident,Unclassified,06:00,7
+955,41.85,-87.64,Accident,Unclassified,07:00,6
+956,41.85,-87.64,Accident,Unclassified,08:00,5
+957,41.85,-87.64,Accident,Unclassified,10:00,9
+958,41.85,-87.64,Accident,Unclassified,11:00,11
+959,41.85,-87.64,Accident,Unclassified,12:00,27
+960,41.85,-87.64,Accident,Unclassified,13:00,25
+961,41.85,-87.64,Accident,Unclassified,15:00,13
+962,41.85,-87.64,Accident,Unclassified,16:00,21
+963,41.85,-87.64,Accident,Unclassified,17:00,19
+964,41.85,-87.64,Accident,Unclassified,20:00,27
+965,41.85,-87.64,Accident,Unclassified,21:00,28
+966,41.85,-87.64,Hazard,Road Hazards,01:00,51
+967,41.85,-87.64,Hazard,Road Hazards,02:00,48
+968,41.85,-87.64,Hazard,Road Hazards,04:00,31
+969,41.85,-87.64,Hazard,Road Hazards,05:00,28
+970,41.85,-87.64,Hazard,Road Hazards,06:00,21
+971,41.85,-87.64,Hazard,Road Hazards,07:00,22
+972,41.85,-87.64,Hazard,Road Hazards,10:00,39
+973,41.85,-87.64,Hazard,Road Hazards,11:00,50
+974,41.85,-87.64,Hazard,Road Hazards,15:00,79
+975,41.85,-87.64,Hazard,Shoulder Hazards,07:00,30
+976,41.85,-87.64,Hazard,Unclassified,09:00,5
+977,41.85,-87.64,Hazard,Unclassified,10:00,6
+978,41.85,-87.64,Hazard,Unclassified,13:00,6
+979,41.85,-87.64,Hazard,Weather Hazards,03:00,6
+980,41.85,-87.64,Hazard,Weather Hazards,04:00,5
+981,41.85,-87.64,Hazard,Weather Hazards,06:00,3
+982,41.85,-87.64,Hazard,Weather Hazards,08:00,4
+983,41.85,-87.64,Hazard,Weather Hazards,11:00,6
+984,41.85,-87.64,Hazard,Weather Hazards,12:00,6
+985,41.85,-87.64,Hazard,Weather Hazards,15:00,3
+986,41.85,-87.64,Hazard,Weather Hazards,18:00,6
+987,41.85,-87.64,Hazard,Weather Hazards,19:00,5
+988,41.85,-87.64,Jam,Heavy Traffic,02:00,44
+989,41.85,-87.64,Jam,Heavy Traffic,03:00,34
+990,41.85,-87.64,Jam,Heavy Traffic,05:00,8
+991,41.85,-87.64,Jam,Heavy Traffic,15:00,148
+992,41.85,-87.64,Jam,Heavy Traffic,18:00,184
+993,41.85,-87.64,Jam,Heavy Traffic,19:00,230
+994,41.85,-87.64,Jam,Heavy Traffic,20:00,258
+995,41.85,-87.64,Jam,Heavy Traffic,21:00,272
+996,41.85,-87.64,Jam,Heavy Traffic,22:00,214
+997,41.85,-87.64,Jam,Moderate Traffic,14:00,5
+998,41.85,-87.64,Jam,Moderate Traffic,17:00,7
+999,41.85,-87.64,Jam,Moderate Traffic,20:00,7
+1000,41.85,-87.64,Jam,Moderate Traffic,21:00,7
+1001,41.85,-87.64,Jam,Stand Still Traffic,02:00,33
+1002,41.85,-87.64,Jam,Stand Still Traffic,19:00,162
+1003,41.85,-87.64,Jam,Stand Still Traffic,20:00,181
+1004,41.85,-87.64,Jam,Unclassified,07:00,2
+1005,41.85,-87.64,Jam,Unclassified,09:00,2
+1006,41.85,-87.64,Jam,Unclassified,14:00,40
+1007,41.85,-87.64,Jam,Unclassified,15:00,39
+1008,41.85,-87.64,Jam,Unclassified,17:00,50
+1009,41.85,-87.64,Jam,Unclassified,18:00,55
+1010,41.85,-87.64,Jam,Unclassified,19:00,62
+1011,41.85,-87.64,Road Closures,Construction,00:00,1
+1012,41.85,-87.64,Road Closures,Unclassified,10:00,2
+1013,41.85,-87.64,Road Closures,Unclassified,11:00,3
+1014,41.85,-87.63,Accident,Major,01:00,6
+1015,41.85,-87.63,Accident,Major,16:00,5
+1016,41.85,-87.63,Accident,Major,21:00,10
+1017,41.85,-87.63,Accident,Major,22:00,10
+1018,41.85,-87.63,Accident,Minor,00:00,3
+1019,41.85,-87.63,Accident,Minor,02:00,2
+1020,41.85,-87.63,Accident,Minor,07:00,1
+1021,41.85,-87.63,Accident,Minor,14:00,4
+1022,41.85,-87.63,Accident,Unclassified,12:00,16
+1023,41.85,-87.63,Accident,Unclassified,13:00,18
+1024,41.85,-87.63,Accident,Unclassified,14:00,17
+1025,41.85,-87.63,Hazard,Shoulder Hazards,04:00,71
+1026,41.85,-87.63,Hazard,Shoulder Hazards,05:00,37
+1027,41.85,-87.63,Hazard,Shoulder Hazards,12:00,128
+1028,41.85,-87.63,Hazard,Shoulder Hazards,13:00,168
+1029,41.85,-87.63,Hazard,Shoulder Hazards,14:00,166
+1030,41.85,-87.63,Hazard,Shoulder Hazards,15:00,161
+1031,41.85,-87.63,Hazard,Shoulder Hazards,20:00,193
+1032,41.85,-87.63,Hazard,Unclassified,02:00,8
+1033,41.85,-87.63,Hazard,Unclassified,06:00,7
+1034,41.85,-87.63,Hazard,Unclassified,08:00,6
+1035,41.85,-87.63,Hazard,Unclassified,09:00,3
+1036,41.85,-87.63,Hazard,Unclassified,13:00,4
+1037,41.85,-87.63,Jam,Unclassified,09:00,4
+1038,41.85,-87.63,Road Closures,Unclassified,10:00,2
+1039,41.85,-87.62,Accident,Major,08:00,3
+1040,41.85,-87.62,Accident,Minor,15:00,3
+1041,41.85,-87.62,Hazard,Road Hazards,10:00,36
+1042,41.85,-87.62,Road Closures,Unclassified,03:00,7
+1043,41.85,-87.62,Road Closures,Unclassified,08:00,1
+1044,41.85,-87.61,Accident,Minor,04:00,2
+1045,41.85,-87.61,Accident,Minor,07:00,1
+1046,41.85,-87.61,Accident,Minor,08:00,1
+1047,41.85,-87.61,Accident,Minor,11:00,2
+1048,41.85,-87.61,Hazard,Unclassified,19:00,9
+1049,41.85,-87.61,Hazard,Weather Hazards,14:00,5
+1050,41.85,-87.61,Hazard,Weather Hazards,15:00,3
+1051,41.86,-87.73,Hazard,Weather Hazards,17:00,4
+1052,41.86,-87.71,Road Closures,Unclassified,11:00,3
+1053,41.86,-87.7,Hazard,Unclassified,02:00,12
+1054,41.86,-87.7,Road Closures,Event-Related Closure,13:00,18
+1055,41.86,-87.69,Hazard,Weather Hazards,18:00,4
+1056,41.86,-87.67,Hazard,Weather Hazards,05:00,4
+1057,41.86,-87.66,Road Closures,Construction,04:00,1
+1058,41.86,-87.66,Road Closures,Unclassified,06:00,3
+1059,41.86,-87.66,Road Closures,Unclassified,07:00,3
+1060,41.86,-87.65,Road Closures,Construction,17:00,1
+1061,41.86,-87.65,Road Closures,Construction,21:00,1
+1062,41.86,-87.65,Road Closures,Event-Related Closure,02:00,35
+1063,41.86,-87.64,Accident,Major,00:00,10
+1064,41.86,-87.64,Accident,Major,01:00,8
+1065,41.86,-87.64,Accident,Major,02:00,11
+1066,41.86,-87.64,Accident,Major,03:00,12
+1067,41.86,-87.64,Accident,Major,04:00,6
+1068,41.86,-87.64,Accident,Major,05:00,10
+1069,41.86,-87.64,Accident,Major,06:00,5
+1070,41.86,-87.64,Accident,Major,07:00,8
+1071,41.86,-87.64,Accident,Major,09:00,5
+1072,41.86,-87.64,Accident,Major,11:00,6
+1073,41.86,-87.64,Accident,Major,13:00,13
+1074,41.86,-87.64,Accident,Major,15:00,7
+1075,41.86,-87.64,Accident,Major,20:00,9
+1076,41.86,-87.64,Accident,Major,23:00,10
+1077,41.86,-87.64,Accident,Minor,01:00,2
+1078,41.86,-87.64,Accident,Minor,05:00,3
+1079,41.86,-87.64,Accident,Minor,09:00,1
+1080,41.86,-87.64,Accident,Minor,13:00,6
+1081,41.86,-87.64,Accident,Minor,14:00,4
+1082,41.86,-87.64,Accident,Minor,15:00,4
+1083,41.86,-87.64,Accident,Minor,16:00,5
+1084,41.86,-87.64,Accident,Minor,17:00,2
+1085,41.86,-87.64,Accident,Minor,19:00,3
+1086,41.86,-87.64,Accident,Minor,20:00,4
+1087,41.86,-87.64,Accident,Minor,21:00,7
+1088,41.86,-87.64,Accident,Minor,22:00,4
+1089,41.86,-87.64,Accident,Minor,23:00,3
+1090,41.86,-87.64,Accident,Unclassified,00:00,21
+1091,41.86,-87.64,Accident,Unclassified,01:00,12
+1092,41.86,-87.64,Accident,Unclassified,02:00,16
+1093,41.86,-87.64,Accident,Unclassified,03:00,18
+1094,41.86,-87.64,Accident,Unclassified,04:00,9
+1095,41.86,-87.64,Accident,Unclassified,05:00,10
+1096,41.86,-87.64,Accident,Unclassified,06:00,6
+1097,41.86,-87.64,Accident,Unclassified,11:00,12
+1098,41.86,-87.64,Accident,Unclassified,12:00,18
+1099,41.86,-87.64,Accident,Unclassified,16:00,16
+1100,41.86,-87.64,Accident,Unclassified,17:00,21
+1101,41.86,-87.64,Accident,Unclassified,18:00,17
+1102,41.86,-87.64,Accident,Unclassified,20:00,31
+1103,41.86,-87.64,Accident,Unclassified,21:00,36
+1104,41.86,-87.64,Accident,Unclassified,23:00,29
+1105,41.86,-87.64,Hazard,Road Hazards,00:00,60
+1106,41.86,-87.64,Hazard,Road Hazards,01:00,50
+1107,41.86,-87.64,Hazard,Road Hazards,02:00,47
+1108,41.86,-87.64,Hazard,Road Hazards,03:00,32
+1109,41.86,-87.64,Hazard,Road Hazards,04:00,34
+1110,41.86,-87.64,Hazard,Road Hazards,05:00,32
+1111,41.86,-87.64,Hazard,Road Hazards,09:00,23
+1112,41.86,-87.64,Hazard,Road Hazards,11:00,53
+1113,41.86,-87.64,Hazard,Road Hazards,12:00,90
+1114,41.86,-87.64,Hazard,Road Hazards,14:00,90
+1115,41.86,-87.64,Hazard,Road Hazards,16:00,90
+1116,41.86,-87.64,Hazard,Road Hazards,17:00,98
+1117,41.86,-87.64,Hazard,Road Hazards,18:00,94
+1118,41.86,-87.64,Hazard,Road Hazards,19:00,95
+1119,41.86,-87.64,Hazard,Road Hazards,20:00,86
+1120,41.86,-87.64,Hazard,Road Hazards,21:00,106
+1121,41.86,-87.64,Hazard,Road Hazards,23:00,84
+1122,41.86,-87.64,Hazard,Unclassified,07:00,4
+1123,41.86,-87.64,Hazard,Unclassified,09:00,5
+1124,41.86,-87.64,Hazard,Unclassified,10:00,3
+1125,41.86,-87.64,Hazard,Weather Hazards,04:00,6
+1126,41.86,-87.64,Hazard,Weather Hazards,05:00,4
+1127,41.86,-87.64,Hazard,Weather Hazards,13:00,6
+1128,41.86,-87.64,Hazard,Weather Hazards,14:00,4
+1129,41.86,-87.64,Hazard,Weather Hazards,18:00,4
+1130,41.86,-87.64,Jam,Heavy Traffic,02:00,66
+1131,41.86,-87.64,Jam,Heavy Traffic,03:00,35
+1132,41.86,-87.64,Jam,Heavy Traffic,04:00,17
+1133,41.86,-87.64,Jam,Heavy Traffic,05:00,10
+1134,41.86,-87.64,Jam,Moderate Traffic,02:00,2
+1135,41.86,-87.64,Jam,Moderate Traffic,21:00,9
+1136,41.86,-87.64,Jam,Stand Still Traffic,02:00,31
+1137,41.86,-87.64,Jam,Stand Still Traffic,04:00,23
+1138,41.86,-87.64,Jam,Unclassified,03:00,17
+1139,41.86,-87.64,Jam,Unclassified,08:00,2
+1140,41.86,-87.64,Jam,Unclassified,20:00,44
+1141,41.86,-87.64,Road Closures,Construction,15:00,1
+1142,41.86,-87.62,Accident,Minor,06:00,1
+1143,41.86,-87.62,Hazard,Unclassified,19:00,11
+1144,41.86,-87.62,Jam,Light Traffic,19:00,1
+1145,41.86,-87.62,Jam,Stand Still Traffic,04:00,34
+1146,41.86,-87.62,Jam,Stand Still Traffic,05:00,8
+1147,41.87,-87.78,Accident,Minor,23:00,4
+1148,41.87,-87.77,Accident,Major,02:00,5
+1149,41.87,-87.77,Accident,Minor,01:00,3
+1150,41.87,-87.77,Accident,Minor,03:00,3
+1151,41.87,-87.77,Accident,Minor,21:00,5
+1152,41.87,-87.77,Jam,Heavy Traffic,11:00,144
+1153,41.87,-87.77,Jam,Moderate Traffic,03:00,4
+1154,41.87,-87.77,Jam,Moderate Traffic,12:00,6
+1155,41.87,-87.77,Jam,Moderate Traffic,16:00,6
+1156,41.87,-87.77,Jam,Stand Still Traffic,11:00,68
+1157,41.87,-87.77,Jam,Stand Still Traffic,12:00,156
+1158,41.87,-87.77,Jam,Unclassified,02:00,14
+1159,41.87,-87.77,Jam,Unclassified,03:00,19
+1160,41.87,-87.76,Accident,Major,17:00,6
+1161,41.87,-87.76,Accident,Major,23:00,9
+1162,41.87,-87.76,Accident,Minor,00:00,4
+1163,41.87,-87.76,Hazard,Unclassified,11:00,3
+1164,41.87,-87.76,Hazard,Unclassified,15:00,3
+1165,41.87,-87.76,Hazard,Unclassified,16:00,2
+1166,41.87,-87.76,Jam,Heavy Traffic,11:00,134
+1167,41.87,-87.76,Jam,Moderate Traffic,03:00,2
+1168,41.87,-87.76,Jam,Stand Still Traffic,11:00,78
+1169,41.87,-87.76,Jam,Stand Still Traffic,14:00,111
+1170,41.87,-87.75,Hazard,Shoulder Hazards,14:00,150
+1171,41.87,-87.75,Hazard,Shoulder Hazards,15:00,176
+1172,41.87,-87.75,Hazard,Shoulder Hazards,17:00,156
+1173,41.87,-87.75,Hazard,Unclassified,08:00,4
+1174,41.87,-87.75,Hazard,Unclassified,23:00,4
+1175,41.87,-87.74,Accident,Major,09:00,3
+1176,41.87,-87.74,Accident,Major,12:00,6
+1177,41.87,-87.74,Accident,Minor,08:00,1
+1178,41.87,-87.74,Hazard,Unclassified,05:00,4
+1179,41.87,-87.74,Hazard,Weather Hazards,15:00,3
+1180,41.87,-87.74,Jam,Moderate Traffic,14:00,5
+1181,41.87,-87.73,Accident,Major,09:00,3
+1182,41.87,-87.73,Accident,Major,12:00,5
+1183,41.87,-87.73,Accident,Major,17:00,7
+1184,41.87,-87.73,Accident,Minor,03:00,2
+1185,41.87,-87.73,Accident,Minor,21:00,5
+1186,41.87,-87.73,Hazard,Road Hazards,06:00,36
+1187,41.87,-87.73,Hazard,Road Hazards,07:00,66
+1188,41.87,-87.73,Hazard,Road Hazards,08:00,41
+1189,41.87,-87.73,Hazard,Shoulder Hazards,13:00,152
+1190,41.87,-87.73,Hazard,Shoulder Hazards,14:00,179
+1191,41.87,-87.73,Hazard,Shoulder Hazards,15:00,160
+1192,41.87,-87.73,Hazard,Shoulder Hazards,16:00,159
+1193,41.87,-87.73,Hazard,Shoulder Hazards,17:00,166
+1194,41.87,-87.73,Hazard,Unclassified,03:00,4
+1195,41.87,-87.73,Hazard,Unclassified,04:00,12
+1196,41.87,-87.73,Hazard,Unclassified,06:00,4
+1197,41.87,-87.73,Hazard,Weather Hazards,15:00,4
+1198,41.87,-87.73,Jam,Heavy Traffic,06:00,3
+1199,41.87,-87.73,Jam,Moderate Traffic,02:00,2
+1200,41.87,-87.72,Accident,Major,01:00,6
+1201,41.87,-87.72,Accident,Major,06:00,4
+1202,41.87,-87.72,Accident,Major,12:00,5
+1203,41.87,-87.72,Accident,Major,13:00,7
+1204,41.87,-87.72,Accident,Major,15:00,7
+1205,41.87,-87.72,Accident,Major,17:00,7
+1206,41.87,-87.72,Accident,Major,18:00,10
+1207,41.87,-87.72,Accident,Major,19:00,11
+1208,41.87,-87.72,Accident,Minor,08:00,1
+1209,41.87,-87.72,Accident,Unclassified,22:00,29
+1210,41.87,-87.72,Hazard,Shoulder Hazards,16:00,151
+1211,41.87,-87.72,Hazard,Unclassified,04:00,13
+1212,41.87,-87.72,Hazard,Unclassified,05:00,6
+1213,41.87,-87.72,Road Closures,Unclassified,05:00,4
+1214,41.87,-87.71,Accident,Unclassified,14:00,15
+1215,41.87,-87.71,Hazard,Shoulder Hazards,15:00,148
+1216,41.87,-87.71,Hazard,Unclassified,02:00,5
+1217,41.87,-87.71,Jam,Unclassified,11:00,31
+1218,41.87,-87.7,Accident,Minor,04:00,2
+1219,41.87,-87.7,Hazard,Unclassified,05:00,4
+1220,41.87,-87.68,Hazard,Weather Hazards,13:00,5
+1221,41.87,-87.68,Hazard,Weather Hazards,20:00,12
+1222,41.87,-87.68,Road Closures,Unclassified,06:00,3
+1223,41.87,-87.68,Road Closures,Unclassified,15:00,12
+1224,41.87,-87.65,Accident,Minor,00:00,5
+1225,41.87,-87.65,Accident,Minor,11:00,2
+1226,41.87,-87.65,Accident,Minor,22:00,6
+1227,41.87,-87.65,Accident,Unclassified,03:00,12
+1228,41.87,-87.65,Hazard,Road Hazards,05:00,38
+1229,41.87,-87.65,Hazard,Road Hazards,07:00,28
+1230,41.87,-87.65,Hazard,Weather Hazards,07:00,3
+1231,41.87,-87.65,Jam,Heavy Traffic,02:00,41
+1232,41.87,-87.65,Jam,Heavy Traffic,03:00,61
+1233,41.87,-87.65,Jam,Heavy Traffic,04:00,41
+1234,41.87,-87.65,Jam,Heavy Traffic,05:00,13
+1235,41.87,-87.65,Jam,Moderate Traffic,18:00,7
+1236,41.87,-87.65,Jam,Stand Still Traffic,01:00,39
+1237,41.87,-87.65,Jam,Stand Still Traffic,03:00,32
+1238,41.87,-87.65,Jam,Stand Still Traffic,05:00,10
+1239,41.87,-87.65,Jam,Stand Still Traffic,06:00,5
+1240,41.87,-87.65,Jam,Unclassified,04:00,10
+1241,41.87,-87.65,Road Closures,Unclassified,04:00,6
+1242,41.87,-87.65,Road Closures,Unclassified,05:00,5
+1243,41.87,-87.64,Accident,Major,00:00,10
+1244,41.87,-87.64,Accident,Major,01:00,9
+1245,41.87,-87.64,Accident,Major,02:00,6
+1246,41.87,-87.64,Accident,Major,03:00,9
+1247,41.87,-87.64,Accident,Major,04:00,10
+1248,41.87,-87.64,Accident,Major,05:00,5
+1249,41.87,-87.64,Accident,Major,06:00,4
+1250,41.87,-87.64,Accident,Major,08:00,5
+1251,41.87,-87.64,Accident,Major,11:00,6
+1252,41.87,-87.64,Accident,Major,12:00,7
+1253,41.87,-87.64,Accident,Major,13:00,7
+1254,41.87,-87.64,Accident,Major,14:00,6
+1255,41.87,-87.64,Accident,Major,15:00,8
+1256,41.87,-87.64,Accident,Major,16:00,10
+1257,41.87,-87.64,Accident,Major,17:00,9
+1258,41.87,-87.64,Accident,Major,18:00,19
+1259,41.87,-87.64,Accident,Major,19:00,15
+1260,41.87,-87.64,Accident,Major,20:00,16
+1261,41.87,-87.64,Accident,Major,21:00,16
+1262,41.87,-87.64,Accident,Major,22:00,26
+1263,41.87,-87.64,Accident,Major,23:00,14
+1264,41.87,-87.64,Accident,Minor,01:00,4
+1265,41.87,-87.64,Accident,Minor,18:00,6
+1266,41.87,-87.64,Accident,Minor,20:00,6
+1267,41.87,-87.64,Accident,Unclassified,00:00,20
+1268,41.87,-87.64,Accident,Unclassified,01:00,17
+1269,41.87,-87.64,Accident,Unclassified,02:00,14
+1270,41.87,-87.64,Accident,Unclassified,04:00,10
+1271,41.87,-87.64,Accident,Unclassified,08:00,5
+1272,41.87,-87.64,Accident,Unclassified,09:00,4
+1273,41.87,-87.64,Accident,Unclassified,11:00,11
+1274,41.87,-87.64,Accident,Unclassified,16:00,17
+1275,41.87,-87.64,Accident,Unclassified,18:00,18
+1276,41.87,-87.64,Accident,Unclassified,19:00,22
+1277,41.87,-87.64,Accident,Unclassified,20:00,35
+1278,41.87,-87.64,Accident,Unclassified,21:00,34
+1279,41.87,-87.64,Accident,Unclassified,22:00,32
+1280,41.87,-87.64,Accident,Unclassified,23:00,26
+1281,41.87,-87.64,Hazard,Road Hazards,00:00,53
+1282,41.87,-87.64,Hazard,Road Hazards,02:00,47
+1283,41.87,-87.64,Hazard,Road Hazards,03:00,39
+1284,41.87,-87.64,Hazard,Road Hazards,04:00,60
+1285,41.87,-87.64,Hazard,Road Hazards,06:00,25
+1286,41.87,-87.64,Hazard,Road Hazards,12:00,75
+1287,41.87,-87.64,Hazard,Road Hazards,13:00,88
+1288,41.87,-87.64,Hazard,Road Hazards,16:00,76
+1289,41.87,-87.64,Hazard,Road Hazards,18:00,80
+1290,41.87,-87.64,Hazard,Road Hazards,19:00,116
+1291,41.87,-87.64,Hazard,Road Hazards,20:00,112
+1292,41.87,-87.64,Hazard,Road Hazards,21:00,84
+1293,41.87,-87.64,Hazard,Road Hazards,22:00,102
+1294,41.87,-87.64,Hazard,Road Hazards,23:00,70
+1295,41.87,-87.64,Hazard,Shoulder Hazards,00:00,118
+1296,41.87,-87.64,Hazard,Shoulder Hazards,01:00,121
+1297,41.87,-87.64,Hazard,Shoulder Hazards,02:00,104
+1298,41.87,-87.64,Hazard,Shoulder Hazards,03:00,83
+1299,41.87,-87.64,Hazard,Shoulder Hazards,04:00,63
+1300,41.87,-87.64,Hazard,Shoulder Hazards,05:00,47
+1301,41.87,-87.64,Hazard,Shoulder Hazards,07:00,28
+1302,41.87,-87.64,Hazard,Shoulder Hazards,08:00,25
+1303,41.87,-87.64,Hazard,Shoulder Hazards,18:00,166
+1304,41.87,-87.64,Hazard,Shoulder Hazards,21:00,209
+1305,41.87,-87.64,Hazard,Shoulder Hazards,22:00,215
+1306,41.87,-87.64,Hazard,Weather Hazards,02:00,3
+1307,41.87,-87.64,Hazard,Weather Hazards,05:00,4
+1308,41.87,-87.64,Jam,Heavy Traffic,01:00,58
+1309,41.87,-87.64,Jam,Heavy Traffic,04:00,26
+1310,41.87,-87.64,Jam,Moderate Traffic,17:00,4
+1311,41.87,-87.64,Jam,Moderate Traffic,19:00,5
+1312,41.87,-87.64,Jam,Stand Still Traffic,01:00,39
+1313,41.87,-87.64,Jam,Stand Still Traffic,02:00,28
+1314,41.87,-87.64,Jam,Stand Still Traffic,04:00,23
+1315,41.87,-87.64,Jam,Stand Still Traffic,20:00,199
+1316,41.87,-87.64,Jam,Unclassified,23:00,38
+1317,41.87,-87.64,Road Closures,Construction,13:00,1
+1318,41.87,-87.64,Road Closures,Construction,15:00,1
+1319,41.87,-87.64,Road Closures,Construction,20:00,1
+1320,41.87,-87.64,Road Closures,Construction,21:00,1
+1321,41.87,-87.64,Road Closures,Unclassified,05:00,4
+1322,41.87,-87.64,Road Closures,Unclassified,20:00,30
+1323,41.87,-87.64,Road Closures,Unclassified,21:00,60
+1324,41.87,-87.64,Road Closures,Unclassified,22:00,44
+1325,41.87,-87.64,Road Closures,Unclassified,23:00,23
+1326,41.87,-87.63,Road Closures,Event-Related Closure,01:00,30
+1327,41.87,-87.62,Accident,Minor,14:00,4
+1328,41.87,-87.62,Accident,Unclassified,18:00,17
+1329,41.87,-87.62,Accident,Unclassified,22:00,28
+1330,41.87,-87.62,Accident,Unclassified,23:00,22
+1331,41.87,-87.62,Hazard,Road Hazards,12:00,72
+1332,41.87,-87.62,Jam,Stand Still Traffic,04:00,22
+1333,41.87,-87.62,Jam,Stand Still Traffic,16:00,93
+1334,41.87,-87.62,Jam,Stand Still Traffic,18:00,123
+1335,41.87,-87.62,Jam,Stand Still Traffic,19:00,182
+1336,41.87,-87.62,Jam,Stand Still Traffic,20:00,210
+1337,41.87,-87.62,Jam,Unclassified,03:00,16
+1338,41.87,-87.62,Jam,Unclassified,18:00,62
+1339,41.87,-87.62,Road Closures,Construction,22:00,1
+1340,41.87,-87.62,Road Closures,Event-Related Closure,01:00,31
+1341,41.87,-87.62,Road Closures,Event-Related Closure,04:00,11
+1342,41.87,-87.62,Road Closures,Event-Related Closure,10:00,2
+1343,41.87,-87.62,Road Closures,Event-Related Closure,11:00,5
+1344,41.87,-87.62,Road Closures,Event-Related Closure,13:00,21
+1345,41.87,-87.62,Road Closures,Event-Related Closure,15:00,8
+1346,41.87,-87.62,Road Closures,Event-Related Closure,18:00,13
+1347,41.87,-87.62,Road Closures,Event-Related Closure,19:00,23
+1348,41.87,-87.62,Road Closures,Event-Related Closure,20:00,8
+1349,41.87,-87.62,Road Closures,Event-Related Closure,21:00,26
+1350,41.87,-87.62,Road Closures,Event-Related Closure,22:00,10
+1351,41.87,-87.62,Road Closures,Event-Related Closure,23:00,7
+1352,41.87,-87.62,Road Closures,Unclassified,01:00,15
+1353,41.87,-87.62,Road Closures,Unclassified,02:00,16
+1354,41.87,-87.62,Road Closures,Unclassified,03:00,8
+1355,41.87,-87.62,Road Closures,Unclassified,04:00,7
+1356,41.87,-87.62,Road Closures,Unclassified,10:00,4
+1357,41.87,-87.62,Road Closures,Unclassified,11:00,9
+1358,41.87,-87.62,Road Closures,Unclassified,12:00,19
+1359,41.87,-87.62,Road Closures,Unclassified,14:00,20
+1360,41.87,-87.62,Road Closures,Unclassified,15:00,29
+1361,41.87,-87.62,Road Closures,Unclassified,16:00,30
+1362,41.87,-87.62,Road Closures,Unclassified,17:00,27
+1363,41.87,-87.62,Road Closures,Unclassified,18:00,25
+1364,41.87,-87.62,Road Closures,Unclassified,19:00,29
+1365,41.87,-87.62,Road Closures,Unclassified,20:00,34
+1366,41.87,-87.62,Road Closures,Unclassified,21:00,28
+1367,41.87,-87.62,Road Closures,Unclassified,22:00,27
+1368,41.87,-87.62,Road Closures,Unclassified,23:00,17
+1369,41.88,-87.7,Accident,Major,11:00,7
+1370,41.88,-87.7,Jam,Moderate Traffic,02:00,2
+1371,41.88,-87.69,Accident,Minor,21:00,4
+1372,41.88,-87.69,Hazard,Weather Hazards,19:00,7
+1373,41.88,-87.69,Jam,Moderate Traffic,13:00,7
+1374,41.88,-87.69,Jam,Stand Still Traffic,08:00,2
+1375,41.88,-87.69,Jam,Unclassified,07:00,2
+1376,41.88,-87.68,Accident,Major,12:00,5
+1377,41.88,-87.68,Accident,Major,13:00,11
+1378,41.88,-87.68,Accident,Major,18:00,10
+1379,41.88,-87.68,Accident,Major,19:00,15
+1380,41.88,-87.68,Hazard,Road Hazards,14:00,92
+1381,41.88,-87.68,Hazard,Road Hazards,15:00,80
+1382,41.88,-87.68,Hazard,Road Hazards,16:00,70
+1383,41.88,-87.68,Hazard,Road Hazards,18:00,97
+1384,41.88,-87.68,Jam,Stand Still Traffic,04:00,26
+1385,41.88,-87.68,Road Closures,Construction,19:00,1
+1386,41.88,-87.68,Road Closures,Event-Related Closure,07:00,4
+1387,41.88,-87.68,Road Closures,Event-Related Closure,12:00,38
+1388,41.88,-87.68,Road Closures,Unclassified,02:00,9
+1389,41.88,-87.68,Road Closures,Unclassified,04:00,9
+1390,41.88,-87.68,Road Closures,Unclassified,05:00,5
+1391,41.88,-87.68,Road Closures,Unclassified,13:00,23
+1392,41.88,-87.68,Road Closures,Unclassified,14:00,13
+1393,41.88,-87.68,Road Closures,Unclassified,19:00,22
+1394,41.88,-87.68,Road Closures,Unclassified,21:00,38
+1395,41.88,-87.68,Road Closures,Unclassified,22:00,32
+1396,41.88,-87.67,Accident,Major,05:00,5
+1397,41.88,-87.67,Accident,Major,20:00,15
+1398,41.88,-87.67,Accident,Major,21:00,11
+1399,41.88,-87.67,Accident,Minor,02:00,2
+1400,41.88,-87.67,Accident,Minor,06:00,2
+1401,41.88,-87.67,Accident,Minor,22:00,4
+1402,41.88,-87.67,Accident,Unclassified,17:00,18
+1403,41.88,-87.67,Accident,Unclassified,21:00,30
+1404,41.88,-87.67,Hazard,Road Hazards,01:00,50
+1405,41.88,-87.67,Hazard,Road Hazards,02:00,60
+1406,41.88,-87.67,Hazard,Road Hazards,03:00,90
+1407,41.88,-87.67,Hazard,Road Hazards,04:00,37
+1408,41.88,-87.67,Hazard,Road Hazards,05:00,44
+1409,41.88,-87.67,Hazard,Road Hazards,06:00,132
+1410,41.88,-87.67,Hazard,Road Hazards,07:00,152
+1411,41.88,-87.67,Hazard,Road Hazards,08:00,85
+1412,41.88,-87.67,Hazard,Road Hazards,09:00,26
+1413,41.88,-87.67,Hazard,Road Hazards,10:00,51
+1414,41.88,-87.67,Hazard,Road Hazards,11:00,100
+1415,41.88,-87.67,Hazard,Road Hazards,12:00,95
+1416,41.88,-87.67,Hazard,Road Hazards,13:00,111
+1417,41.88,-87.67,Hazard,Road Hazards,14:00,121
+1418,41.88,-87.67,Hazard,Road Hazards,15:00,90
+1419,41.88,-87.67,Hazard,Road Hazards,17:00,125
+1420,41.88,-87.67,Hazard,Road Hazards,18:00,124
+1421,41.88,-87.67,Hazard,Road Hazards,19:00,87
+1422,41.88,-87.67,Hazard,Road Hazards,20:00,93
+1423,41.88,-87.67,Hazard,Road Hazards,21:00,87
+1424,41.88,-87.67,Hazard,Road Hazards,22:00,107
+1425,41.88,-87.67,Hazard,Road Hazards,23:00,78
+1426,41.88,-87.67,Hazard,Weather Hazards,03:00,4
+1427,41.88,-87.67,Hazard,Weather Hazards,06:00,3
+1428,41.88,-87.67,Hazard,Weather Hazards,07:00,5
+1429,41.88,-87.67,Hazard,Weather Hazards,08:00,4
+1430,41.88,-87.67,Hazard,Weather Hazards,20:00,5
+1431,41.88,-87.67,Jam,Heavy Traffic,03:00,25
+1432,41.88,-87.67,Jam,Heavy Traffic,04:00,20
+1433,41.88,-87.67,Jam,Heavy Traffic,05:00,8
+1434,41.88,-87.67,Jam,Moderate Traffic,21:00,6
+1435,41.88,-87.67,Jam,Stand Still Traffic,03:00,31
+1436,41.88,-87.67,Jam,Stand Still Traffic,04:00,42
+1437,41.88,-87.67,Jam,Stand Still Traffic,05:00,25
+1438,41.88,-87.67,Jam,Unclassified,04:00,9
+1439,41.88,-87.67,Jam,Unclassified,05:00,4
+1440,41.88,-87.67,Road Closures,Event-Related Closure,07:00,12
+1441,41.88,-87.67,Road Closures,Event-Related Closure,08:00,3
+1442,41.88,-87.67,Road Closures,Event-Related Closure,12:00,56
+1443,41.88,-87.67,Road Closures,Event-Related Closure,14:00,14
+1444,41.88,-87.67,Road Closures,Unclassified,02:00,9
+1445,41.88,-87.67,Road Closures,Unclassified,03:00,10
+1446,41.88,-87.67,Road Closures,Unclassified,04:00,10
+1447,41.88,-87.67,Road Closures,Unclassified,05:00,9
+1448,41.88,-87.66,Accident,Major,15:00,7
+1449,41.88,-87.66,Accident,Major,19:00,14
+1450,41.88,-87.66,Accident,Major,20:00,19
+1451,41.88,-87.66,Accident,Major,21:00,12
+1452,41.88,-87.66,Accident,Major,22:00,13
+1453,41.88,-87.66,Accident,Major,23:00,7
+1454,41.88,-87.66,Accident,Minor,08:00,1
+1455,41.88,-87.66,Accident,Minor,20:00,4
+1456,41.88,-87.66,Accident,Unclassified,04:00,10
+1457,41.88,-87.66,Hazard,Road Hazards,06:00,26
+1458,41.88,-87.66,Hazard,Road Hazards,07:00,23
+1459,41.88,-87.66,Hazard,Shoulder Hazards,04:00,54
+1460,41.88,-87.66,Road Closures,Unclassified,11:00,6
+1461,41.88,-87.65,Accident,Major,00:00,9
+1462,41.88,-87.65,Accident,Major,01:00,11
+1463,41.88,-87.65,Accident,Major,02:00,6
+1464,41.88,-87.65,Accident,Major,03:00,14
+1465,41.88,-87.65,Accident,Major,04:00,15
+1466,41.88,-87.65,Accident,Major,05:00,17
+1467,41.88,-87.65,Accident,Major,07:00,5
+1468,41.88,-87.65,Accident,Major,10:00,5
+1469,41.88,-87.65,Accident,Major,16:00,8
+1470,41.88,-87.65,Accident,Major,17:00,8
+1471,41.88,-87.65,Accident,Major,19:00,18
+1472,41.88,-87.65,Accident,Major,20:00,22
+1473,41.88,-87.65,Accident,Major,21:00,13
+1474,41.88,-87.65,Accident,Major,22:00,10
+1475,41.88,-87.65,Accident,Minor,03:00,3
+1476,41.88,-87.65,Accident,Minor,04:00,4
+1477,41.88,-87.65,Accident,Minor,11:00,2
+1478,41.88,-87.65,Accident,Minor,17:00,2
+1479,41.88,-87.65,Accident,Minor,18:00,4
+1480,41.88,-87.65,Accident,Minor,19:00,4
+1481,41.88,-87.65,Accident,Minor,20:00,6
+1482,41.88,-87.65,Accident,Minor,21:00,8
+1483,41.88,-87.65,Accident,Minor,22:00,6
+1484,41.88,-87.65,Accident,Minor,23:00,5
+1485,41.88,-87.65,Accident,Unclassified,00:00,24
+1486,41.88,-87.65,Accident,Unclassified,01:00,23
+1487,41.88,-87.65,Accident,Unclassified,02:00,17
+1488,41.88,-87.65,Accident,Unclassified,03:00,17
+1489,41.88,-87.65,Accident,Unclassified,04:00,21
+1490,41.88,-87.65,Accident,Unclassified,05:00,14
+1491,41.88,-87.65,Accident,Unclassified,06:00,6
+1492,41.88,-87.65,Accident,Unclassified,13:00,24
+1493,41.88,-87.65,Accident,Unclassified,15:00,16
+1494,41.88,-87.65,Accident,Unclassified,16:00,14
+1495,41.88,-87.65,Accident,Unclassified,17:00,29
+1496,41.88,-87.65,Accident,Unclassified,18:00,35
+1497,41.88,-87.65,Accident,Unclassified,19:00,38
+1498,41.88,-87.65,Accident,Unclassified,20:00,43
+1499,41.88,-87.65,Accident,Unclassified,21:00,65
+1500,41.88,-87.65,Accident,Unclassified,22:00,69
+1501,41.88,-87.65,Accident,Unclassified,23:00,35
+1502,41.88,-87.65,Hazard,Road Hazards,00:00,70
+1503,41.88,-87.65,Hazard,Road Hazards,01:00,47
+1504,41.88,-87.65,Hazard,Road Hazards,02:00,53
+1505,41.88,-87.65,Hazard,Road Hazards,03:00,80
+1506,41.88,-87.65,Hazard,Road Hazards,04:00,108
+1507,41.88,-87.65,Hazard,Road Hazards,05:00,58
+1508,41.88,-87.65,Hazard,Road Hazards,06:00,33
+1509,41.88,-87.65,Hazard,Road Hazards,07:00,23
+1510,41.88,-87.65,Hazard,Road Hazards,09:00,22
+1511,41.88,-87.65,Hazard,Road Hazards,10:00,41
+1512,41.88,-87.65,Hazard,Road Hazards,11:00,49
+1513,41.88,-87.65,Hazard,Road Hazards,12:00,69
+1514,41.88,-87.65,Hazard,Road Hazards,15:00,84
+1515,41.88,-87.65,Hazard,Road Hazards,16:00,71
+1516,41.88,-87.65,Hazard,Road Hazards,17:00,107
+1517,41.88,-87.65,Hazard,Road Hazards,18:00,91
+1518,41.88,-87.65,Hazard,Road Hazards,19:00,109
+1519,41.88,-87.65,Hazard,Road Hazards,20:00,127
+1520,41.88,-87.65,Hazard,Road Hazards,21:00,123
+1521,41.88,-87.65,Hazard,Road Hazards,22:00,99
+1522,41.88,-87.65,Hazard,Road Hazards,23:00,119
+1523,41.88,-87.65,Hazard,Shoulder Hazards,00:00,167
+1524,41.88,-87.65,Hazard,Shoulder Hazards,01:00,114
+1525,41.88,-87.65,Hazard,Shoulder Hazards,02:00,142
+1526,41.88,-87.65,Hazard,Shoulder Hazards,03:00,102
+1527,41.88,-87.65,Hazard,Shoulder Hazards,04:00,76
+1528,41.88,-87.65,Hazard,Shoulder Hazards,05:00,48
+1529,41.88,-87.65,Hazard,Shoulder Hazards,06:00,47
+1530,41.88,-87.65,Hazard,Shoulder Hazards,18:00,175
+1531,41.88,-87.65,Hazard,Shoulder Hazards,19:00,169
+1532,41.88,-87.65,Hazard,Shoulder Hazards,20:00,234
+1533,41.88,-87.65,Hazard,Shoulder Hazards,21:00,224
+1534,41.88,-87.65,Hazard,Shoulder Hazards,22:00,220
+1535,41.88,-87.65,Hazard,Shoulder Hazards,23:00,203
+1536,41.88,-87.65,Hazard,Weather Hazards,00:00,6
+1537,41.88,-87.65,Hazard,Weather Hazards,03:00,7
+1538,41.88,-87.65,Hazard,Weather Hazards,08:00,3
+1539,41.88,-87.65,Hazard,Weather Hazards,12:00,6
+1540,41.88,-87.65,Hazard,Weather Hazards,18:00,7
+1541,41.88,-87.65,Hazard,Weather Hazards,22:00,7
+1542,41.88,-87.65,Jam,Heavy Traffic,00:00,186
+1543,41.88,-87.65,Jam,Heavy Traffic,01:00,145
+1544,41.88,-87.65,Jam,Heavy Traffic,02:00,74
+1545,41.88,-87.65,Jam,Heavy Traffic,03:00,79
+1546,41.88,-87.65,Jam,Heavy Traffic,04:00,68
+1547,41.88,-87.65,Jam,Heavy Traffic,05:00,33
+1548,41.88,-87.65,Jam,Heavy Traffic,06:00,7
+1549,41.88,-87.65,Jam,Heavy Traffic,14:00,147
+1550,41.88,-87.65,Jam,Heavy Traffic,16:00,192
+1551,41.88,-87.65,Jam,Heavy Traffic,17:00,220
+1552,41.88,-87.65,Jam,Heavy Traffic,18:00,253
+1553,41.88,-87.65,Jam,Heavy Traffic,19:00,443
+1554,41.88,-87.65,Jam,Heavy Traffic,20:00,518
+1555,41.88,-87.65,Jam,Heavy Traffic,21:00,533
+1556,41.88,-87.65,Jam,Heavy Traffic,22:00,531
+1557,41.88,-87.65,Jam,Heavy Traffic,23:00,369
+1558,41.88,-87.65,Jam,Moderate Traffic,05:00,1
+1559,41.88,-87.65,Jam,Moderate Traffic,18:00,9
+1560,41.88,-87.65,Jam,Moderate Traffic,21:00,7
+1561,41.88,-87.65,Jam,Moderate Traffic,22:00,13
+1562,41.88,-87.65,Jam,Moderate Traffic,23:00,7
+1563,41.88,-87.65,Jam,Stand Still Traffic,00:00,180
+1564,41.88,-87.65,Jam,Stand Still Traffic,01:00,130
+1565,41.88,-87.65,Jam,Stand Still Traffic,02:00,59
+1566,41.88,-87.65,Jam,Stand Still Traffic,03:00,78
+1567,41.88,-87.65,Jam,Stand Still Traffic,04:00,84
+1568,41.88,-87.65,Jam,Stand Still Traffic,05:00,31
+1569,41.88,-87.65,Jam,Stand Still Traffic,06:00,17
+1570,41.88,-87.65,Jam,Stand Still Traffic,07:00,4
+1571,41.88,-87.65,Jam,Stand Still Traffic,08:00,3
+1572,41.88,-87.65,Jam,Stand Still Traffic,16:00,155
+1573,41.88,-87.65,Jam,Stand Still Traffic,17:00,245
+1574,41.88,-87.65,Jam,Stand Still Traffic,18:00,312
+1575,41.88,-87.65,Jam,Stand Still Traffic,19:00,436
+1576,41.88,-87.65,Jam,Stand Still Traffic,20:00,567
+1577,41.88,-87.65,Jam,Stand Still Traffic,21:00,740
+1578,41.88,-87.65,Jam,Stand Still Traffic,22:00,760
+1579,41.88,-87.65,Jam,Stand Still Traffic,23:00,470
+1580,41.88,-87.65,Jam,Unclassified,00:00,54
+1581,41.88,-87.65,Jam,Unclassified,01:00,40
+1582,41.88,-87.65,Jam,Unclassified,02:00,27
+1583,41.88,-87.65,Jam,Unclassified,03:00,27
+1584,41.88,-87.65,Jam,Unclassified,04:00,35
+1585,41.88,-87.65,Jam,Unclassified,05:00,8
+1586,41.88,-87.65,Jam,Unclassified,06:00,3
+1587,41.88,-87.65,Jam,Unclassified,08:00,4
+1588,41.88,-87.65,Jam,Unclassified,09:00,4
+1589,41.88,-87.65,Jam,Unclassified,11:00,39
+1590,41.88,-87.65,Jam,Unclassified,13:00,42
+1591,41.88,-87.65,Jam,Unclassified,15:00,40
+1592,41.88,-87.65,Jam,Unclassified,16:00,47
+1593,41.88,-87.65,Jam,Unclassified,17:00,57
+1594,41.88,-87.65,Jam,Unclassified,18:00,53
+1595,41.88,-87.65,Jam,Unclassified,19:00,86
+1596,41.88,-87.65,Jam,Unclassified,20:00,75
+1597,41.88,-87.65,Jam,Unclassified,21:00,90
+1598,41.88,-87.65,Jam,Unclassified,22:00,94
+1599,41.88,-87.65,Jam,Unclassified,23:00,55
+1600,41.88,-87.65,Road Closures,Construction,03:00,3
+1601,41.88,-87.65,Road Closures,Construction,15:00,1
+1602,41.88,-87.65,Road Closures,Construction,18:00,1
+1603,41.88,-87.65,Road Closures,Construction,19:00,3
+1604,41.88,-87.65,Road Closures,Construction,21:00,4
+1605,41.88,-87.65,Road Closures,Construction,22:00,1
+1606,41.88,-87.65,Road Closures,Construction,23:00,2
+1607,41.88,-87.65,Road Closures,Event-Related Closure,00:00,219
+1608,41.88,-87.65,Road Closures,Event-Related Closure,01:00,232
+1609,41.88,-87.65,Road Closures,Event-Related Closure,02:00,200
+1610,41.88,-87.65,Road Closures,Event-Related Closure,03:00,192
+1611,41.88,-87.65,Road Closures,Event-Related Closure,04:00,227
+1612,41.88,-87.65,Road Closures,Event-Related Closure,05:00,226
+1613,41.88,-87.65,Road Closures,Event-Related Closure,06:00,205
+1614,41.88,-87.65,Road Closures,Event-Related Closure,07:00,179
+1615,41.88,-87.65,Road Closures,Event-Related Closure,08:00,219
+1616,41.88,-87.65,Road Closures,Event-Related Closure,09:00,218
+1617,41.88,-87.65,Road Closures,Event-Related Closure,10:00,194
+1618,41.88,-87.65,Road Closures,Event-Related Closure,11:00,184
+1619,41.88,-87.65,Road Closures,Event-Related Closure,12:00,215
+1620,41.88,-87.65,Road Closures,Event-Related Closure,13:00,217
+1621,41.88,-87.65,Road Closures,Event-Related Closure,14:00,199
+1622,41.88,-87.65,Road Closures,Event-Related Closure,15:00,188
+1623,41.88,-87.65,Road Closures,Event-Related Closure,16:00,222
+1624,41.88,-87.65,Road Closures,Event-Related Closure,17:00,232
+1625,41.88,-87.65,Road Closures,Event-Related Closure,18:00,205
+1626,41.88,-87.65,Road Closures,Event-Related Closure,19:00,187
+1627,41.88,-87.65,Road Closures,Event-Related Closure,20:00,231
+1628,41.88,-87.65,Road Closures,Event-Related Closure,21:00,227
+1629,41.88,-87.65,Road Closures,Event-Related Closure,22:00,198
+1630,41.88,-87.65,Road Closures,Event-Related Closure,23:00,186
+1631,41.88,-87.65,Road Closures,Unclassified,00:00,43
+1632,41.88,-87.65,Road Closures,Unclassified,01:00,33
+1633,41.88,-87.65,Road Closures,Unclassified,02:00,35
+1634,41.88,-87.65,Road Closures,Unclassified,03:00,44
+1635,41.88,-87.65,Road Closures,Unclassified,04:00,30
+1636,41.88,-87.65,Road Closures,Unclassified,05:00,22
+1637,41.88,-87.65,Road Closures,Unclassified,06:00,9
+1638,41.88,-87.65,Road Closures,Unclassified,07:00,4
+1639,41.88,-87.65,Road Closures,Unclassified,12:00,16
+1640,41.88,-87.65,Road Closures,Unclassified,14:00,20
+1641,41.88,-87.65,Road Closures,Unclassified,15:00,20
+1642,41.88,-87.65,Road Closures,Unclassified,16:00,31
+1643,41.88,-87.65,Road Closures,Unclassified,17:00,44
+1644,41.88,-87.65,Road Closures,Unclassified,18:00,44
+1645,41.88,-87.65,Road Closures,Unclassified,19:00,82
+1646,41.88,-87.65,Road Closures,Unclassified,20:00,113
+1647,41.88,-87.65,Road Closures,Unclassified,21:00,153
+1648,41.88,-87.65,Road Closures,Unclassified,22:00,143
+1649,41.88,-87.65,Road Closures,Unclassified,23:00,72
+1650,41.88,-87.64,Accident,Major,00:00,5
+1651,41.88,-87.64,Accident,Minor,13:00,4
+1652,41.88,-87.64,Accident,Unclassified,04:00,11
+1653,41.88,-87.64,Hazard,Road Hazards,22:00,69
+1654,41.88,-87.64,Hazard,Weather Hazards,15:00,4
+1655,41.88,-87.64,Jam,Stand Still Traffic,22:00,258
+1656,41.88,-87.64,Road Closures,Construction,17:00,1
+1657,41.88,-87.63,Hazard,Road Hazards,13:00,79
+1658,41.88,-87.63,Hazard,Unclassified,00:00,3
+1659,41.88,-87.63,Hazard,Weather Hazards,02:00,3
+1660,41.88,-87.63,Jam,Light Traffic,21:00,1
+1661,41.88,-87.63,Jam,Moderate Traffic,00:00,6
+1662,41.88,-87.63,Jam,Moderate Traffic,05:00,2
+1663,41.88,-87.63,Jam,Moderate Traffic,22:00,7
+1664,41.88,-87.63,Jam,Unclassified,05:00,6
+1665,41.88,-87.63,Road Closures,Event-Related Closure,05:00,21
+1666,41.88,-87.63,Road Closures,Unclassified,02:00,8
+1667,41.88,-87.63,Road Closures,Unclassified,03:00,7
+1668,41.88,-87.63,Road Closures,Unclassified,04:00,6
+1669,41.88,-87.63,Road Closures,Unclassified,17:00,16
+1670,41.88,-87.62,Accident,Minor,06:00,1
+1671,41.88,-87.62,Accident,Unclassified,02:00,13
+1672,41.88,-87.62,Accident,Unclassified,20:00,27
+1673,41.88,-87.62,Accident,Unclassified,21:00,31
+1674,41.88,-87.62,Accident,Unclassified,23:00,22
+1675,41.88,-87.62,Hazard,Road Hazards,14:00,100
+1676,41.88,-87.62,Hazard,Road Hazards,17:00,101
+1677,41.88,-87.62,Hazard,Road Hazards,18:00,75
+1678,41.88,-87.62,Hazard,Road Hazards,19:00,237
+1679,41.88,-87.62,Hazard,Road Hazards,21:00,150
+1680,41.88,-87.62,Hazard,Road Hazards,22:00,88
+1681,41.88,-87.62,Hazard,Unclassified,19:00,8
+1682,41.88,-87.62,Jam,Light Traffic,20:00,1
+1683,41.88,-87.62,Jam,Moderate Traffic,05:00,1
+1684,41.88,-87.62,Jam,Moderate Traffic,14:00,6
+1685,41.88,-87.62,Jam,Moderate Traffic,17:00,4
+1686,41.88,-87.62,Jam,Moderate Traffic,21:00,6
+1687,41.88,-87.62,Jam,Moderate Traffic,22:00,10
+1688,41.88,-87.62,Jam,Stand Still Traffic,02:00,33
+1689,41.88,-87.62,Jam,Stand Still Traffic,03:00,34
+1690,41.88,-87.62,Jam,Unclassified,02:00,14
+1691,41.88,-87.62,Jam,Unclassified,03:00,15
+1692,41.88,-87.62,Jam,Unclassified,04:00,11
+1693,41.88,-87.62,Jam,Unclassified,18:00,43
+1694,41.88,-87.62,Jam,Unclassified,21:00,52
+1695,41.88,-87.62,Jam,Unclassified,22:00,54
+1696,41.88,-87.62,Road Closures,Event-Related Closure,05:00,7
+1697,41.88,-87.62,Road Closures,Event-Related Closure,11:00,8
+1698,41.88,-87.62,Road Closures,Event-Related Closure,12:00,12
+1699,41.88,-87.62,Road Closures,Event-Related Closure,13:00,21
+1700,41.88,-87.62,Road Closures,Event-Related Closure,14:00,16
+1701,41.88,-87.62,Road Closures,Event-Related Closure,15:00,8
+1702,41.88,-87.62,Road Closures,Event-Related Closure,16:00,16
+1703,41.88,-87.62,Road Closures,Event-Related Closure,17:00,34
+1704,41.88,-87.62,Road Closures,Event-Related Closure,18:00,12
+1705,41.88,-87.62,Road Closures,Event-Related Closure,19:00,33
+1706,41.88,-87.62,Road Closures,Event-Related Closure,20:00,13
+1707,41.88,-87.62,Road Closures,Event-Related Closure,21:00,31
+1708,41.88,-87.62,Road Closures,Event-Related Closure,22:00,11
+1709,41.88,-87.62,Road Closures,Event-Related Closure,23:00,12
+1710,41.88,-87.62,Road Closures,Unclassified,00:00,14
+1711,41.88,-87.62,Road Closures,Unclassified,01:00,14
+1712,41.88,-87.62,Road Closures,Unclassified,02:00,15
+1713,41.88,-87.62,Road Closures,Unclassified,03:00,8
+1714,41.88,-87.62,Road Closures,Unclassified,10:00,9
+1715,41.88,-87.62,Road Closures,Unclassified,11:00,6
+1716,41.88,-87.62,Road Closures,Unclassified,12:00,19
+1717,41.88,-87.62,Road Closures,Unclassified,14:00,26
+1718,41.88,-87.62,Road Closures,Unclassified,15:00,48
+1719,41.88,-87.62,Road Closures,Unclassified,16:00,33
+1720,41.88,-87.62,Road Closures,Unclassified,17:00,27
+1721,41.88,-87.62,Road Closures,Unclassified,18:00,37
+1722,41.88,-87.62,Road Closures,Unclassified,19:00,37
+1723,41.88,-87.62,Road Closures,Unclassified,20:00,36
+1724,41.88,-87.62,Road Closures,Unclassified,23:00,26
+1725,41.89,-87.7,Hazard,Weather Hazards,23:00,4
+1726,41.89,-87.69,Jam,Moderate Traffic,13:00,6
+1727,41.89,-87.69,Road Closures,Construction,14:00,1
+1728,41.89,-87.69,Road Closures,Construction,21:00,1
+1729,41.89,-87.69,Road Closures,Construction,23:00,2
+1730,41.89,-87.69,Road Closures,Unclassified,00:00,14
+1731,41.89,-87.69,Road Closures,Unclassified,13:00,21
+1732,41.89,-87.69,Road Closures,Unclassified,23:00,27
+1733,41.89,-87.68,Road Closures,Unclassified,09:00,2
+1734,41.89,-87.67,Road Closures,Construction,20:00,1
+1735,41.89,-87.67,Road Closures,Construction,23:00,1
+1736,41.89,-87.67,Road Closures,Event-Related Closure,07:00,18
+1737,41.89,-87.67,Road Closures,Event-Related Closure,14:00,19
+1738,41.89,-87.66,Jam,Heavy Traffic,03:00,37
+1739,41.89,-87.66,Jam,Heavy Traffic,04:00,21
+1740,41.89,-87.66,Jam,Stand Still Traffic,03:00,29
+1741,41.89,-87.66,Jam,Stand Still Traffic,06:00,8
+1742,41.89,-87.66,Jam,Stand Still Traffic,21:00,240
+1743,41.89,-87.66,Jam,Stand Still Traffic,22:00,282
+1744,41.89,-87.66,Jam,Unclassified,02:00,14
+1745,41.89,-87.66,Jam,Unclassified,22:00,46
+1746,41.89,-87.66,Road Closures,Construction,18:00,2
+1747,41.89,-87.66,Road Closures,Unclassified,01:00,12
+1748,41.89,-87.66,Road Closures,Unclassified,05:00,5
+1749,41.89,-87.66,Road Closures,Unclassified,10:00,2
+1750,41.89,-87.66,Road Closures,Unclassified,16:00,11
+1751,41.89,-87.65,Accident,Major,01:00,8
+1752,41.89,-87.65,Accident,Major,03:00,11
+1753,41.89,-87.65,Accident,Major,07:00,8
+1754,41.89,-87.65,Accident,Major,15:00,6
+1755,41.89,-87.65,Accident,Major,16:00,7
+1756,41.89,-87.65,Accident,Major,19:00,13
+1757,41.89,-87.65,Accident,Major,20:00,19
+1758,41.89,-87.65,Accident,Major,22:00,22
+1759,41.89,-87.65,Accident,Major,23:00,7
+1760,41.89,-87.65,Accident,Minor,09:00,1
+1761,41.89,-87.65,Accident,Minor,13:00,9
+1762,41.89,-87.65,Accident,Minor,14:00,6
+1763,41.89,-87.65,Accident,Minor,15:00,4
+1764,41.89,-87.65,Accident,Minor,16:00,4
+1765,41.89,-87.65,Accident,Minor,17:00,5
+1766,41.89,-87.65,Accident,Minor,18:00,5
+1767,41.89,-87.65,Accident,Minor,19:00,5
+1768,41.89,-87.65,Accident,Minor,20:00,5
+1769,41.89,-87.65,Accident,Minor,21:00,6
+1770,41.89,-87.65,Accident,Minor,22:00,4
+1771,41.89,-87.65,Accident,Unclassified,00:00,27
+1772,41.89,-87.65,Accident,Unclassified,01:00,21
+1773,41.89,-87.65,Accident,Unclassified,02:00,16
+1774,41.89,-87.65,Accident,Unclassified,03:00,25
+1775,41.89,-87.65,Accident,Unclassified,04:00,15
+1776,41.89,-87.65,Accident,Unclassified,09:00,4
+1777,41.89,-87.65,Accident,Unclassified,13:00,19
+1778,41.89,-87.65,Accident,Unclassified,15:00,19
+1779,41.89,-87.65,Accident,Unclassified,16:00,15
+1780,41.89,-87.65,Accident,Unclassified,17:00,22
+1781,41.89,-87.65,Accident,Unclassified,18:00,18
+1782,41.89,-87.65,Accident,Unclassified,19:00,23
+1783,41.89,-87.65,Accident,Unclassified,20:00,55
+1784,41.89,-87.65,Accident,Unclassified,21:00,40
+1785,41.89,-87.65,Accident,Unclassified,22:00,41
+1786,41.89,-87.65,Accident,Unclassified,23:00,37
+1787,41.89,-87.65,Hazard,Road Hazards,00:00,71
+1788,41.89,-87.65,Hazard,Road Hazards,01:00,69
+1789,41.89,-87.65,Hazard,Road Hazards,02:00,58
+1790,41.89,-87.65,Hazard,Road Hazards,03:00,48
+1791,41.89,-87.65,Hazard,Road Hazards,04:00,60
+1792,41.89,-87.65,Hazard,Road Hazards,05:00,61
+1793,41.89,-87.65,Hazard,Road Hazards,06:00,57
+1794,41.89,-87.65,Hazard,Road Hazards,07:00,28
+1795,41.89,-87.65,Hazard,Road Hazards,08:00,35
+1796,41.89,-87.65,Hazard,Road Hazards,09:00,25
+1797,41.89,-87.65,Hazard,Road Hazards,10:00,37
+1798,41.89,-87.65,Hazard,Road Hazards,13:00,87
+1799,41.89,-87.65,Hazard,Road Hazards,14:00,84
+1800,41.89,-87.65,Hazard,Road Hazards,15:00,75
+1801,41.89,-87.65,Hazard,Road Hazards,16:00,87
+1802,41.89,-87.65,Hazard,Road Hazards,17:00,93
+1803,41.89,-87.65,Hazard,Road Hazards,18:00,77
+1804,41.89,-87.65,Hazard,Road Hazards,20:00,88
+1805,41.89,-87.65,Hazard,Road Hazards,21:00,86
+1806,41.89,-87.65,Hazard,Road Hazards,22:00,88
+1807,41.89,-87.65,Hazard,Shoulder Hazards,00:00,174
+1808,41.89,-87.65,Hazard,Shoulder Hazards,01:00,145
+1809,41.89,-87.65,Hazard,Shoulder Hazards,02:00,144
+1810,41.89,-87.65,Hazard,Shoulder Hazards,03:00,120
+1811,41.89,-87.65,Hazard,Shoulder Hazards,04:00,97
+1812,41.89,-87.65,Hazard,Shoulder Hazards,05:00,51
+1813,41.89,-87.65,Hazard,Shoulder Hazards,06:00,36
+1814,41.89,-87.65,Hazard,Shoulder Hazards,16:00,143
+1815,41.89,-87.65,Hazard,Shoulder Hazards,17:00,191
+1816,41.89,-87.65,Hazard,Shoulder Hazards,18:00,191
+1817,41.89,-87.65,Hazard,Shoulder Hazards,20:00,187
+1818,41.89,-87.65,Hazard,Shoulder Hazards,21:00,219
+1819,41.89,-87.65,Hazard,Shoulder Hazards,22:00,187
+1820,41.89,-87.65,Hazard,Shoulder Hazards,23:00,192
+1821,41.89,-87.65,Hazard,Unclassified,02:00,9
+1822,41.89,-87.65,Hazard,Unclassified,23:00,5
+1823,41.89,-87.65,Hazard,Weather Hazards,04:00,7
+1824,41.89,-87.65,Hazard,Weather Hazards,05:00,4
+1825,41.89,-87.65,Hazard,Weather Hazards,08:00,3
+1826,41.89,-87.65,Jam,Heavy Traffic,00:00,265
+1827,41.89,-87.65,Jam,Heavy Traffic,01:00,215
+1828,41.89,-87.65,Jam,Heavy Traffic,02:00,137
+1829,41.89,-87.65,Jam,Heavy Traffic,03:00,134
+1830,41.89,-87.65,Jam,Heavy Traffic,04:00,74
+1831,41.89,-87.65,Jam,Heavy Traffic,05:00,22
+1832,41.89,-87.65,Jam,Heavy Traffic,06:00,18
+1833,41.89,-87.65,Jam,Heavy Traffic,07:00,7
+1834,41.89,-87.65,Jam,Heavy Traffic,08:00,2
+1835,41.89,-87.65,Jam,Heavy Traffic,14:00,134
+1836,41.89,-87.65,Jam,Heavy Traffic,15:00,151
+1837,41.89,-87.65,Jam,Heavy Traffic,16:00,251
+1838,41.89,-87.65,Jam,Heavy Traffic,17:00,318
+1839,41.89,-87.65,Jam,Heavy Traffic,18:00,311
+1840,41.89,-87.65,Jam,Heavy Traffic,19:00,406
+1841,41.89,-87.65,Jam,Heavy Traffic,20:00,437
+1842,41.89,-87.65,Jam,Heavy Traffic,21:00,364
+1843,41.89,-87.65,Jam,Heavy Traffic,22:00,394
+1844,41.89,-87.65,Jam,Heavy Traffic,23:00,281
+1845,41.89,-87.65,Jam,Moderate Traffic,02:00,3
+1846,41.89,-87.65,Jam,Moderate Traffic,03:00,2
+1847,41.89,-87.65,Jam,Moderate Traffic,04:00,4
+1848,41.89,-87.65,Jam,Moderate Traffic,12:00,7
+1849,41.89,-87.65,Jam,Moderate Traffic,13:00,8
+1850,41.89,-87.65,Jam,Moderate Traffic,15:00,4
+1851,41.89,-87.65,Jam,Moderate Traffic,16:00,5
+1852,41.89,-87.65,Jam,Moderate Traffic,17:00,6
+1853,41.89,-87.65,Jam,Moderate Traffic,18:00,7
+1854,41.89,-87.65,Jam,Moderate Traffic,19:00,8
+1855,41.89,-87.65,Jam,Stand Still Traffic,00:00,208
+1856,41.89,-87.65,Jam,Stand Still Traffic,01:00,172
+1857,41.89,-87.65,Jam,Stand Still Traffic,02:00,92
+1858,41.89,-87.65,Jam,Stand Still Traffic,03:00,106
+1859,41.89,-87.65,Jam,Stand Still Traffic,04:00,68
+1860,41.89,-87.65,Jam,Stand Still Traffic,05:00,23
+1861,41.89,-87.65,Jam,Stand Still Traffic,06:00,15
+1862,41.89,-87.65,Jam,Stand Still Traffic,07:00,9
+1863,41.89,-87.65,Jam,Stand Still Traffic,15:00,121
+1864,41.89,-87.65,Jam,Stand Still Traffic,16:00,210
+1865,41.89,-87.65,Jam,Stand Still Traffic,17:00,249
+1866,41.89,-87.65,Jam,Stand Still Traffic,18:00,328
+1867,41.89,-87.65,Jam,Stand Still Traffic,19:00,399
+1868,41.89,-87.65,Jam,Stand Still Traffic,20:00,489
+1869,41.89,-87.65,Jam,Stand Still Traffic,21:00,564
+1870,41.89,-87.65,Jam,Stand Still Traffic,22:00,574
+1871,41.89,-87.65,Jam,Stand Still Traffic,23:00,382
+1872,41.89,-87.65,Jam,Unclassified,00:00,80
+1873,41.89,-87.65,Jam,Unclassified,01:00,61
+1874,41.89,-87.65,Jam,Unclassified,02:00,41
+1875,41.89,-87.65,Jam,Unclassified,03:00,35
+1876,41.89,-87.65,Jam,Unclassified,04:00,22
+1877,41.89,-87.65,Jam,Unclassified,05:00,9
+1878,41.89,-87.65,Jam,Unclassified,06:00,10
+1879,41.89,-87.65,Jam,Unclassified,07:00,2
+1880,41.89,-87.65,Jam,Unclassified,08:00,2
+1881,41.89,-87.65,Jam,Unclassified,11:00,42
+1882,41.89,-87.65,Jam,Unclassified,13:00,47
+1883,41.89,-87.65,Jam,Unclassified,14:00,39
+1884,41.89,-87.65,Jam,Unclassified,15:00,57
+1885,41.89,-87.65,Jam,Unclassified,16:00,54
+1886,41.89,-87.65,Jam,Unclassified,17:00,74
+1887,41.89,-87.65,Jam,Unclassified,18:00,77
+1888,41.89,-87.65,Jam,Unclassified,19:00,79
+1889,41.89,-87.65,Jam,Unclassified,20:00,80
+1890,41.89,-87.65,Jam,Unclassified,21:00,80
+1891,41.89,-87.65,Jam,Unclassified,22:00,79
+1892,41.89,-87.65,Jam,Unclassified,23:00,76
+1893,41.89,-87.65,Road Closures,Event-Related Closure,00:00,218
+1894,41.89,-87.65,Road Closures,Event-Related Closure,01:00,217
+1895,41.89,-87.65,Road Closures,Event-Related Closure,02:00,201
+1896,41.89,-87.65,Road Closures,Event-Related Closure,03:00,186
+1897,41.89,-87.65,Road Closures,Event-Related Closure,04:00,224
+1898,41.89,-87.65,Road Closures,Event-Related Closure,05:00,221
+1899,41.89,-87.65,Road Closures,Event-Related Closure,06:00,206
+1900,41.89,-87.65,Road Closures,Event-Related Closure,07:00,181
+1901,41.89,-87.65,Road Closures,Event-Related Closure,08:00,220
+1902,41.89,-87.65,Road Closures,Event-Related Closure,09:00,218
+1903,41.89,-87.65,Road Closures,Event-Related Closure,10:00,194
+1904,41.89,-87.65,Road Closures,Event-Related Closure,11:00,184
+1905,41.89,-87.65,Road Closures,Event-Related Closure,12:00,216
+1906,41.89,-87.65,Road Closures,Event-Related Closure,13:00,219
+1907,41.89,-87.65,Road Closures,Event-Related Closure,14:00,201
+1908,41.89,-87.65,Road Closures,Event-Related Closure,15:00,188
+1909,41.89,-87.65,Road Closures,Event-Related Closure,16:00,222
+1910,41.89,-87.65,Road Closures,Event-Related Closure,17:00,220
+1911,41.89,-87.65,Road Closures,Event-Related Closure,18:00,205
+1912,41.89,-87.65,Road Closures,Event-Related Closure,19:00,188
+1913,41.89,-87.65,Road Closures,Event-Related Closure,20:00,230
+1914,41.89,-87.65,Road Closures,Event-Related Closure,21:00,226
+1915,41.89,-87.65,Road Closures,Event-Related Closure,22:00,195
+1916,41.89,-87.65,Road Closures,Event-Related Closure,23:00,184
+1917,41.89,-87.65,Road Closures,Hazard-Related Closure,03:00,1
+1918,41.89,-87.65,Road Closures,Unclassified,01:00,13
+1919,41.89,-87.65,Road Closures,Unclassified,03:00,14
+1920,41.89,-87.65,Road Closures,Unclassified,04:00,11
+1921,41.89,-87.65,Road Closures,Unclassified,06:00,5
+1922,41.89,-87.65,Road Closures,Unclassified,07:00,3
+1923,41.89,-87.65,Road Closures,Unclassified,08:00,1
+1924,41.89,-87.65,Road Closures,Unclassified,18:00,20
+1925,41.89,-87.65,Road Closures,Unclassified,20:00,34
+1926,41.89,-87.65,Road Closures,Unclassified,23:00,18
+1927,41.89,-87.64,Hazard,Road Hazards,02:00,51
+1928,41.89,-87.64,Hazard,Road Hazards,03:00,35
+1929,41.89,-87.64,Hazard,Road Hazards,04:00,32
+1930,41.89,-87.64,Jam,Stand Still Traffic,21:00,313
+1931,41.89,-87.64,Jam,Stand Still Traffic,22:00,439
+1932,41.89,-87.64,Jam,Stand Still Traffic,23:00,189
+1933,41.89,-87.64,Jam,Unclassified,21:00,59
+1934,41.89,-87.64,Road Closures,Unclassified,01:00,17
+1935,41.89,-87.64,Road Closures,Unclassified,05:00,7
+1936,41.89,-87.64,Road Closures,Unclassified,16:00,13
+1937,41.89,-87.64,Road Closures,Unclassified,17:00,16
+1938,41.89,-87.64,Road Closures,Unclassified,18:00,18
+1939,41.89,-87.63,Hazard,Road Hazards,00:00,53
+1940,41.89,-87.63,Hazard,Weather Hazards,23:00,5
+1941,41.89,-87.63,Jam,Moderate Traffic,05:00,5
+1942,41.89,-87.63,Jam,Moderate Traffic,15:00,5
+1943,41.89,-87.63,Jam,Stand Still Traffic,05:00,9
+1944,41.89,-87.63,Jam,Stand Still Traffic,07:00,2
+1945,41.89,-87.63,Jam,Unclassified,01:00,19
+1946,41.89,-87.63,Jam,Unclassified,04:00,12
+1947,41.89,-87.63,Jam,Unclassified,05:00,8
+1948,41.89,-87.63,Jam,Unclassified,06:00,3
+1949,41.89,-87.63,Jam,Unclassified,07:00,3
+1950,41.89,-87.63,Jam,Unclassified,09:00,3
+1951,41.89,-87.63,Road Closures,Event-Related Closure,01:00,32
+1952,41.89,-87.63,Road Closures,Unclassified,11:00,6
+1953,41.89,-87.63,Road Closures,Unclassified,16:00,11
+1954,41.89,-87.62,Accident,Unclassified,16:00,12
+1955,41.89,-87.62,Hazard,Road Hazards,01:00,52
+1956,41.89,-87.62,Hazard,Road Hazards,15:00,79
+1957,41.89,-87.62,Hazard,Road Hazards,16:00,70
+1958,41.89,-87.62,Hazard,Weather Hazards,05:00,4
+1959,41.89,-87.62,Hazard,Weather Hazards,17:00,4
+1960,41.89,-87.62,Road Closures,Hazard-Related Closure,14:00,1
+1961,41.89,-87.62,Road Closures,Unclassified,00:00,11
+1962,41.89,-87.62,Road Closures,Unclassified,03:00,10
+1963,41.89,-87.62,Road Closures,Unclassified,15:00,12
+1964,41.89,-87.61,Accident,Unclassified,22:00,39
+1965,41.89,-87.61,Hazard,Road Hazards,00:00,56
+1966,41.89,-87.61,Hazard,Road Hazards,16:00,71
+1967,41.89,-87.61,Hazard,Road Hazards,23:00,77
+1968,41.89,-87.61,Hazard,Weather Hazards,16:00,4
+1969,41.89,-87.61,Hazard,Weather Hazards,18:00,6
+1970,41.89,-87.61,Hazard,Weather Hazards,22:00,8
+1971,41.89,-87.61,Jam,Stand Still Traffic,00:00,80
+1972,41.89,-87.61,Jam,Stand Still Traffic,03:00,44
+1973,41.89,-87.61,Jam,Stand Still Traffic,23:00,187
+1974,41.89,-87.61,Road Closures,Construction,20:00,1
+1975,41.89,-87.61,Road Closures,Event-Related Closure,18:00,6
+1976,41.89,-87.61,Road Closures,Unclassified,08:00,1
+1977,41.89,-87.61,Road Closures,Unclassified,09:00,6
+1978,41.9,-87.73,Road Closures,Construction,19:00,1
+1979,41.9,-87.73,Road Closures,Unclassified,07:00,2
+1980,41.9,-87.7,Jam,Moderate Traffic,13:00,7
+1981,41.9,-87.67,Jam,Moderate Traffic,23:00,5
+1982,41.9,-87.66,Accident,Major,00:00,9
+1983,41.9,-87.66,Accident,Major,01:00,7
+1984,41.9,-87.66,Accident,Major,02:00,9
+1985,41.9,-87.66,Accident,Major,03:00,12
+1986,41.9,-87.66,Accident,Major,04:00,9
+1987,41.9,-87.66,Accident,Major,15:00,7
+1988,41.9,-87.66,Accident,Major,16:00,9
+1989,41.9,-87.66,Accident,Major,17:00,8
+1990,41.9,-87.66,Accident,Major,18:00,11
+1991,41.9,-87.66,Accident,Major,19:00,30
+1992,41.9,-87.66,Accident,Major,20:00,11
+1993,41.9,-87.66,Accident,Major,21:00,188
+1994,41.9,-87.66,Accident,Major,22:00,17
+1995,41.9,-87.66,Accident,Major,23:00,13
+1996,41.9,-87.66,Accident,Minor,01:00,5
+1997,41.9,-87.66,Accident,Minor,04:00,3
+1998,41.9,-87.66,Accident,Minor,13:00,4
+1999,41.9,-87.66,Accident,Minor,15:00,4
+2000,41.9,-87.66,Accident,Minor,16:00,3
+2001,41.9,-87.66,Accident,Minor,17:00,3
+2002,41.9,-87.66,Accident,Minor,19:00,7
+2003,41.9,-87.66,Accident,Minor,23:00,4
+2004,41.9,-87.66,Accident,Unclassified,00:00,18
+2005,41.9,-87.66,Accident,Unclassified,01:00,25
+2006,41.9,-87.66,Accident,Unclassified,02:00,26
+2007,41.9,-87.66,Accident,Unclassified,03:00,21
+2008,41.9,-87.66,Accident,Unclassified,04:00,17
+2009,41.9,-87.66,Accident,Unclassified,05:00,10
+2010,41.9,-87.66,Accident,Unclassified,07:00,6
+2011,41.9,-87.66,Accident,Unclassified,09:00,4
+2012,41.9,-87.66,Accident,Unclassified,15:00,13
+2013,41.9,-87.66,Accident,Unclassified,16:00,24
+2014,41.9,-87.66,Accident,Unclassified,17:00,28
+2015,41.9,-87.66,Accident,Unclassified,18:00,23
+2016,41.9,-87.66,Accident,Unclassified,19:00,40
+2017,41.9,-87.66,Accident,Unclassified,20:00,56
+2018,41.9,-87.66,Accident,Unclassified,21:00,123
+2019,41.9,-87.66,Accident,Unclassified,22:00,36
+2020,41.9,-87.66,Accident,Unclassified,23:00,37
+2021,41.9,-87.66,Hazard,Road Hazards,00:00,56
+2022,41.9,-87.66,Hazard,Road Hazards,01:00,59
+2023,41.9,-87.66,Hazard,Road Hazards,02:00,43
+2024,41.9,-87.66,Hazard,Road Hazards,03:00,45
+2025,41.9,-87.66,Hazard,Road Hazards,04:00,37
+2026,41.9,-87.66,Hazard,Road Hazards,09:00,21
+2027,41.9,-87.66,Hazard,Road Hazards,18:00,69
+2028,41.9,-87.66,Hazard,Road Hazards,20:00,94
+2029,41.9,-87.66,Hazard,Road Hazards,21:00,80
+2030,41.9,-87.66,Hazard,Road Hazards,23:00,72
+2031,41.9,-87.66,Hazard,Shoulder Hazards,00:00,153
+2032,41.9,-87.66,Hazard,Shoulder Hazards,01:00,118
+2033,41.9,-87.66,Hazard,Shoulder Hazards,02:00,106
+2034,41.9,-87.66,Hazard,Shoulder Hazards,03:00,92
+2035,41.9,-87.66,Hazard,Shoulder Hazards,04:00,59
+2036,41.9,-87.66,Hazard,Shoulder Hazards,05:00,47
+2037,41.9,-87.66,Hazard,Shoulder Hazards,06:00,36
+2038,41.9,-87.66,Hazard,Shoulder Hazards,07:00,26
+2039,41.9,-87.66,Hazard,Shoulder Hazards,09:00,31
+2040,41.9,-87.66,Hazard,Shoulder Hazards,16:00,155
+2041,41.9,-87.66,Hazard,Shoulder Hazards,19:00,161
+2042,41.9,-87.66,Hazard,Shoulder Hazards,23:00,187
+2043,41.9,-87.66,Hazard,Unclassified,23:00,8
+2044,41.9,-87.66,Hazard,Weather Hazards,03:00,8
+2045,41.9,-87.66,Hazard,Weather Hazards,04:00,6
+2046,41.9,-87.66,Hazard,Weather Hazards,19:00,5
+2047,41.9,-87.66,Hazard,Weather Hazards,22:00,4
+2048,41.9,-87.66,Jam,Heavy Traffic,00:00,248
+2049,41.9,-87.66,Jam,Heavy Traffic,01:00,176
+2050,41.9,-87.66,Jam,Heavy Traffic,02:00,157
+2051,41.9,-87.66,Jam,Heavy Traffic,03:00,129
+2052,41.9,-87.66,Jam,Heavy Traffic,04:00,62
+2053,41.9,-87.66,Jam,Heavy Traffic,05:00,25
+2054,41.9,-87.66,Jam,Heavy Traffic,06:00,5
+2055,41.9,-87.66,Jam,Heavy Traffic,09:00,3
+2056,41.9,-87.66,Jam,Heavy Traffic,14:00,129
+2057,41.9,-87.66,Jam,Heavy Traffic,15:00,194
+2058,41.9,-87.66,Jam,Heavy Traffic,16:00,211
+2059,41.9,-87.66,Jam,Heavy Traffic,17:00,233
+2060,41.9,-87.66,Jam,Heavy Traffic,18:00,250
+2061,41.9,-87.66,Jam,Heavy Traffic,19:00,395
+2062,41.9,-87.66,Jam,Heavy Traffic,20:00,504
+2063,41.9,-87.66,Jam,Heavy Traffic,21:00,496
+2064,41.9,-87.66,Jam,Heavy Traffic,22:00,441
+2065,41.9,-87.66,Jam,Heavy Traffic,23:00,308
+2066,41.9,-87.66,Jam,Moderate Traffic,00:00,8
+2067,41.9,-87.66,Jam,Moderate Traffic,01:00,6
+2068,41.9,-87.66,Jam,Moderate Traffic,02:00,4
+2069,41.9,-87.66,Jam,Moderate Traffic,03:00,2
+2070,41.9,-87.66,Jam,Moderate Traffic,05:00,1
+2071,41.9,-87.66,Jam,Moderate Traffic,12:00,5
+2072,41.9,-87.66,Jam,Moderate Traffic,13:00,16
+2073,41.9,-87.66,Jam,Moderate Traffic,14:00,9
+2074,41.9,-87.66,Jam,Moderate Traffic,18:00,5
+2075,41.9,-87.66,Jam,Moderate Traffic,23:00,5
+2076,41.9,-87.66,Jam,Stand Still Traffic,00:00,140
+2077,41.9,-87.66,Jam,Stand Still Traffic,01:00,124
+2078,41.9,-87.66,Jam,Stand Still Traffic,02:00,95
+2079,41.9,-87.66,Jam,Stand Still Traffic,03:00,82
+2080,41.9,-87.66,Jam,Stand Still Traffic,04:00,51
+2081,41.9,-87.66,Jam,Stand Still Traffic,05:00,23
+2082,41.9,-87.66,Jam,Stand Still Traffic,06:00,7
+2083,41.9,-87.66,Jam,Stand Still Traffic,09:00,3
+2084,41.9,-87.66,Jam,Stand Still Traffic,16:00,137
+2085,41.9,-87.66,Jam,Stand Still Traffic,17:00,141
+2086,41.9,-87.66,Jam,Stand Still Traffic,18:00,159
+2087,41.9,-87.66,Jam,Stand Still Traffic,19:00,247
+2088,41.9,-87.66,Jam,Stand Still Traffic,20:00,433
+2089,41.9,-87.66,Jam,Stand Still Traffic,21:00,612
+2090,41.9,-87.66,Jam,Stand Still Traffic,22:00,579
+2091,41.9,-87.66,Jam,Stand Still Traffic,23:00,326
+2092,41.9,-87.66,Jam,Unclassified,00:00,51
+2093,41.9,-87.66,Jam,Unclassified,01:00,43
+2094,41.9,-87.66,Jam,Unclassified,02:00,40
+2095,41.9,-87.66,Jam,Unclassified,03:00,44
+2096,41.9,-87.66,Jam,Unclassified,04:00,12
+2097,41.9,-87.66,Jam,Unclassified,05:00,4
+2098,41.9,-87.66,Jam,Unclassified,06:00,10
+2099,41.9,-87.66,Jam,Unclassified,12:00,38
+2100,41.9,-87.66,Jam,Unclassified,13:00,41
+2101,41.9,-87.66,Jam,Unclassified,14:00,39
+2102,41.9,-87.66,Jam,Unclassified,15:00,50
+2103,41.9,-87.66,Jam,Unclassified,16:00,47
+2104,41.9,-87.66,Jam,Unclassified,17:00,48
+2105,41.9,-87.66,Jam,Unclassified,18:00,54
+2106,41.9,-87.66,Jam,Unclassified,19:00,79
+2107,41.9,-87.66,Jam,Unclassified,20:00,91
+2108,41.9,-87.66,Jam,Unclassified,21:00,107
+2109,41.9,-87.66,Jam,Unclassified,22:00,83
+2110,41.9,-87.66,Jam,Unclassified,23:00,61
+2111,41.9,-87.66,Road Closures,Construction,00:00,1
+2112,41.9,-87.66,Road Closures,Construction,01:00,1
+2113,41.9,-87.66,Road Closures,Construction,06:00,1
+2114,41.9,-87.66,Road Closures,Construction,12:00,1
+2115,41.9,-87.66,Road Closures,Construction,18:00,2
+2116,41.9,-87.66,Road Closures,Construction,20:00,1
+2117,41.9,-87.66,Road Closures,Construction,21:00,3
+2118,41.9,-87.66,Road Closures,Construction,23:00,2
+2119,41.9,-87.66,Road Closures,Event-Related Closure,06:00,2
+2120,41.9,-87.66,Road Closures,Unclassified,00:00,34
+2121,41.9,-87.66,Road Closures,Unclassified,01:00,26
+2122,41.9,-87.66,Road Closures,Unclassified,02:00,15
+2123,41.9,-87.66,Road Closures,Unclassified,03:00,14
+2124,41.9,-87.66,Road Closures,Unclassified,04:00,16
+2125,41.9,-87.66,Road Closures,Unclassified,07:00,4
+2126,41.9,-87.66,Road Closures,Unclassified,08:00,1
+2127,41.9,-87.66,Road Closures,Unclassified,13:00,26
+2128,41.9,-87.66,Road Closures,Unclassified,14:00,44
+2129,41.9,-87.66,Road Closures,Unclassified,15:00,38
+2130,41.9,-87.66,Road Closures,Unclassified,16:00,40
+2131,41.9,-87.66,Road Closures,Unclassified,17:00,43
+2132,41.9,-87.66,Road Closures,Unclassified,18:00,34
+2133,41.9,-87.66,Road Closures,Unclassified,19:00,46
+2134,41.9,-87.66,Road Closures,Unclassified,20:00,37
+2135,41.9,-87.66,Road Closures,Unclassified,21:00,51
+2136,41.9,-87.66,Road Closures,Unclassified,22:00,44
+2137,41.9,-87.66,Road Closures,Unclassified,23:00,51
+2138,41.9,-87.65,Jam,Stand Still Traffic,21:00,250
+2139,41.9,-87.63,Jam,Unclassified,06:00,3
+2140,41.9,-87.63,Road Closures,Unclassified,00:00,17
+2141,41.9,-87.63,Road Closures,Unclassified,01:00,14
+2142,41.9,-87.63,Road Closures,Unclassified,04:00,5
+2143,41.9,-87.63,Road Closures,Unclassified,06:00,5
+2144,41.9,-87.63,Road Closures,Unclassified,07:00,7
+2145,41.9,-87.63,Road Closures,Unclassified,08:00,1
+2146,41.9,-87.63,Road Closures,Unclassified,10:00,3
+2147,41.9,-87.63,Road Closures,Unclassified,11:00,10
+2148,41.9,-87.63,Road Closures,Unclassified,13:00,24
+2149,41.9,-87.63,Road Closures,Unclassified,14:00,19
+2150,41.9,-87.63,Road Closures,Unclassified,15:00,28
+2151,41.9,-87.63,Road Closures,Unclassified,16:00,33
+2152,41.9,-87.63,Road Closures,Unclassified,17:00,34
+2153,41.9,-87.63,Road Closures,Unclassified,18:00,35
+2154,41.9,-87.63,Road Closures,Unclassified,19:00,27
+2155,41.9,-87.63,Road Closures,Unclassified,21:00,30
+2156,41.9,-87.63,Road Closures,Unclassified,22:00,31
+2157,41.9,-87.63,Road Closures,Unclassified,23:00,18
+2158,41.9,-87.62,Accident,Minor,01:00,3
+2159,41.9,-87.62,Accident,Minor,02:00,6
+2160,41.9,-87.62,Accident,Minor,03:00,4
+2161,41.9,-87.62,Accident,Minor,06:00,2
+2162,41.9,-87.62,Accident,Minor,07:00,1
+2163,41.9,-87.62,Accident,Minor,14:00,6
+2164,41.9,-87.62,Accident,Minor,15:00,6
+2165,41.9,-87.62,Accident,Minor,16:00,4
+2166,41.9,-87.62,Accident,Minor,17:00,8
+2167,41.9,-87.62,Accident,Unclassified,00:00,32
+2168,41.9,-87.62,Accident,Unclassified,01:00,15
+2169,41.9,-87.62,Accident,Unclassified,02:00,21
+2170,41.9,-87.62,Accident,Unclassified,03:00,16
+2171,41.9,-87.62,Accident,Unclassified,04:00,16
+2172,41.9,-87.62,Accident,Unclassified,05:00,10
+2173,41.9,-87.62,Accident,Unclassified,06:00,10
+2174,41.9,-87.62,Accident,Unclassified,07:00,6
+2175,41.9,-87.62,Accident,Unclassified,08:00,6
+2176,41.9,-87.62,Accident,Unclassified,09:00,7
+2177,41.9,-87.62,Accident,Unclassified,11:00,21
+2178,41.9,-87.62,Accident,Unclassified,12:00,22
+2179,41.9,-87.62,Accident,Unclassified,14:00,21
+2180,41.9,-87.62,Accident,Unclassified,16:00,18
+2181,41.9,-87.62,Accident,Unclassified,17:00,26
+2182,41.9,-87.62,Accident,Unclassified,18:00,20
+2183,41.9,-87.62,Accident,Unclassified,20:00,27
+2184,41.9,-87.62,Accident,Unclassified,21:00,36
+2185,41.9,-87.62,Accident,Unclassified,22:00,33
+2186,41.9,-87.62,Accident,Unclassified,23:00,31
+2187,41.9,-87.62,Hazard,Road Hazards,01:00,39
+2188,41.9,-87.62,Hazard,Road Hazards,10:00,68
+2189,41.9,-87.62,Hazard,Road Hazards,21:00,82
+2190,41.9,-87.62,Hazard,Road Hazards,22:00,87
+2191,41.9,-87.62,Hazard,Road Hazards,23:00,87
+2192,41.9,-87.62,Hazard,Unclassified,19:00,8
+2193,41.9,-87.62,Hazard,Weather Hazards,01:00,3
+2194,41.9,-87.62,Hazard,Weather Hazards,04:00,8
+2195,41.9,-87.62,Hazard,Weather Hazards,10:00,12
+2196,41.9,-87.62,Hazard,Weather Hazards,11:00,9
+2197,41.9,-87.62,Hazard,Weather Hazards,16:00,4
+2198,41.9,-87.62,Hazard,Weather Hazards,18:00,5
+2199,41.9,-87.62,Hazard,Weather Hazards,21:00,7
+2200,41.9,-87.62,Hazard,Weather Hazards,22:00,5
+2201,41.9,-87.62,Jam,Stand Still Traffic,03:00,31
+2202,41.9,-87.62,Jam,Stand Still Traffic,17:00,119
+2203,41.9,-87.62,Jam,Stand Still Traffic,18:00,131
+2204,41.9,-87.62,Jam,Stand Still Traffic,19:00,177
+2205,41.9,-87.62,Jam,Stand Still Traffic,20:00,204
+2206,41.9,-87.62,Jam,Stand Still Traffic,21:00,237
+2207,41.9,-87.62,Jam,Stand Still Traffic,22:00,313
+2208,41.9,-87.62,Jam,Stand Still Traffic,23:00,174
+2209,41.9,-87.62,Jam,Unclassified,02:00,17
+2210,41.9,-87.62,Jam,Unclassified,03:00,21
+2211,41.9,-87.62,Jam,Unclassified,04:00,12
+2212,41.9,-87.62,Jam,Unclassified,18:00,43
+2213,41.9,-87.62,Jam,Unclassified,22:00,48
+2214,41.9,-87.62,Road Closures,Unclassified,06:00,5
+2215,41.9,-87.62,Road Closures,Unclassified,08:00,3
+2216,41.9,-87.62,Road Closures,Unclassified,09:00,2
+2217,41.9,-87.62,Road Closures,Unclassified,10:00,2
+2218,41.91,-87.71,Road Closures,Construction,22:00,1
+2219,41.91,-87.67,Accident,Major,03:00,6
+2220,41.91,-87.67,Accident,Minor,01:00,3
+2221,41.91,-87.67,Accident,Unclassified,01:00,11
+2222,41.91,-87.67,Accident,Unclassified,02:00,10
+2223,41.91,-87.67,Accident,Unclassified,16:00,12
+2224,41.91,-87.67,Hazard,Weather Hazards,02:00,3
+2225,41.91,-87.67,Jam,Moderate Traffic,03:00,2
+2226,41.91,-87.67,Jam,Moderate Traffic,21:00,9
+2227,41.91,-87.67,Jam,Unclassified,09:00,3
+2228,41.91,-87.67,Road Closures,Unclassified,05:00,7
+2229,41.91,-87.66,Accident,Major,01:00,5
+2230,41.91,-87.66,Accident,Minor,18:00,3
+2231,41.91,-87.66,Accident,Minor,19:00,3
+2232,41.91,-87.66,Accident,Unclassified,01:00,12
+2233,41.91,-87.66,Accident,Unclassified,03:00,14
+2234,41.91,-87.66,Hazard,Road Hazards,00:00,50
+2235,41.91,-87.66,Jam,Heavy Traffic,00:00,115
+2236,41.91,-87.66,Jam,Heavy Traffic,01:00,87
+2237,41.91,-87.66,Jam,Heavy Traffic,02:00,83
+2238,41.91,-87.66,Jam,Heavy Traffic,03:00,82
+2239,41.91,-87.66,Jam,Heavy Traffic,04:00,40
+2240,41.91,-87.66,Jam,Heavy Traffic,05:00,9
+2241,41.91,-87.66,Jam,Heavy Traffic,06:00,3
+2242,41.91,-87.66,Jam,Heavy Traffic,08:00,2
+2243,41.91,-87.66,Jam,Heavy Traffic,20:00,224
+2244,41.91,-87.66,Jam,Moderate Traffic,14:00,6
+2245,41.91,-87.66,Jam,Moderate Traffic,16:00,5
+2246,41.91,-87.66,Jam,Moderate Traffic,17:00,5
+2247,41.91,-87.66,Jam,Stand Still Traffic,01:00,46
+2248,41.91,-87.66,Jam,Stand Still Traffic,02:00,39
+2249,41.91,-87.66,Jam,Stand Still Traffic,03:00,44
+2250,41.91,-87.66,Jam,Stand Still Traffic,04:00,30
+2251,41.91,-87.66,Jam,Stand Still Traffic,05:00,11
+2252,41.91,-87.66,Jam,Stand Still Traffic,07:00,2
+2253,41.91,-87.66,Jam,Stand Still Traffic,08:00,3
+2254,41.91,-87.66,Jam,Unclassified,01:00,29
+2255,41.91,-87.66,Jam,Unclassified,02:00,23
+2256,41.91,-87.66,Jam,Unclassified,03:00,14
+2257,41.91,-87.66,Jam,Unclassified,04:00,14
+2258,41.91,-87.66,Jam,Unclassified,05:00,4
+2259,41.91,-87.66,Jam,Unclassified,14:00,51
+2260,41.91,-87.66,Jam,Unclassified,16:00,48
+2261,41.91,-87.66,Jam,Unclassified,19:00,49
+2262,41.91,-87.65,Hazard,Unclassified,15:00,4
+2263,41.91,-87.64,Road Closures,Construction,12:00,1
+2264,41.91,-87.63,Accident,Minor,00:00,4
+2265,41.91,-87.63,Accident,Minor,08:00,2
+2266,41.91,-87.63,Accident,Minor,10:00,3
+2267,41.91,-87.63,Accident,Unclassified,01:00,11
+2268,41.91,-87.63,Accident,Unclassified,08:00,5
+2269,41.91,-87.63,Accident,Unclassified,23:00,22
+2270,41.91,-87.63,Hazard,Road Hazards,12:00,91
+2271,41.91,-87.63,Hazard,Weather Hazards,00:00,5
+2272,41.91,-87.63,Hazard,Weather Hazards,01:00,4
+2273,41.91,-87.63,Hazard,Weather Hazards,09:00,4
+2274,41.91,-87.63,Hazard,Weather Hazards,10:00,7
+2275,41.91,-87.63,Hazard,Weather Hazards,11:00,15
+2276,41.91,-87.63,Hazard,Weather Hazards,12:00,12
+2277,41.91,-87.63,Hazard,Weather Hazards,13:00,10
+2278,41.91,-87.63,Hazard,Weather Hazards,14:00,8
+2279,41.91,-87.63,Hazard,Weather Hazards,16:00,9
+2280,41.91,-87.63,Hazard,Weather Hazards,18:00,6
+2281,41.91,-87.63,Hazard,Weather Hazards,20:00,6
+2282,41.91,-87.63,Hazard,Weather Hazards,21:00,9
+2283,41.91,-87.63,Hazard,Weather Hazards,22:00,4
+2284,41.91,-87.63,Road Closures,Event-Related Closure,09:00,1
+2285,41.92,-87.81,Hazard,Unclassified,03:00,4
+2286,41.92,-87.81,Jam,Light Traffic,16:00,1
+2287,41.92,-87.76,Accident,Minor,04:00,2
+2288,41.92,-87.71,Hazard,Weather Hazards,22:00,5
+2289,41.92,-87.71,Road Closures,Unclassified,15:00,12
+2290,41.92,-87.71,Road Closures,Unclassified,19:00,21
+2291,41.92,-87.7,Hazard,Weather Hazards,23:00,4
+2292,41.92,-87.7,Jam,Heavy Traffic,13:00,197
+2293,41.92,-87.68,Accident,Minor,15:00,3
+2294,41.92,-87.68,Jam,Heavy Traffic,01:00,63
+2295,41.92,-87.68,Jam,Heavy Traffic,02:00,40
+2296,41.92,-87.68,Jam,Moderate Traffic,00:00,8
+2297,41.92,-87.68,Jam,Moderate Traffic,12:00,5
+2298,41.92,-87.68,Jam,Moderate Traffic,17:00,6
+2299,41.92,-87.68,Jam,Moderate Traffic,20:00,12
+2300,41.92,-87.68,Jam,Moderate Traffic,21:00,7
+2301,41.92,-87.68,Jam,Stand Still Traffic,02:00,29
+2302,41.92,-87.68,Jam,Stand Still Traffic,13:00,185
+2303,41.92,-87.68,Jam,Unclassified,00:00,36
+2304,41.92,-87.68,Jam,Unclassified,01:00,21
+2305,41.92,-87.68,Jam,Unclassified,05:00,4
+2306,41.92,-87.68,Jam,Unclassified,07:00,2
+2307,41.92,-87.68,Jam,Unclassified,12:00,36
+2308,41.92,-87.68,Jam,Unclassified,13:00,46
+2309,41.92,-87.68,Jam,Unclassified,23:00,45
+2310,41.92,-87.68,Road Closures,Unclassified,11:00,5
+2311,41.92,-87.67,Accident,Minor,00:00,4
+2312,41.92,-87.67,Accident,Minor,02:00,3
+2313,41.92,-87.67,Accident,Minor,09:00,1
+2314,41.92,-87.67,Accident,Minor,13:00,5
+2315,41.92,-87.67,Accident,Minor,15:00,6
+2316,41.92,-87.67,Accident,Minor,16:00,3
+2317,41.92,-87.67,Accident,Minor,17:00,2
+2318,41.92,-87.67,Accident,Unclassified,00:00,16
+2319,41.92,-87.67,Accident,Unclassified,01:00,14
+2320,41.92,-87.67,Accident,Unclassified,03:00,13
+2321,41.92,-87.67,Accident,Unclassified,06:00,5
+2322,41.92,-87.67,Accident,Unclassified,11:00,13
+2323,41.92,-87.67,Hazard,Road Hazards,03:00,35
+2324,41.92,-87.67,Hazard,Road Hazards,05:00,28
+2325,41.92,-87.67,Hazard,Road Hazards,23:00,70
+2326,41.92,-87.67,Hazard,Unclassified,16:00,2
+2327,41.92,-87.67,Hazard,Unclassified,20:00,3
+2328,41.92,-87.67,Hazard,Weather Hazards,00:00,6
+2329,41.92,-87.67,Hazard,Weather Hazards,01:00,4
+2330,41.92,-87.67,Hazard,Weather Hazards,21:00,7
+2331,41.92,-87.67,Hazard,Weather Hazards,22:00,5
+2332,41.92,-87.67,Jam,Heavy Traffic,01:00,62
+2333,41.92,-87.67,Jam,Heavy Traffic,02:00,56
+2334,41.92,-87.67,Jam,Heavy Traffic,03:00,47
+2335,41.92,-87.67,Jam,Heavy Traffic,05:00,8
+2336,41.92,-87.67,Jam,Heavy Traffic,13:00,166
+2337,41.92,-87.67,Jam,Heavy Traffic,14:00,135
+2338,41.92,-87.67,Jam,Heavy Traffic,20:00,249
+2339,41.92,-87.67,Jam,Heavy Traffic,21:00,297
+2340,41.92,-87.67,Jam,Heavy Traffic,22:00,279
+2341,41.92,-87.67,Jam,Heavy Traffic,23:00,206
+2342,41.92,-87.67,Jam,Moderate Traffic,01:00,7
+2343,41.92,-87.67,Jam,Moderate Traffic,05:00,1
+2344,41.92,-87.67,Jam,Moderate Traffic,11:00,3
+2345,41.92,-87.67,Jam,Moderate Traffic,13:00,7
+2346,41.92,-87.67,Jam,Moderate Traffic,14:00,7
+2347,41.92,-87.67,Jam,Moderate Traffic,15:00,4
+2348,41.92,-87.67,Jam,Moderate Traffic,16:00,6
+2349,41.92,-87.67,Jam,Moderate Traffic,18:00,6
+2350,41.92,-87.67,Jam,Moderate Traffic,20:00,12
+2351,41.92,-87.67,Jam,Moderate Traffic,22:00,8
+2352,41.92,-87.67,Jam,Moderate Traffic,23:00,7
+2353,41.92,-87.67,Jam,Stand Still Traffic,01:00,43
+2354,41.92,-87.67,Jam,Stand Still Traffic,02:00,30
+2355,41.92,-87.67,Jam,Stand Still Traffic,07:00,2
+2356,41.92,-87.67,Jam,Stand Still Traffic,08:00,2
+2357,41.92,-87.67,Jam,Stand Still Traffic,13:00,186
+2358,41.92,-87.67,Jam,Stand Still Traffic,21:00,255
+2359,41.92,-87.67,Jam,Stand Still Traffic,22:00,264
+2360,41.92,-87.67,Jam,Stand Still Traffic,23:00,167
+2361,41.92,-87.67,Jam,Unclassified,00:00,30
+2362,41.92,-87.67,Jam,Unclassified,01:00,26
+2363,41.92,-87.67,Jam,Unclassified,02:00,19
+2364,41.92,-87.67,Jam,Unclassified,03:00,17
+2365,41.92,-87.67,Jam,Unclassified,04:00,11
+2366,41.92,-87.67,Jam,Unclassified,07:00,2
+2367,41.92,-87.67,Jam,Unclassified,08:00,2
+2368,41.92,-87.67,Jam,Unclassified,13:00,38
+2369,41.92,-87.67,Jam,Unclassified,14:00,36
+2370,41.92,-87.67,Jam,Unclassified,19:00,47
+2371,41.92,-87.67,Jam,Unclassified,20:00,52
+2372,41.92,-87.67,Jam,Unclassified,21:00,68
+2373,41.92,-87.67,Jam,Unclassified,22:00,53
+2374,41.92,-87.67,Jam,Unclassified,23:00,46
+2375,41.92,-87.66,Jam,Stand Still Traffic,21:00,239
+2376,41.92,-87.66,Jam,Stand Still Traffic,22:00,269
+2377,41.92,-87.66,Jam,Unclassified,21:00,45
+2378,41.92,-87.66,Road Closures,Construction,19:00,1
+2379,41.92,-87.64,Road Closures,Construction,18:00,1
+2380,41.92,-87.63,Hazard,Weather Hazards,10:00,6
+2381,41.92,-87.63,Hazard,Weather Hazards,19:00,6
+2382,41.92,-87.63,Road Closures,Event-Related Closure,06:00,4
+2383,41.92,-87.63,Road Closures,Event-Related Closure,09:00,2
+2384,41.92,-87.63,Road Closures,Event-Related Closure,10:00,3
+2385,41.93,-87.7,Accident,Unclassified,12:00,16
+2386,41.93,-87.7,Accident,Unclassified,13:00,18
+2387,41.93,-87.7,Accident,Unclassified,14:00,17
+2388,41.93,-87.7,Accident,Unclassified,15:00,17
+2389,41.93,-87.7,Hazard,Road Hazards,13:00,90
+2390,41.93,-87.7,Hazard,Road Hazards,21:00,85
+2391,41.93,-87.7,Jam,Heavy Traffic,09:00,3
+2392,41.93,-87.7,Jam,Heavy Traffic,13:00,292
+2393,41.93,-87.7,Jam,Heavy Traffic,21:00,361
+2394,41.93,-87.7,Jam,Heavy Traffic,22:00,206
+2395,41.93,-87.7,Jam,Moderate Traffic,13:00,6
+2396,41.93,-87.7,Jam,Moderate Traffic,14:00,7
+2397,41.93,-87.7,Jam,Unclassified,21:00,47
+2398,41.93,-87.69,Accident,Minor,12:00,3
+2399,41.93,-87.69,Accident,Minor,13:00,4
+2400,41.93,-87.69,Accident,Minor,14:00,5
+2401,41.93,-87.69,Accident,Unclassified,20:00,27
+2402,41.93,-87.69,Hazard,Road Hazards,01:00,43
+2403,41.93,-87.69,Hazard,Shoulder Hazards,00:00,117
+2404,41.93,-87.69,Hazard,Weather Hazards,02:00,4
+2405,41.93,-87.69,Jam,Heavy Traffic,00:00,110
+2406,41.93,-87.69,Jam,Heavy Traffic,01:00,61
+2407,41.93,-87.69,Jam,Heavy Traffic,12:00,182
+2408,41.93,-87.69,Jam,Heavy Traffic,14:00,134
+2409,41.93,-87.69,Jam,Heavy Traffic,15:00,144
+2410,41.93,-87.69,Jam,Heavy Traffic,17:00,167
+2411,41.93,-87.69,Jam,Heavy Traffic,18:00,162
+2412,41.93,-87.69,Jam,Heavy Traffic,20:00,245
+2413,41.93,-87.69,Jam,Heavy Traffic,21:00,262
+2414,41.93,-87.69,Jam,Heavy Traffic,22:00,212
+2415,41.93,-87.69,Jam,Heavy Traffic,23:00,183
+2416,41.93,-87.69,Jam,Moderate Traffic,00:00,7
+2417,41.93,-87.69,Jam,Moderate Traffic,15:00,5
+2418,41.93,-87.69,Jam,Moderate Traffic,16:00,5
+2419,41.93,-87.69,Jam,Moderate Traffic,19:00,8
+2420,41.93,-87.69,Jam,Moderate Traffic,20:00,8
+2421,41.93,-87.69,Jam,Moderate Traffic,22:00,8
+2422,41.93,-87.69,Jam,Stand Still Traffic,13:00,191
+2423,41.93,-87.69,Jam,Stand Still Traffic,14:00,114
+2424,41.93,-87.69,Jam,Stand Still Traffic,17:00,111
+2425,41.93,-87.69,Jam,Unclassified,00:00,35
+2426,41.93,-87.69,Jam,Unclassified,06:00,3
+2427,41.93,-87.69,Jam,Unclassified,11:00,30
+2428,41.93,-87.69,Jam,Unclassified,12:00,37
+2429,41.93,-87.69,Jam,Unclassified,13:00,37
+2430,41.93,-87.69,Jam,Unclassified,15:00,34
+2431,41.93,-87.69,Jam,Unclassified,16:00,40
+2432,41.93,-87.69,Jam,Unclassified,20:00,53
+2433,41.93,-87.69,Jam,Unclassified,21:00,54
+2434,41.93,-87.69,Jam,Unclassified,22:00,54
+2435,41.93,-87.69,Jam,Unclassified,23:00,42
+2436,41.93,-87.68,Hazard,Unclassified,16:00,2
+2437,41.93,-87.68,Jam,Moderate Traffic,15:00,4
+2438,41.93,-87.68,Jam,Moderate Traffic,21:00,7
+2439,41.93,-87.68,Jam,Moderate Traffic,22:00,7
+2440,41.93,-87.67,Road Closures,Hazard-Related Closure,21:00,1
+2441,41.93,-87.66,Jam,Unclassified,07:00,2
+2442,41.93,-87.66,Road Closures,Unclassified,09:00,3
+2443,41.93,-87.65,Road Closures,Construction,14:00,1
+2444,41.93,-87.65,Road Closures,Unclassified,00:00,12
+2445,41.93,-87.64,Road Closures,Event-Related Closure,03:00,27
+2446,41.93,-87.63,Accident,Minor,10:00,2
+2447,41.93,-87.63,Hazard,Weather Hazards,18:00,4
+2448,41.93,-87.63,Hazard,Weather Hazards,19:00,6
+2449,41.93,-87.63,Hazard,Weather Hazards,20:00,6
+2450,41.93,-87.63,Road Closures,Construction,01:00,1
+2451,41.93,-87.63,Road Closures,Unclassified,07:00,4
+2452,41.94,-87.83,Hazard,Unclassified,16:00,2
+2453,41.94,-87.79,Road Closures,Construction,14:00,1
+2454,41.94,-87.74,Hazard,Weather Hazards,00:00,4
+2455,41.94,-87.72,Jam,Stand Still Traffic,13:00,215
+2456,41.94,-87.71,Accident,Major,10:00,4
+2457,41.94,-87.71,Accident,Major,14:00,7
+2458,41.94,-87.71,Accident,Minor,14:00,4
+2459,41.94,-87.71,Accident,Minor,21:00,4
+2460,41.94,-87.71,Accident,Unclassified,10:00,8
+2461,41.94,-87.71,Accident,Unclassified,14:00,23
+2462,41.94,-87.71,Accident,Unclassified,15:00,14
+2463,41.94,-87.71,Hazard,Road Hazards,13:00,98
+2464,41.94,-87.71,Hazard,Road Hazards,15:00,104
+2465,41.94,-87.71,Hazard,Road Hazards,17:00,69
+2466,41.94,-87.71,Hazard,Road Hazards,19:00,109
+2467,41.94,-87.71,Hazard,Road Hazards,23:00,69
+2468,41.94,-87.71,Hazard,Weather Hazards,03:00,6
+2469,41.94,-87.71,Jam,Heavy Traffic,00:00,126
+2470,41.94,-87.71,Jam,Heavy Traffic,11:00,110
+2471,41.94,-87.71,Jam,Heavy Traffic,12:00,225
+2472,41.94,-87.71,Jam,Heavy Traffic,13:00,240
+2473,41.94,-87.71,Jam,Heavy Traffic,14:00,169
+2474,41.94,-87.71,Jam,Heavy Traffic,15:00,174
+2475,41.94,-87.71,Jam,Heavy Traffic,16:00,185
+2476,41.94,-87.71,Jam,Heavy Traffic,17:00,175
+2477,41.94,-87.71,Jam,Heavy Traffic,18:00,188
+2478,41.94,-87.71,Jam,Heavy Traffic,19:00,188
+2479,41.94,-87.71,Jam,Heavy Traffic,20:00,209
+2480,41.94,-87.71,Jam,Heavy Traffic,21:00,247
+2481,41.94,-87.71,Jam,Heavy Traffic,23:00,188
+2482,41.94,-87.71,Jam,Moderate Traffic,19:00,6
+2483,41.94,-87.71,Jam,Moderate Traffic,20:00,12
+2484,41.94,-87.71,Jam,Moderate Traffic,22:00,9
+2485,41.94,-87.71,Jam,Moderate Traffic,23:00,5
+2486,41.94,-87.71,Jam,Stand Still Traffic,01:00,39
+2487,41.94,-87.71,Jam,Stand Still Traffic,06:00,5
+2488,41.94,-87.71,Jam,Stand Still Traffic,07:00,3
+2489,41.94,-87.71,Jam,Stand Still Traffic,09:00,6
+2490,41.94,-87.71,Jam,Stand Still Traffic,12:00,224
+2491,41.94,-87.71,Jam,Stand Still Traffic,13:00,363
+2492,41.94,-87.71,Jam,Stand Still Traffic,14:00,151
+2493,41.94,-87.71,Jam,Stand Still Traffic,15:00,110
+2494,41.94,-87.71,Jam,Stand Still Traffic,17:00,112
+2495,41.94,-87.71,Jam,Unclassified,00:00,41
+2496,41.94,-87.71,Jam,Unclassified,06:00,3
+2497,41.94,-87.71,Jam,Unclassified,12:00,42
+2498,41.94,-87.71,Jam,Unclassified,13:00,62
+2499,41.94,-87.71,Jam,Unclassified,14:00,40
+2500,41.94,-87.71,Jam,Unclassified,15:00,32
+2501,41.94,-87.71,Jam,Unclassified,17:00,41
+2502,41.94,-87.71,Jam,Unclassified,19:00,46
+2503,41.94,-87.71,Jam,Unclassified,20:00,62
+2504,41.94,-87.71,Jam,Unclassified,23:00,44
+2505,41.94,-87.71,Road Closures,Construction,12:00,1
+2506,41.94,-87.71,Road Closures,Unclassified,12:00,15
+2507,41.94,-87.71,Road Closures,Unclassified,13:00,34
+2508,41.94,-87.7,Jam,Heavy Traffic,13:00,214
+2509,41.94,-87.7,Jam,Heavy Traffic,21:00,280
+2510,41.94,-87.7,Jam,Moderate Traffic,13:00,8
+2511,41.94,-87.7,Jam,Stand Still Traffic,09:00,3
+2512,41.94,-87.7,Jam,Stand Still Traffic,13:00,215
+2513,41.94,-87.7,Jam,Unclassified,12:00,45
+2514,41.94,-87.67,Jam,Moderate Traffic,00:00,8
+2515,41.94,-87.66,Road Closures,Construction,16:00,2
+2516,41.94,-87.66,Road Closures,Construction,20:00,1
+2517,41.94,-87.65,Jam,Heavy Traffic,06:00,4
+2518,41.94,-87.65,Jam,Moderate Traffic,14:00,6
+2519,41.94,-87.65,Jam,Moderate Traffic,23:00,5
+2520,41.94,-87.65,Road Closures,Construction,01:00,2
+2521,41.94,-87.65,Road Closures,Construction,03:00,1
+2522,41.94,-87.65,Road Closures,Construction,19:00,1
+2523,41.94,-87.65,Road Closures,Event-Related Closure,15:00,6
+2524,41.94,-87.65,Road Closures,Unclassified,00:00,20
+2525,41.94,-87.65,Road Closures,Unclassified,01:00,15
+2526,41.94,-87.65,Road Closures,Unclassified,02:00,12
+2527,41.94,-87.65,Road Closures,Unclassified,06:00,6
+2528,41.94,-87.65,Road Closures,Unclassified,07:00,8
+2529,41.94,-87.65,Road Closures,Unclassified,08:00,2
+2530,41.94,-87.65,Road Closures,Unclassified,16:00,11
+2531,41.94,-87.65,Road Closures,Unclassified,17:00,18
+2532,41.94,-87.65,Road Closures,Unclassified,18:00,21
+2533,41.94,-87.65,Road Closures,Unclassified,19:00,23
+2534,41.94,-87.65,Road Closures,Unclassified,21:00,33
+2535,41.94,-87.65,Road Closures,Unclassified,22:00,48
+2536,41.94,-87.65,Road Closures,Unclassified,23:00,30
+2537,41.94,-87.64,Hazard,Weather Hazards,10:00,5
+2538,41.94,-87.64,Road Closures,Event-Related Closure,00:00,8
+2539,41.94,-87.64,Road Closures,Event-Related Closure,02:00,19
+2540,41.94,-87.64,Road Closures,Event-Related Closure,03:00,41
+2541,41.94,-87.64,Road Closures,Event-Related Closure,04:00,9
+2542,41.94,-87.64,Road Closures,Event-Related Closure,05:00,12
+2543,41.94,-87.64,Road Closures,Event-Related Closure,06:00,3
+2544,41.94,-87.64,Road Closures,Event-Related Closure,22:00,7
+2545,41.94,-87.64,Road Closures,Event-Related Closure,23:00,3
+2546,41.94,-87.64,Road Closures,Unclassified,02:00,11
+2547,41.94,-87.64,Road Closures,Unclassified,03:00,11
+2548,41.94,-87.64,Road Closures,Unclassified,04:00,6
+2549,41.94,-87.64,Road Closures,Unclassified,06:00,8
+2550,41.94,-87.64,Road Closures,Unclassified,07:00,5
+2551,41.94,-87.64,Road Closures,Unclassified,23:00,17
+2552,41.94,-87.63,Hazard,Weather Hazards,20:00,5
+2553,41.95,-87.84,Accident,Minor,03:00,2
+2554,41.95,-87.76,Road Closures,Construction,13:00,2
+2555,41.95,-87.76,Road Closures,Construction,19:00,1
+2556,41.95,-87.74,Road Closures,Construction,23:00,1
+2557,41.95,-87.73,Accident,Major,14:00,7
+2558,41.95,-87.73,Accident,Minor,03:00,2
+2559,41.95,-87.73,Accident,Minor,09:00,1
+2560,41.95,-87.73,Accident,Minor,18:00,4
+2561,41.95,-87.73,Accident,Unclassified,12:00,17
+2562,41.95,-87.73,Accident,Unclassified,13:00,19
+2563,41.95,-87.73,Hazard,Road Hazards,09:00,26
+2564,41.95,-87.73,Hazard,Unclassified,00:00,4
+2565,41.95,-87.73,Hazard,Unclassified,16:00,2
+2566,41.95,-87.73,Jam,Heavy Traffic,09:00,3
+2567,41.95,-87.73,Jam,Heavy Traffic,12:00,195
+2568,41.95,-87.73,Jam,Heavy Traffic,13:00,183
+2569,41.95,-87.73,Jam,Heavy Traffic,14:00,148
+2570,41.95,-87.73,Jam,Moderate Traffic,12:00,5
+2571,41.95,-87.73,Jam,Moderate Traffic,19:00,6
+2572,41.95,-87.73,Jam,Moderate Traffic,20:00,8
+2573,41.95,-87.73,Jam,Stand Still Traffic,09:00,4
+2574,41.95,-87.73,Jam,Stand Still Traffic,11:00,74
+2575,41.95,-87.73,Jam,Stand Still Traffic,12:00,246
+2576,41.95,-87.73,Jam,Stand Still Traffic,13:00,311
+2577,41.95,-87.73,Jam,Stand Still Traffic,14:00,148
+2578,41.95,-87.73,Jam,Stand Still Traffic,15:00,146
+2579,41.95,-87.73,Jam,Stand Still Traffic,16:00,98
+2580,41.95,-87.73,Jam,Unclassified,00:00,29
+2581,41.95,-87.73,Jam,Unclassified,12:00,60
+2582,41.95,-87.73,Jam,Unclassified,15:00,37
+2583,41.95,-87.73,Jam,Unclassified,20:00,46
+2584,41.95,-87.73,Road Closures,Construction,14:00,1
+2585,41.95,-87.73,Road Closures,Construction,16:00,1
+2586,41.95,-87.72,Accident,Minor,11:00,2
+2587,41.95,-87.72,Accident,Minor,13:00,4
+2588,41.95,-87.72,Accident,Minor,16:00,3
+2589,41.95,-87.72,Accident,Minor,22:00,8
+2590,41.95,-87.72,Accident,Minor,23:00,5
+2591,41.95,-87.72,Accident,Unclassified,07:00,8
+2592,41.95,-87.72,Accident,Unclassified,15:00,13
+2593,41.95,-87.72,Hazard,Weather Hazards,13:00,5
+2594,41.95,-87.72,Jam,Heavy Traffic,12:00,252
+2595,41.95,-87.72,Jam,Heavy Traffic,13:00,188
+2596,41.95,-87.72,Jam,Heavy Traffic,14:00,133
+2597,41.95,-87.72,Jam,Heavy Traffic,15:00,173
+2598,41.95,-87.72,Jam,Heavy Traffic,16:00,148
+2599,41.95,-87.72,Jam,Moderate Traffic,20:00,6
+2600,41.95,-87.72,Jam,Moderate Traffic,22:00,8
+2601,41.95,-87.72,Jam,Stand Still Traffic,07:00,2
+2602,41.95,-87.72,Jam,Stand Still Traffic,12:00,204
+2603,41.95,-87.72,Jam,Stand Still Traffic,13:00,224
+2604,41.95,-87.72,Jam,Stand Still Traffic,14:00,113
+2605,41.95,-87.72,Jam,Unclassified,12:00,50
+2606,41.95,-87.72,Jam,Unclassified,17:00,41
+2607,41.95,-87.71,Jam,Moderate Traffic,01:00,4
+2608,41.95,-87.71,Jam,Moderate Traffic,04:00,3
+2609,41.95,-87.71,Jam,Moderate Traffic,17:00,7
+2610,41.95,-87.69,Jam,Moderate Traffic,01:00,5
+2611,41.95,-87.68,Road Closures,Construction,14:00,1
+2612,41.95,-87.66,Jam,Moderate Traffic,01:00,5
+2613,41.95,-87.66,Road Closures,Construction,17:00,1
+2614,41.95,-87.65,Jam,Moderate Traffic,02:00,6
+2615,41.95,-87.65,Road Closures,Event-Related Closure,03:00,29
+2616,41.95,-87.65,Road Closures,Unclassified,00:00,20
+2617,41.95,-87.65,Road Closures,Unclassified,01:00,12
+2618,41.95,-87.65,Road Closures,Unclassified,05:00,6
+2619,41.95,-87.65,Road Closures,Unclassified,14:00,12
+2620,41.95,-87.65,Road Closures,Unclassified,15:00,15
+2621,41.95,-87.65,Road Closures,Unclassified,16:00,25
+2622,41.95,-87.65,Road Closures,Unclassified,17:00,24
+2623,41.95,-87.65,Road Closures,Unclassified,18:00,20
+2624,41.95,-87.65,Road Closures,Unclassified,19:00,25
+2625,41.95,-87.65,Road Closures,Unclassified,20:00,33
+2626,41.95,-87.65,Road Closures,Unclassified,21:00,62
+2627,41.96,-87.88,Hazard,Unclassified,17:00,5
+2628,41.96,-87.78,Road Closures,Construction,13:00,1
+2629,41.96,-87.76,Road Closures,Unclassified,12:00,16
+2630,41.96,-87.75,Accident,Major,13:00,7
+2631,41.96,-87.75,Accident,Minor,11:00,2
+2632,41.96,-87.75,Accident,Minor,14:00,7
+2633,41.96,-87.75,Accident,Minor,20:00,4
+2634,41.96,-87.75,Hazard,Road Hazards,13:00,75
+2635,41.96,-87.75,Hazard,Unclassified,12:00,3
+2636,41.96,-87.75,Hazard,Unclassified,22:00,3
+2637,41.96,-87.75,Jam,Heavy Traffic,12:00,158
+2638,41.96,-87.75,Jam,Stand Still Traffic,11:00,69
+2639,41.96,-87.75,Jam,Stand Still Traffic,12:00,151
+2640,41.96,-87.75,Road Closures,Construction,11:00,1
+2641,41.96,-87.75,Road Closures,Construction,20:00,1
+2642,41.96,-87.75,Road Closures,Event-Related Closure,00:00,436
+2643,41.96,-87.75,Road Closures,Event-Related Closure,01:00,428
+2644,41.96,-87.75,Road Closures,Event-Related Closure,02:00,380
+2645,41.96,-87.75,Road Closures,Event-Related Closure,03:00,382
+2646,41.96,-87.75,Road Closures,Event-Related Closure,04:00,438
+2647,41.96,-87.75,Road Closures,Event-Related Closure,05:00,440
+2648,41.96,-87.75,Road Closures,Event-Related Closure,06:00,385
+2649,41.96,-87.75,Road Closures,Event-Related Closure,07:00,376
+2650,41.96,-87.75,Road Closures,Event-Related Closure,08:00,438
+2651,41.96,-87.75,Road Closures,Event-Related Closure,09:00,436
+2652,41.96,-87.75,Road Closures,Event-Related Closure,10:00,381
+2653,41.96,-87.75,Road Closures,Event-Related Closure,11:00,375
+2654,41.96,-87.75,Road Closures,Event-Related Closure,12:00,430
+2655,41.96,-87.75,Road Closures,Event-Related Closure,13:00,436
+2656,41.96,-87.75,Road Closures,Event-Related Closure,14:00,390
+2657,41.96,-87.75,Road Closures,Event-Related Closure,15:00,386
+2658,41.96,-87.75,Road Closures,Event-Related Closure,16:00,447
+2659,41.96,-87.75,Road Closures,Event-Related Closure,17:00,445
+2660,41.96,-87.75,Road Closures,Event-Related Closure,18:00,395
+2661,41.96,-87.75,Road Closures,Event-Related Closure,19:00,399
+2662,41.96,-87.75,Road Closures,Event-Related Closure,20:00,466
+2663,41.96,-87.75,Road Closures,Event-Related Closure,21:00,458
+2664,41.96,-87.75,Road Closures,Event-Related Closure,22:00,382
+2665,41.96,-87.75,Road Closures,Event-Related Closure,23:00,378
+2666,41.96,-87.75,Road Closures,Unclassified,10:00,2
+2667,41.96,-87.75,Road Closures,Unclassified,11:00,8
+2668,41.96,-87.75,Road Closures,Unclassified,12:00,20
+2669,41.96,-87.75,Road Closures,Unclassified,13:00,22
+2670,41.96,-87.75,Road Closures,Unclassified,14:00,14
+2671,41.96,-87.74,Accident,Major,05:00,6
+2672,41.96,-87.74,Accident,Minor,00:00,5
+2673,41.96,-87.74,Accident,Minor,13:00,6
+2674,41.96,-87.74,Accident,Minor,19:00,3
+2675,41.96,-87.74,Accident,Minor,20:00,5
+2676,41.96,-87.74,Accident,Minor,21:00,5
+2677,41.96,-87.74,Accident,Minor,22:00,5
+2678,41.96,-87.74,Accident,Unclassified,12:00,19
+2679,41.96,-87.74,Accident,Unclassified,13:00,31
+2680,41.96,-87.74,Accident,Unclassified,19:00,23
+2681,41.96,-87.74,Hazard,Road Hazards,09:00,32
+2682,41.96,-87.74,Hazard,Shoulder Hazards,12:00,121
+2683,41.96,-87.74,Hazard,Shoulder Hazards,13:00,143
+2684,41.96,-87.74,Hazard,Unclassified,01:00,4
+2685,41.96,-87.74,Hazard,Weather Hazards,13:00,9
+2686,41.96,-87.74,Jam,Heavy Traffic,01:00,75
+2687,41.96,-87.74,Jam,Heavy Traffic,11:00,122
+2688,41.96,-87.74,Jam,Heavy Traffic,12:00,248
+2689,41.96,-87.74,Jam,Heavy Traffic,13:00,223
+2690,41.96,-87.74,Jam,Heavy Traffic,14:00,170
+2691,41.96,-87.74,Jam,Heavy Traffic,15:00,166
+2692,41.96,-87.74,Jam,Heavy Traffic,16:00,145
+2693,41.96,-87.74,Jam,Heavy Traffic,17:00,159
+2694,41.96,-87.74,Jam,Heavy Traffic,18:00,197
+2695,41.96,-87.74,Jam,Heavy Traffic,19:00,262
+2696,41.96,-87.74,Jam,Heavy Traffic,20:00,308
+2697,41.96,-87.74,Jam,Heavy Traffic,21:00,296
+2698,41.96,-87.74,Jam,Heavy Traffic,22:00,227
+2699,41.96,-87.74,Jam,Heavy Traffic,23:00,182
+2700,41.96,-87.74,Jam,Moderate Traffic,01:00,5
+2701,41.96,-87.74,Jam,Moderate Traffic,18:00,6
+2702,41.96,-87.74,Jam,Moderate Traffic,19:00,6
+2703,41.96,-87.74,Jam,Moderate Traffic,20:00,6
+2704,41.96,-87.74,Jam,Stand Still Traffic,00:00,71
+2705,41.96,-87.74,Jam,Stand Still Traffic,11:00,79
+2706,41.96,-87.74,Jam,Stand Still Traffic,12:00,258
+2707,41.96,-87.74,Jam,Stand Still Traffic,13:00,303
+2708,41.96,-87.74,Jam,Stand Still Traffic,14:00,194
+2709,41.96,-87.74,Jam,Stand Still Traffic,15:00,132
+2710,41.96,-87.74,Jam,Stand Still Traffic,16:00,98
+2711,41.96,-87.74,Jam,Stand Still Traffic,18:00,108
+2712,41.96,-87.74,Jam,Stand Still Traffic,20:00,207
+2713,41.96,-87.74,Jam,Unclassified,13:00,49
+2714,41.96,-87.74,Jam,Unclassified,19:00,58
+2715,41.96,-87.74,Jam,Unclassified,20:00,49
+2716,41.96,-87.74,Road Closures,Construction,02:00,1
+2717,41.96,-87.74,Road Closures,Unclassified,09:00,2
+2718,41.96,-87.73,Road Closures,Unclassified,09:00,2
+2719,41.96,-87.7,Road Closures,Construction,19:00,1
+2720,41.96,-87.7,Road Closures,Construction,22:00,1
+2721,41.96,-87.7,Road Closures,Unclassified,12:00,39
+2722,41.96,-87.7,Road Closures,Unclassified,13:00,46
+2723,41.96,-87.69,Jam,Moderate Traffic,04:00,2
+2724,41.96,-87.69,Road Closures,Construction,12:00,1
+2725,41.96,-87.69,Road Closures,Construction,16:00,1
+2726,41.96,-87.69,Road Closures,Construction,19:00,1
+2727,41.96,-87.69,Road Closures,Construction,20:00,1
+2728,41.96,-87.69,Road Closures,Unclassified,20:00,36
+2729,41.96,-87.69,Road Closures,Unclassified,21:00,28
+2730,41.96,-87.69,Road Closures,Unclassified,22:00,48
+2731,41.96,-87.66,Road Closures,Event-Related Closure,04:00,32
+2732,41.96,-87.65,Hazard,Weather Hazards,10:00,10
+2733,41.96,-87.65,Hazard,Weather Hazards,11:00,11
+2734,41.96,-87.65,Hazard,Weather Hazards,12:00,12
+2735,41.96,-87.65,Hazard,Weather Hazards,19:00,5
+2736,41.97,-87.87,Hazard,Unclassified,21:00,3
+2737,41.97,-87.84,Hazard,Unclassified,21:00,3
+2738,41.97,-87.83,Hazard,Unclassified,00:00,6
+2739,41.97,-87.83,Hazard,Unclassified,17:00,4
+2740,41.97,-87.82,Hazard,Unclassified,00:00,5
+2741,41.97,-87.82,Hazard,Unclassified,18:00,3
+2742,41.97,-87.82,Hazard,Unclassified,21:00,3
+2743,41.97,-87.81,Hazard,Unclassified,00:00,6
+2744,41.97,-87.81,Hazard,Unclassified,01:00,12
+2745,41.97,-87.81,Hazard,Unclassified,02:00,6
+2746,41.97,-87.81,Hazard,Unclassified,07:00,4
+2747,41.97,-87.81,Hazard,Unclassified,10:00,6
+2748,41.97,-87.81,Hazard,Unclassified,12:00,4
+2749,41.97,-87.81,Hazard,Unclassified,13:00,9
+2750,41.97,-87.81,Hazard,Unclassified,15:00,6
+2751,41.97,-87.81,Hazard,Unclassified,16:00,6
+2752,41.97,-87.81,Hazard,Unclassified,18:00,8
+2753,41.97,-87.81,Hazard,Unclassified,21:00,11
+2754,41.97,-87.81,Hazard,Unclassified,22:00,10
+2755,41.97,-87.81,Hazard,Unclassified,23:00,8
+2756,41.97,-87.79,Hazard,Road Hazards,11:00,51
+2757,41.97,-87.77,Accident,Major,00:00,5
+2758,41.97,-87.77,Accident,Major,18:00,8
+2759,41.97,-87.77,Jam,Heavy Traffic,15:00,150
+2760,41.97,-87.77,Jam,Heavy Traffic,16:00,140
+2761,41.97,-87.77,Jam,Heavy Traffic,17:00,176
+2762,41.97,-87.77,Jam,Heavy Traffic,18:00,166
+2763,41.97,-87.77,Jam,Stand Still Traffic,15:00,129
+2764,41.97,-87.77,Jam,Stand Still Traffic,16:00,99
+2765,41.97,-87.77,Jam,Stand Still Traffic,17:00,111
+2766,41.97,-87.76,Accident,Major,11:00,7
+2767,41.97,-87.76,Accident,Major,12:00,5
+2768,41.97,-87.76,Accident,Major,14:00,9
+2769,41.97,-87.76,Accident,Major,15:00,6
+2770,41.97,-87.76,Accident,Major,16:00,11
+2771,41.97,-87.76,Accident,Minor,01:00,3
+2772,41.97,-87.76,Accident,Minor,05:00,2
+2773,41.97,-87.76,Accident,Minor,23:00,4
+2774,41.97,-87.76,Accident,Unclassified,12:00,16
+2775,41.97,-87.76,Accident,Unclassified,14:00,16
+2776,41.97,-87.76,Accident,Unclassified,17:00,15
+2777,41.97,-87.76,Hazard,Road Hazards,08:00,19
+2778,41.97,-87.76,Hazard,Road Hazards,09:00,71
+2779,41.97,-87.76,Hazard,Road Hazards,22:00,80
+2780,41.97,-87.76,Hazard,Weather Hazards,21:00,7
+2781,41.97,-87.76,Jam,Heavy Traffic,00:00,132
+2782,41.97,-87.76,Jam,Heavy Traffic,01:00,84
+2783,41.97,-87.76,Jam,Heavy Traffic,02:00,35
+2784,41.97,-87.76,Jam,Heavy Traffic,04:00,16
+2785,41.97,-87.76,Jam,Heavy Traffic,08:00,2
+2786,41.97,-87.76,Jam,Heavy Traffic,10:00,51
+2787,41.97,-87.76,Jam,Heavy Traffic,11:00,123
+2788,41.97,-87.76,Jam,Heavy Traffic,12:00,164
+2789,41.97,-87.76,Jam,Heavy Traffic,13:00,164
+2790,41.97,-87.76,Jam,Heavy Traffic,15:00,158
+2791,41.97,-87.76,Jam,Heavy Traffic,16:00,190
+2792,41.97,-87.76,Jam,Heavy Traffic,17:00,190
+2793,41.97,-87.76,Jam,Heavy Traffic,18:00,201
+2794,41.97,-87.76,Jam,Heavy Traffic,19:00,221
+2795,41.97,-87.76,Jam,Heavy Traffic,20:00,201
+2796,41.97,-87.76,Jam,Heavy Traffic,22:00,221
+2797,41.97,-87.76,Jam,Heavy Traffic,23:00,208
+2798,41.97,-87.76,Jam,Moderate Traffic,10:00,2
+2799,41.97,-87.76,Jam,Moderate Traffic,16:00,4
+2800,41.97,-87.76,Jam,Stand Still Traffic,00:00,109
+2801,41.97,-87.76,Jam,Stand Still Traffic,01:00,42
+2802,41.97,-87.76,Jam,Stand Still Traffic,10:00,25
+2803,41.97,-87.76,Jam,Stand Still Traffic,11:00,107
+2804,41.97,-87.76,Jam,Stand Still Traffic,12:00,216
+2805,41.97,-87.76,Jam,Stand Still Traffic,14:00,161
+2806,41.97,-87.76,Jam,Stand Still Traffic,15:00,162
+2807,41.97,-87.76,Jam,Stand Still Traffic,16:00,127
+2808,41.97,-87.76,Jam,Stand Still Traffic,17:00,141
+2809,41.97,-87.76,Jam,Stand Still Traffic,18:00,180
+2810,41.97,-87.76,Jam,Stand Still Traffic,19:00,182
+2811,41.97,-87.76,Jam,Stand Still Traffic,20:00,200
+2812,41.97,-87.76,Jam,Stand Still Traffic,23:00,197
+2813,41.97,-87.76,Jam,Unclassified,01:00,20
+2814,41.97,-87.76,Jam,Unclassified,02:00,18
+2815,41.97,-87.76,Jam,Unclassified,10:00,21
+2816,41.97,-87.76,Jam,Unclassified,14:00,34
+2817,41.97,-87.76,Jam,Unclassified,16:00,43
+2818,41.97,-87.76,Jam,Unclassified,17:00,47
+2819,41.97,-87.76,Jam,Unclassified,18:00,53
+2820,41.97,-87.76,Jam,Unclassified,22:00,50
+2821,41.97,-87.75,Accident,Major,17:00,7
+2822,41.97,-87.75,Accident,Minor,14:00,8
+2823,41.97,-87.75,Accident,Minor,20:00,4
+2824,41.97,-87.75,Accident,Unclassified,11:00,11
+2825,41.97,-87.75,Accident,Unclassified,12:00,23
+2826,41.97,-87.75,Accident,Unclassified,16:00,16
+2827,41.97,-87.75,Accident,Unclassified,17:00,22
+2828,41.97,-87.75,Accident,Unclassified,22:00,33
+2829,41.97,-87.75,Hazard,Road Hazards,00:00,56
+2830,41.97,-87.75,Hazard,Road Hazards,03:00,54
+2831,41.97,-87.75,Hazard,Road Hazards,04:00,37
+2832,41.97,-87.75,Hazard,Road Hazards,14:00,83
+2833,41.97,-87.75,Hazard,Road Hazards,15:00,72
+2834,41.97,-87.75,Hazard,Road Hazards,19:00,79
+2835,41.97,-87.75,Hazard,Road Hazards,20:00,82
+2836,41.97,-87.75,Hazard,Road Hazards,21:00,81
+2837,41.97,-87.75,Hazard,Road Hazards,22:00,72
+2838,41.97,-87.75,Hazard,Shoulder Hazards,00:00,133
+2839,41.97,-87.75,Hazard,Shoulder Hazards,01:00,125
+2840,41.97,-87.75,Hazard,Shoulder Hazards,02:00,86
+2841,41.97,-87.75,Hazard,Shoulder Hazards,03:00,81
+2842,41.97,-87.75,Hazard,Shoulder Hazards,08:00,26
+2843,41.97,-87.75,Hazard,Shoulder Hazards,09:00,35
+2844,41.97,-87.75,Hazard,Shoulder Hazards,10:00,65
+2845,41.97,-87.75,Hazard,Shoulder Hazards,12:00,138
+2846,41.97,-87.75,Hazard,Shoulder Hazards,13:00,135
+2847,41.97,-87.75,Hazard,Shoulder Hazards,14:00,157
+2848,41.97,-87.75,Hazard,Shoulder Hazards,15:00,148
+2849,41.97,-87.75,Hazard,Shoulder Hazards,16:00,140
+2850,41.97,-87.75,Hazard,Shoulder Hazards,17:00,156
+2851,41.97,-87.75,Hazard,Shoulder Hazards,18:00,179
+2852,41.97,-87.75,Hazard,Shoulder Hazards,19:00,168
+2853,41.97,-87.75,Hazard,Shoulder Hazards,20:00,207
+2854,41.97,-87.75,Hazard,Shoulder Hazards,21:00,256
+2855,41.97,-87.75,Hazard,Shoulder Hazards,22:00,189
+2856,41.97,-87.75,Hazard,Shoulder Hazards,23:00,170
+2857,41.97,-87.75,Jam,Heavy Traffic,11:00,127
+2858,41.97,-87.75,Jam,Heavy Traffic,12:00,236
+2859,41.97,-87.75,Jam,Heavy Traffic,13:00,212
+2860,41.97,-87.75,Jam,Heavy Traffic,14:00,149
+2861,41.97,-87.75,Jam,Heavy Traffic,17:00,160
+2862,41.97,-87.75,Jam,Moderate Traffic,00:00,7
+2863,41.97,-87.75,Jam,Moderate Traffic,13:00,8
+2864,41.97,-87.75,Jam,Moderate Traffic,19:00,8
+2865,41.97,-87.75,Jam,Moderate Traffic,21:00,12
+2866,41.97,-87.75,Jam,Moderate Traffic,23:00,7
+2867,41.97,-87.75,Jam,Stand Still Traffic,00:00,83
+2868,41.97,-87.75,Jam,Stand Still Traffic,11:00,96
+2869,41.97,-87.75,Jam,Stand Still Traffic,12:00,227
+2870,41.97,-87.75,Jam,Stand Still Traffic,13:00,229
+2871,41.97,-87.75,Jam,Stand Still Traffic,14:00,140
+2872,41.97,-87.75,Jam,Stand Still Traffic,15:00,107
+2873,41.97,-87.75,Jam,Stand Still Traffic,18:00,108
+2874,41.97,-87.75,Jam,Stand Still Traffic,19:00,156
+2875,41.97,-87.75,Jam,Unclassified,11:00,39
+2876,41.97,-87.75,Jam,Unclassified,12:00,53
+2877,41.97,-87.75,Jam,Unclassified,13:00,45
+2878,41.97,-87.75,Jam,Unclassified,14:00,36
+2879,41.97,-87.75,Road Closures,Construction,14:00,1
+2880,41.97,-87.75,Road Closures,Construction,19:00,1
+2881,41.97,-87.75,Road Closures,Event-Related Closure,00:00,218
+2882,41.97,-87.75,Road Closures,Event-Related Closure,01:00,214
+2883,41.97,-87.75,Road Closures,Event-Related Closure,02:00,200
+2884,41.97,-87.75,Road Closures,Event-Related Closure,03:00,182
+2885,41.97,-87.75,Road Closures,Event-Related Closure,04:00,219
+2886,41.97,-87.75,Road Closures,Event-Related Closure,05:00,220
+2887,41.97,-87.75,Road Closures,Event-Related Closure,06:00,205
+2888,41.97,-87.75,Road Closures,Event-Related Closure,07:00,181
+2889,41.97,-87.75,Road Closures,Event-Related Closure,08:00,219
+2890,41.97,-87.75,Road Closures,Event-Related Closure,09:00,218
+2891,41.97,-87.75,Road Closures,Event-Related Closure,10:00,198
+2892,41.97,-87.75,Road Closures,Event-Related Closure,11:00,180
+2893,41.97,-87.75,Road Closures,Event-Related Closure,12:00,215
+2894,41.97,-87.75,Road Closures,Event-Related Closure,13:00,217
+2895,41.97,-87.75,Road Closures,Event-Related Closure,14:00,200
+2896,41.97,-87.75,Road Closures,Event-Related Closure,15:00,182
+2897,41.97,-87.75,Road Closures,Event-Related Closure,16:00,221
+2898,41.97,-87.75,Road Closures,Event-Related Closure,17:00,219
+2899,41.97,-87.75,Road Closures,Event-Related Closure,18:00,206
+2900,41.97,-87.75,Road Closures,Event-Related Closure,19:00,187
+2901,41.97,-87.75,Road Closures,Event-Related Closure,20:00,227
+2902,41.97,-87.75,Road Closures,Event-Related Closure,21:00,223
+2903,41.97,-87.75,Road Closures,Event-Related Closure,22:00,197
+2904,41.97,-87.75,Road Closures,Event-Related Closure,23:00,184
+2905,41.97,-87.75,Road Closures,Unclassified,12:00,15
+2906,41.97,-87.75,Road Closures,Unclassified,13:00,30
+2907,41.97,-87.74,Road Closures,Construction,12:00,1
+2908,41.97,-87.74,Road Closures,Construction,20:00,1
+2909,41.97,-87.74,Road Closures,Construction,21:00,2
+2910,41.97,-87.73,Road Closures,Construction,12:00,2
+2911,41.97,-87.73,Road Closures,Construction,13:00,2
+2912,41.97,-87.73,Road Closures,Construction,20:00,1
+2913,41.97,-87.73,Road Closures,Hazard-Related Closure,13:00,1
+2914,41.97,-87.73,Road Closures,Unclassified,13:00,23
+2915,41.97,-87.73,Road Closures,Unclassified,15:00,19
+2916,41.97,-87.69,Jam,Moderate Traffic,00:00,7
+2917,41.97,-87.66,Jam,Moderate Traffic,17:00,5
+2918,41.97,-87.65,Hazard,Weather Hazards,16:00,4
+2919,41.97,-87.65,Road Closures,Construction,01:00,1
+2920,41.97,-87.65,Road Closures,Event-Related Closure,02:00,17
+2921,41.97,-87.65,Road Closures,Event-Related Closure,08:00,3
+2922,41.98,-87.93,Hazard,Unclassified,14:00,4
+2923,41.98,-87.93,Hazard,Unclassified,15:00,7
+2924,41.98,-87.93,Hazard,Unclassified,17:00,6
+2925,41.98,-87.91,Hazard,Unclassified,05:00,6
+2926,41.98,-87.91,Hazard,Unclassified,07:00,3
+2927,41.98,-87.9,Hazard,Unclassified,07:00,5
+2928,41.98,-87.89,Hazard,Unclassified,08:00,14
+2929,41.98,-87.88,Hazard,Unclassified,14:00,3
+2930,41.98,-87.88,Hazard,Unclassified,17:00,3
+2931,41.98,-87.85,Hazard,Unclassified,14:00,3
+2932,41.98,-87.84,Hazard,Unclassified,01:00,7
+2933,41.98,-87.84,Hazard,Unclassified,03:00,4
+2934,41.98,-87.84,Hazard,Unclassified,10:00,4
+2935,41.98,-87.84,Hazard,Unclassified,18:00,10
+2936,41.98,-87.84,Hazard,Unclassified,20:00,3
+2937,41.98,-87.84,Hazard,Unclassified,21:00,4
+2938,41.98,-87.84,Hazard,Unclassified,22:00,5
+2939,41.98,-87.84,Hazard,Unclassified,23:00,6
+2940,41.98,-87.83,Hazard,Unclassified,00:00,6
+2941,41.98,-87.83,Hazard,Unclassified,04:00,12
+2942,41.98,-87.82,Hazard,Unclassified,00:00,8
+2943,41.98,-87.82,Hazard,Unclassified,01:00,8
+2944,41.98,-87.82,Hazard,Unclassified,02:00,7
+2945,41.98,-87.82,Hazard,Unclassified,03:00,8
+2946,41.98,-87.82,Hazard,Unclassified,05:00,6
+2947,41.98,-87.82,Hazard,Unclassified,06:00,4
+2948,41.98,-87.82,Hazard,Unclassified,11:00,3
+2949,41.98,-87.82,Hazard,Unclassified,12:00,4
+2950,41.98,-87.82,Hazard,Unclassified,14:00,5
+2951,41.98,-87.82,Hazard,Unclassified,15:00,6
+2952,41.98,-87.82,Hazard,Unclassified,16:00,3
+2953,41.98,-87.82,Hazard,Unclassified,19:00,11
+2954,41.98,-87.82,Hazard,Unclassified,21:00,10
+2955,41.98,-87.82,Hazard,Unclassified,22:00,8
+2956,41.98,-87.82,Hazard,Unclassified,23:00,8
+2957,41.98,-87.82,Jam,Heavy Traffic,09:00,5
+2958,41.98,-87.82,Jam,Stand Still Traffic,08:00,2
+2959,41.98,-87.81,Accident,Major,00:00,7
+2960,41.98,-87.81,Accident,Minor,04:00,2
+2961,41.98,-87.81,Hazard,Road Hazards,07:00,19
+2962,41.98,-87.81,Hazard,Road Hazards,11:00,105
+2963,41.98,-87.81,Hazard,Unclassified,00:00,4
+2964,41.98,-87.81,Hazard,Unclassified,01:00,7
+2965,41.98,-87.81,Hazard,Unclassified,02:00,11
+2966,41.98,-87.81,Hazard,Unclassified,03:00,6
+2967,41.98,-87.81,Hazard,Unclassified,04:00,6
+2968,41.98,-87.81,Hazard,Unclassified,05:00,8
+2969,41.98,-87.81,Hazard,Unclassified,06:00,7
+2970,41.98,-87.81,Hazard,Unclassified,10:00,7
+2971,41.98,-87.81,Hazard,Unclassified,12:00,5
+2972,41.98,-87.81,Hazard,Unclassified,13:00,6
+2973,41.98,-87.81,Hazard,Unclassified,14:00,7
+2974,41.98,-87.81,Hazard,Unclassified,15:00,6
+2975,41.98,-87.81,Hazard,Unclassified,17:00,16
+2976,41.98,-87.81,Hazard,Unclassified,20:00,10
+2977,41.98,-87.81,Hazard,Unclassified,21:00,22
+2978,41.98,-87.81,Hazard,Unclassified,23:00,12
+2979,41.98,-87.81,Hazard,Weather Hazards,13:00,6
+2980,41.98,-87.81,Hazard,Weather Hazards,15:00,4
+2981,41.98,-87.81,Jam,Heavy Traffic,23:00,172
+2982,41.98,-87.81,Jam,Moderate Traffic,12:00,7
+2983,41.98,-87.81,Jam,Moderate Traffic,18:00,5
+2984,41.98,-87.81,Jam,Moderate Traffic,22:00,8
+2985,41.98,-87.81,Jam,Moderate Traffic,23:00,7
+2986,41.98,-87.81,Jam,Stand Still Traffic,08:00,2
+2987,41.98,-87.81,Jam,Unclassified,01:00,20
+2988,41.98,-87.81,Jam,Unclassified,05:00,4
+2989,41.98,-87.81,Jam,Unclassified,19:00,51
+2990,41.98,-87.8,Accident,Unclassified,10:00,13
+2991,41.98,-87.8,Jam,Heavy Traffic,07:00,2
+2992,41.98,-87.8,Jam,Heavy Traffic,08:00,2
+2993,41.98,-87.8,Jam,Heavy Traffic,09:00,3
+2994,41.98,-87.8,Jam,Moderate Traffic,12:00,7
+2995,41.98,-87.8,Jam,Moderate Traffic,16:00,4
+2996,41.98,-87.8,Jam,Moderate Traffic,18:00,5
+2997,41.98,-87.8,Jam,Moderate Traffic,20:00,6
+2998,41.98,-87.79,Accident,Major,23:00,10
+2999,41.98,-87.79,Accident,Minor,00:00,4
+3000,41.98,-87.79,Accident,Minor,02:00,3
+3001,41.98,-87.79,Accident,Minor,22:00,5
+3002,41.98,-87.79,Accident,Unclassified,00:00,15
+3003,41.98,-87.79,Accident,Unclassified,13:00,18
+3004,41.98,-87.79,Jam,Heavy Traffic,00:00,117
+3005,41.98,-87.79,Jam,Heavy Traffic,09:00,4
+3006,41.98,-87.79,Jam,Moderate Traffic,15:00,9
+3007,41.98,-87.79,Jam,Moderate Traffic,17:00,10
+3008,41.98,-87.79,Jam,Moderate Traffic,18:00,6
+3009,41.98,-87.79,Jam,Unclassified,00:00,30
+3010,41.98,-87.79,Jam,Unclassified,10:00,24
+3011,41.98,-87.79,Jam,Unclassified,11:00,36
+3012,41.98,-87.79,Jam,Unclassified,13:00,44
+3013,41.98,-87.79,Jam,Unclassified,14:00,34
+3014,41.98,-87.79,Jam,Unclassified,15:00,54
+3015,41.98,-87.79,Jam,Unclassified,16:00,45
+3016,41.98,-87.79,Jam,Unclassified,17:00,50
+3017,41.98,-87.79,Jam,Unclassified,21:00,51
+3018,41.98,-87.79,Jam,Unclassified,23:00,41
+3019,41.98,-87.78,Accident,Minor,12:00,3
+3020,41.98,-87.78,Accident,Unclassified,15:00,14
+3021,41.98,-87.78,Accident,Unclassified,19:00,22
+3022,41.98,-87.78,Jam,Heavy Traffic,00:00,156
+3023,41.98,-87.78,Jam,Heavy Traffic,10:00,52
+3024,41.98,-87.78,Jam,Heavy Traffic,11:00,120
+3025,41.98,-87.78,Jam,Heavy Traffic,15:00,160
+3026,41.98,-87.78,Jam,Heavy Traffic,16:00,155
+3027,41.98,-87.78,Jam,Heavy Traffic,17:00,216
+3028,41.98,-87.78,Jam,Heavy Traffic,18:00,206
+3029,41.98,-87.78,Jam,Heavy Traffic,19:00,187
+3030,41.98,-87.78,Jam,Heavy Traffic,23:00,216
+3031,41.98,-87.78,Jam,Moderate Traffic,12:00,8
+3032,41.98,-87.78,Jam,Moderate Traffic,15:00,7
+3033,41.98,-87.78,Jam,Stand Still Traffic,00:00,104
+3034,41.98,-87.78,Jam,Stand Still Traffic,11:00,78
+3035,41.98,-87.78,Jam,Stand Still Traffic,15:00,153
+3036,41.98,-87.78,Jam,Stand Still Traffic,16:00,131
+3037,41.98,-87.78,Jam,Stand Still Traffic,17:00,135
+3038,41.98,-87.78,Jam,Stand Still Traffic,18:00,127
+3039,41.98,-87.78,Jam,Stand Still Traffic,19:00,161
+3040,41.98,-87.78,Jam,Stand Still Traffic,23:00,191
+3041,41.98,-87.78,Jam,Unclassified,00:00,38
+3042,41.98,-87.78,Jam,Unclassified,01:00,20
+3043,41.98,-87.78,Jam,Unclassified,11:00,40
+3044,41.98,-87.78,Jam,Unclassified,15:00,57
+3045,41.98,-87.78,Jam,Unclassified,16:00,53
+3046,41.98,-87.78,Jam,Unclassified,17:00,41
+3047,41.98,-87.78,Jam,Unclassified,18:00,50
+3048,41.98,-87.78,Jam,Unclassified,23:00,43
+3049,41.98,-87.77,Jam,Moderate Traffic,04:00,2
+3050,41.98,-87.76,Jam,Moderate Traffic,04:00,2
+3051,41.98,-87.75,Accident,Unclassified,18:00,19
+3052,41.98,-87.75,Hazard,Shoulder Hazards,23:00,166
+3053,41.98,-87.75,Hazard,Weather Hazards,00:00,4
+3054,41.98,-87.75,Jam,Heavy Traffic,00:00,110
+3055,41.98,-87.75,Jam,Heavy Traffic,11:00,109
+3056,41.98,-87.75,Jam,Heavy Traffic,16:00,147
+3057,41.98,-87.75,Jam,Heavy Traffic,19:00,193
+3058,41.98,-87.75,Jam,Heavy Traffic,22:00,233
+3059,41.98,-87.75,Jam,Moderate Traffic,04:00,3
+3060,41.98,-87.75,Jam,Moderate Traffic,13:00,7
+3061,41.98,-87.75,Jam,Moderate Traffic,14:00,7
+3062,41.98,-87.75,Jam,Moderate Traffic,21:00,8
+3063,41.98,-87.75,Jam,Stand Still Traffic,00:00,118
+3064,41.98,-87.75,Jam,Stand Still Traffic,01:00,37
+3065,41.98,-87.75,Jam,Stand Still Traffic,11:00,104
+3066,41.98,-87.75,Jam,Stand Still Traffic,15:00,117
+3067,41.98,-87.75,Jam,Stand Still Traffic,16:00,138
+3068,41.98,-87.75,Jam,Stand Still Traffic,17:00,150
+3069,41.98,-87.75,Jam,Stand Still Traffic,18:00,158
+3070,41.98,-87.75,Jam,Stand Still Traffic,19:00,179
+3071,41.98,-87.75,Jam,Stand Still Traffic,20:00,247
+3072,41.98,-87.75,Jam,Stand Still Traffic,21:00,255
+3073,41.98,-87.75,Jam,Stand Still Traffic,22:00,287
+3074,41.98,-87.75,Jam,Stand Still Traffic,23:00,234
+3075,41.98,-87.75,Jam,Unclassified,11:00,32
+3076,41.98,-87.75,Jam,Unclassified,14:00,43
+3077,41.98,-87.75,Jam,Unclassified,16:00,41
+3078,41.98,-87.75,Jam,Unclassified,17:00,44
+3079,41.98,-87.75,Jam,Unclassified,20:00,51
+3080,41.98,-87.75,Jam,Unclassified,22:00,62
+3081,41.98,-87.73,Jam,Moderate Traffic,02:00,3
+3082,41.98,-87.72,Road Closures,Construction,12:00,1
+3083,41.98,-87.71,Road Closures,Construction,14:00,1
+3084,41.98,-87.69,Hazard,Road Hazards,13:00,78
+3085,41.98,-87.69,Hazard,Road Hazards,17:00,70
+3086,41.98,-87.69,Hazard,Road Hazards,23:00,73
+3087,41.98,-87.69,Jam,Moderate Traffic,00:00,9
+3088,41.98,-87.68,Hazard,Weather Hazards,00:00,4
+3089,41.98,-87.67,Hazard,Unclassified,19:00,10
+3090,41.98,-87.67,Hazard,Unclassified,20:00,3
+3091,41.98,-87.67,Hazard,Weather Hazards,23:00,5
+3092,41.98,-87.66,Jam,Heavy Traffic,12:00,163
+3093,41.98,-87.66,Jam,Moderate Traffic,01:00,5
+3094,41.98,-87.66,Jam,Stand Still Traffic,12:00,208
+3095,41.98,-87.66,Jam,Stand Still Traffic,14:00,127
+3096,41.98,-87.66,Road Closures,Construction,16:00,1
+3097,41.98,-87.66,Road Closures,Event-Related Closure,00:00,7
+3098,41.98,-87.66,Road Closures,Event-Related Closure,11:00,4
+3099,41.98,-87.66,Road Closures,Event-Related Closure,20:00,8
+3100,41.98,-87.66,Road Closures,Event-Related Closure,21:00,6
+3101,41.98,-87.66,Road Closures,Hazard-Related Closure,21:00,2
+3102,41.98,-87.66,Road Closures,Unclassified,14:00,23
+3103,41.98,-87.65,Hazard,Unclassified,19:00,13
+3104,41.99,-87.93,Hazard,Unclassified,06:00,4
+3105,41.99,-87.88,Hazard,Unclassified,14:00,3
+3106,41.99,-87.88,Hazard,Unclassified,16:00,5
+3107,41.99,-87.88,Hazard,Unclassified,17:00,4
+3108,41.99,-87.82,Hazard,Unclassified,00:00,10
+3109,41.99,-87.82,Hazard,Unclassified,01:00,23
+3110,41.99,-87.82,Hazard,Unclassified,02:00,17
+3111,41.99,-87.82,Hazard,Unclassified,03:00,14
+3112,41.99,-87.82,Hazard,Unclassified,04:00,10
+3113,41.99,-87.82,Hazard,Unclassified,05:00,12
+3114,41.99,-87.82,Hazard,Unclassified,06:00,9
+3115,41.99,-87.82,Hazard,Unclassified,09:00,6
+3116,41.99,-87.82,Hazard,Unclassified,10:00,11
+3117,41.99,-87.82,Hazard,Unclassified,11:00,4
+3118,41.99,-87.82,Hazard,Unclassified,13:00,14
+3119,41.99,-87.82,Hazard,Unclassified,14:00,10
+3120,41.99,-87.82,Hazard,Unclassified,15:00,21
+3121,41.99,-87.82,Hazard,Unclassified,16:00,13
+3122,41.99,-87.82,Hazard,Unclassified,17:00,15
+3123,41.99,-87.82,Hazard,Unclassified,18:00,14
+3124,41.99,-87.82,Hazard,Unclassified,20:00,12
+3125,41.99,-87.82,Hazard,Unclassified,21:00,22
+3126,41.99,-87.82,Hazard,Unclassified,22:00,8
+3127,41.99,-87.82,Hazard,Unclassified,23:00,19
+3128,41.99,-87.81,Hazard,Unclassified,00:00,4
+3129,41.99,-87.81,Hazard,Unclassified,01:00,11
+3130,41.99,-87.81,Hazard,Unclassified,04:00,7
+3131,41.99,-87.81,Hazard,Unclassified,05:00,8
+3132,41.99,-87.81,Hazard,Unclassified,10:00,8
+3133,41.99,-87.81,Hazard,Unclassified,12:00,6
+3134,41.99,-87.81,Hazard,Unclassified,14:00,4
+3135,41.99,-87.81,Hazard,Unclassified,15:00,8
+3136,41.99,-87.81,Hazard,Unclassified,16:00,12
+3137,41.99,-87.81,Hazard,Unclassified,17:00,5
+3138,41.99,-87.81,Hazard,Unclassified,18:00,5
+3139,41.99,-87.81,Hazard,Unclassified,20:00,4
+3140,41.99,-87.81,Hazard,Unclassified,21:00,12
+3141,41.99,-87.81,Hazard,Unclassified,22:00,7
+3142,41.99,-87.81,Hazard,Unclassified,23:00,11
+3143,41.99,-87.75,Accident,Minor,03:00,3
+3144,41.99,-87.75,Hazard,Unclassified,18:00,5
+3145,41.99,-87.75,Jam,Moderate Traffic,02:00,3
+3146,41.99,-87.75,Road Closures,Hazard-Related Closure,01:00,1
+3147,41.99,-87.72,Road Closures,Hazard-Related Closure,00:00,1
+3148,41.99,-87.71,Hazard,Road Hazards,02:00,41
+3149,41.99,-87.71,Hazard,Weather Hazards,12:00,6
+3150,41.99,-87.71,Jam,Moderate Traffic,01:00,5
+3151,41.99,-87.69,Hazard,Unclassified,20:00,12
+3152,41.99,-87.69,Jam,Moderate Traffic,05:00,2
+3153,41.99,-87.68,Road Closures,Construction,15:00,1
+3154,41.99,-87.67,Hazard,Unclassified,20:00,8
+3155,41.99,-87.67,Road Closures,Construction,14:00,2
+3156,41.99,-87.66,Hazard,Road Hazards,12:00,71
+3157,41.99,-87.66,Hazard,Road Hazards,13:00,107
+3158,41.99,-87.66,Hazard,Road Hazards,14:00,123
+3159,41.99,-87.66,Hazard,Road Hazards,15:00,100
+3160,41.99,-87.66,Hazard,Road Hazards,16:00,92
+3161,41.99,-87.66,Hazard,Road Hazards,17:00,77
+3162,41.99,-87.66,Hazard,Road Hazards,18:00,102
+3163,41.99,-87.66,Hazard,Road Hazards,19:00,84
+3164,41.99,-87.66,Hazard,Weather Hazards,00:00,9
+3165,41.99,-87.66,Hazard,Weather Hazards,10:00,6
+3166,41.99,-87.66,Hazard,Weather Hazards,12:00,11
+3167,41.99,-87.66,Hazard,Weather Hazards,13:00,8
+3168,41.99,-87.66,Hazard,Weather Hazards,15:00,6
+3169,41.99,-87.66,Hazard,Weather Hazards,16:00,4
+3170,41.99,-87.66,Jam,Heavy Traffic,12:00,218
+3171,41.99,-87.66,Jam,Heavy Traffic,19:00,237
+3172,41.99,-87.66,Jam,Stand Still Traffic,00:00,81
+3173,41.99,-87.66,Jam,Stand Still Traffic,12:00,275
+3174,41.99,-87.66,Jam,Stand Still Traffic,14:00,115
+3175,41.99,-87.66,Jam,Stand Still Traffic,15:00,113
+3176,41.99,-87.66,Jam,Unclassified,12:00,56
+3177,41.99,-87.66,Jam,Unclassified,19:00,49
+3178,41.99,-87.66,Road Closures,Construction,13:00,1
+3179,41.99,-87.66,Road Closures,Event-Related Closure,00:00,12
+3180,41.99,-87.66,Road Closures,Hazard-Related Closure,12:00,1
+3181,41.99,-87.66,Road Closures,Unclassified,12:00,37
+3182,41.99,-87.66,Road Closures,Unclassified,13:00,25
+3183,41.99,-87.66,Road Closures,Unclassified,14:00,15
+3184,41.99,-87.65,Accident,Minor,19:00,4
+3185,42.0,-87.82,Hazard,Unclassified,07:00,4
+3186,42.0,-87.82,Hazard,Unclassified,22:00,8
+3187,42.0,-87.81,Hazard,Unclassified,20:00,5
+3188,42.0,-87.77,Hazard,Unclassified,20:00,3
+3189,42.0,-87.7,Road Closures,Construction,16:00,1
+3190,42.0,-87.7,Road Closures,Construction,20:00,1
+3191,42.0,-87.69,Jam,Moderate Traffic,05:00,2
+3192,42.0,-87.68,Hazard,Weather Hazards,09:00,4
+3193,42.0,-87.68,Hazard,Weather Hazards,12:00,6
+3194,42.0,-87.68,Hazard,Weather Hazards,17:00,4
+3195,42.0,-87.67,Road Closures,Construction,00:00,1
+3196,42.01,-87.69,Road Closures,Construction,18:00,1
+3197,42.01,-87.69,Road Closures,Construction,23:00,1
+3198,42.01,-87.68,Road Closures,Construction,15:00,1
+3199,42.01,-87.67,Road Closures,Construction,16:00,1
+3200,42.01,-87.67,Road Closures,Construction,18:00,1
+3201,42.01,-87.66,Hazard,Weather Hazards,01:00,4
