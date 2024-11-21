@@ -1,0 +1,156 @@
+,latitude,longitude,updated_type,updated_subtype,count
+0,41.65,-87.58,Hazard,Weather Hazards,71
+1,41.66,-87.59,Hazard,Shoulder Hazards,2498
+2,41.66,-87.59,Hazard,Weather Hazards,221
+3,41.69,-87.6,Hazard,Weather Hazards,67
+4,41.69,-87.6,Road Closures,Event-Related Closure,4964
+5,41.71,-87.64,Road Closures,Event-Related Closure,4947
+6,41.76,-87.71,Road Closures,Hazard-Related Closure,1
+7,41.77,-87.68,Road Closures,Hazard-Related Closure,1
+8,41.78,-87.63,Accident,Major,135
+9,41.79,-87.63,Hazard,Shoulder Hazards,2754
+10,41.8,-87.63,Hazard,Shoulder Hazards,2816
+11,41.81,-87.63,Accident,Major,143
+12,41.81,-87.63,Accident,Unclassified,307
+13,41.81,-87.63,Hazard,Road Hazards,1228
+14,41.81,-87.63,Hazard,Shoulder Hazards,2641
+15,41.81,-87.63,Hazard,Unclassified,57
+16,41.82,-87.73,Jam,Moderate Traffic,60
+17,41.82,-87.63,Hazard,Shoulder Hazards,3208
+18,41.83,-87.69,Hazard,Weather Hazards,59
+19,41.83,-87.64,Road Closures,Construction,3
+20,41.83,-87.64,Road Closures,Hazard-Related Closure,1
+21,41.83,-87.63,Hazard,Shoulder Hazards,2704
+22,41.84,-87.71,Jam,Light Traffic,1
+23,41.84,-87.67,Road Closures,Hazard-Related Closure,1
+24,41.84,-87.63,Accident,Major,119
+25,41.84,-87.63,Accident,Unclassified,268
+26,41.84,-87.63,Hazard,Road Hazards,1222
+27,41.84,-87.63,Hazard,Shoulder Hazards,3388
+28,41.84,-87.63,Hazard,Unclassified,56
+29,41.84,-87.63,Road Closures,Event-Related Closure,4974
+30,41.85,-87.64,Accident,Major,157
+31,41.85,-87.64,Accident,Minor,45
+32,41.85,-87.64,Accident,Unclassified,363
+33,41.85,-87.64,Hazard,Unclassified,42
+34,41.85,-87.64,Hazard,Weather Hazards,83
+35,41.85,-87.64,Jam,Unclassified,582
+36,41.85,-87.63,Hazard,Unclassified,45
+37,41.86,-87.64,Accident,Major,161
+38,41.86,-87.64,Accident,Minor,52
+39,41.86,-87.64,Accident,Unclassified,352
+40,41.86,-87.64,Hazard,Road Hazards,1456
+41,41.86,-87.62,Jam,Light Traffic,1
+42,41.87,-87.64,Accident,Major,225
+43,41.87,-87.64,Accident,Minor,35
+44,41.87,-87.64,Accident,Unclassified,340
+45,41.87,-87.64,Hazard,Road Hazards,1389
+46,41.87,-87.64,Road Closures,Construction,4
+47,41.87,-87.64,Road Closures,Unclassified,257
+48,41.87,-87.62,Road Closures,Event-Related Closure,233
+49,41.87,-87.62,Road Closures,Unclassified,367
+50,41.88,-87.67,Hazard,Road Hazards,2060
+51,41.88,-87.66,Accident,Major,123
+52,41.88,-87.65,Accident,Major,192
+53,41.88,-87.65,Accident,Minor,56
+54,41.88,-87.65,Accident,Unclassified,536
+55,41.88,-87.65,Hazard,Road Hazards,1743
+56,41.88,-87.65,Hazard,Shoulder Hazards,2826
+57,41.88,-87.65,Hazard,Weather Hazards,73
+58,41.88,-87.65,Jam,Heavy Traffic,4214
+59,41.88,-87.65,Jam,Moderate Traffic,60
+60,41.88,-87.65,Jam,Stand Still Traffic,4666
+61,41.88,-87.65,Jam,Unclassified,944
+62,41.88,-87.65,Road Closures,Construction,15
+63,41.88,-87.65,Road Closures,Event-Related Closure,5002
+64,41.88,-87.65,Road Closures,Unclassified,979
+65,41.88,-87.63,Jam,Light Traffic,1
+66,41.88,-87.62,Hazard,Road Hazards,1355
+67,41.88,-87.62,Jam,Light Traffic,1
+68,41.88,-87.62,Road Closures,Event-Related Closure,291
+69,41.88,-87.62,Road Closures,Unclassified,420
+70,41.89,-87.69,Road Closures,Construction,4
+71,41.89,-87.65,Accident,Major,145
+72,41.89,-87.65,Accident,Minor,66
+73,41.89,-87.65,Accident,Unclassified,452
+74,41.89,-87.65,Hazard,Road Hazards,1534
+75,41.89,-87.65,Hazard,Shoulder Hazards,2877
+76,41.89,-87.65,Jam,Heavy Traffic,4194
+77,41.89,-87.65,Jam,Moderate Traffic,70
+78,41.89,-87.65,Jam,Stand Still Traffic,4278
+79,41.89,-87.65,Jam,Unclassified,1086
+80,41.89,-87.65,Road Closures,Event-Related Closure,4964
+81,41.89,-87.65,Road Closures,Hazard-Related Closure,1
+82,41.89,-87.65,Road Closures,Unclassified,254
+83,41.89,-87.62,Road Closures,Hazard-Related Closure,1
+84,41.9,-87.66,Accident,Major,360
+85,41.9,-87.66,Accident,Minor,47
+86,41.9,-87.66,Accident,Unclassified,561
+87,41.9,-87.66,Jam,Heavy Traffic,4323
+88,41.9,-87.66,Jam,Moderate Traffic,88
+89,41.9,-87.66,Jam,Stand Still Traffic,3563
+90,41.9,-87.66,Jam,Unclassified,973
+91,41.9,-87.66,Road Closures,Construction,12
+92,41.9,-87.66,Road Closures,Unclassified,585
+93,41.9,-87.63,Road Closures,Unclassified,384
+94,41.9,-87.62,Accident,Minor,58
+95,41.9,-87.62,Accident,Unclassified,437
+96,41.9,-87.62,Hazard,Weather Hazards,77
+97,41.91,-87.66,Jam,Unclassified,581
+98,41.91,-87.63,Hazard,Weather Hazards,117
+99,41.92,-87.81,Jam,Light Traffic,1
+100,41.92,-87.68,Jam,Moderate Traffic,65
+101,41.92,-87.67,Accident,Minor,36
+102,41.92,-87.67,Jam,Heavy Traffic,2458
+103,41.92,-87.67,Jam,Moderate Traffic,91
+104,41.92,-87.67,Jam,Unclassified,612
+105,41.93,-87.69,Jam,Heavy Traffic,2514
+106,41.93,-87.69,Jam,Moderate Traffic,63
+107,41.93,-87.69,Jam,Unclassified,593
+108,41.93,-87.67,Road Closures,Hazard-Related Closure,1
+109,41.94,-87.71,Jam,Heavy Traffic,2731
+110,41.94,-87.71,Jam,Moderate Traffic,64
+111,41.94,-87.71,Jam,Stand Still Traffic,1983
+112,41.94,-87.71,Jam,Unclassified,624
+113,41.94,-87.66,Road Closures,Construction,3
+114,41.94,-87.65,Road Closures,Construction,4
+115,41.94,-87.65,Road Closures,Unclassified,314
+116,41.94,-87.64,Road Closures,Event-Related Closure,116
+117,41.95,-87.73,Jam,Stand Still Traffic,1972
+118,41.95,-87.72,Accident,Minor,39
+119,41.95,-87.65,Road Closures,Unclassified,329
+120,41.96,-87.75,Road Closures,Event-Related Closure,9907
+121,41.96,-87.74,Accident,Minor,38
+122,41.96,-87.74,Jam,Heavy Traffic,2945
+123,41.96,-87.74,Jam,Stand Still Traffic,2287
+124,41.96,-87.7,Road Closures,Unclassified,250
+125,41.96,-87.69,Road Closures,Construction,5
+126,41.96,-87.65,Hazard,Weather Hazards,64
+127,41.97,-87.81,Hazard,Unclassified,121
+128,41.97,-87.76,Jam,Heavy Traffic,2752
+129,41.97,-87.76,Jam,Stand Still Traffic,2503
+130,41.97,-87.75,Accident,Unclassified,279
+131,41.97,-87.75,Hazard,Road Hazards,1209
+132,41.97,-87.75,Hazard,Shoulder Hazards,2788
+133,41.97,-87.75,Jam,Heavy Traffic,2399
+134,41.97,-87.75,Jam,Moderate Traffic,69
+135,41.97,-87.75,Jam,Stand Still Traffic,2079
+136,41.97,-87.75,Road Closures,Event-Related Closure,4932
+137,41.97,-87.74,Road Closures,Construction,4
+138,41.97,-87.73,Road Closures,Construction,5
+139,41.97,-87.73,Road Closures,Hazard-Related Closure,1
+140,41.98,-87.84,Hazard,Unclassified,55
+141,41.98,-87.82,Hazard,Unclassified,115
+142,41.98,-87.81,Hazard,Unclassified,156
+143,41.98,-87.79,Jam,Moderate Traffic,65
+144,41.98,-87.79,Jam,Unclassified,610
+145,41.98,-87.78,Jam,Heavy Traffic,2428
+146,41.98,-87.78,Jam,Stand Still Traffic,1913
+147,41.98,-87.78,Jam,Unclassified,604
+148,41.98,-87.75,Jam,Stand Still Traffic,2347
+149,41.98,-87.66,Road Closures,Hazard-Related Closure,2
+150,41.99,-87.82,Hazard,Unclassified,276
+151,41.99,-87.81,Hazard,Unclassified,127
+152,41.99,-87.75,Road Closures,Hazard-Related Closure,1
+153,41.99,-87.66,Hazard,Road Hazards,1217
+154,41.99,-87.66,Hazard,Weather Hazards,79
