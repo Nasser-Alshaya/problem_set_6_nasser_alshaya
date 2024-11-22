@@ -40,7 +40,7 @@ def server(input, output, session):
         gdf.plot(ax=ax, color="lightgrey", edgecolor="black", alpha=0.8)
 
             
-        ax.scatter(
+        scatter = ax.scatter(
             filtered_df["longitude"],
             filtered_df["latitude"],
             s=filtered_df["count"],  
@@ -57,6 +57,9 @@ def server(input, output, session):
 
         ax.set_xlim(-87.94, -87.52)
         ax.set_ylim(41.64, 42.02)
+        cbar = plt.colorbar(scatter, ax=ax, orientation="vertical")
+        cbar.set_label('Number of Incidents')
+        cbar.ax.set_position([0.85, 0.25, 0.03, 0.5])
 
         return fig
 app = App(app_ui, server)
