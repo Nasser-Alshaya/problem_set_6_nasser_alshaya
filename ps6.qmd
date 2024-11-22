@@ -101,8 +101,7 @@ waze_sample.columns
 ```
 
 2. nThumbsUp has only 1371 inputs with 776723 NULL values. 
-street has 14073 NULL values.
-subtype has 96086 NULL values. 
+subtype has 96086 NULL values an street has 14073 NULL values.
 The remaining variables have no NULL values. 
 
 ```{python}
@@ -138,9 +137,14 @@ chart = alt.Chart(nulls_count_long).mark_bar().encode(
 chart
 ```
 
+```{python}
+nulls_count_long[
+    nulls_count_long['status'] == 'missing'
+    ].sort_values(by = 'count', ascending = False).head(3)
+```
 
 3. All types have missing subtypes, after slicing the dataframe based on missing values in subtypes, the lowest type is Accident with `9178` observations. I believe all hazards have enough information to consider that they could have sub-subtypes without the need to keep NAs. 
-
+a.
 ```{python}
 df_waze['type'].unique()
 ```
@@ -168,6 +172,7 @@ types = pd.DataFrame(
 types
 ```
 
+b.
 `bulleted liste`:
 1 Accident:
     1.1 Major
@@ -200,6 +205,8 @@ types
     4.1 Construction
     4.1 Hazard-Related Closure
     4.3 Event-Related Closure
+
+c. Yes I beilieve we should keep the NA sutypes and rename them as Unclassified because a mssing value does not always mean it is missing it could mean it does not have a specific calssification.
 
 4. 
 
@@ -452,6 +459,7 @@ bin_counts.loc[bin_counts['count'].idxmax()]
 
 c. The level of aggregation is based on the top 10 ranked types and subtypes based on the count of their incidents with respect to their longitude and latitude.
 I ended up with a DataFrame with 155 rows.
+
 ```{python}
 top_alerts = (df_merged.groupby(['latitude',
      'longitude', 'updated_type', 'updated_subtype']).size()
@@ -471,7 +479,7 @@ top_alerts_map.to_csv('top_alerts_map.csv', index = True)
 len(top_alerts_map)
 ```
 
-d. 
+2. 
 ```{python}
 #| echo: true
 #| eval: true
@@ -533,20 +541,6 @@ geo_data.total_bounds
 4. 
 
 ```{python}
-#| echo: true
-#| eval: false
-map = alt.Chart(geo_data).mark_geoshape().encode(
-    tooltip=['properties.name:N']
-).properties(
-    width = 300,
-    height = 300
-)
- 
-map + scatter_plot
-```
-
-
-```{python}
 # Note: due to errors in rendering altair, the app is rendering matplotlib instead 
 filtered_data = top_alerts_map[
     (top_alerts_map['updated_type'] == 'Jam') & 
@@ -574,6 +568,10 @@ ax.set_xlabel('Longitude')
 ax.set_ylabel('Latitude')
 ax.set_title('Top 10 Locations with Highest "Jam - Heavy Traffic" Alerts in Chicago')
 
+cbar = plt.colorbar(scatter, ax=ax, orientation="vertical")
+cbar.set_label('Number of Incidents')
+cbar.ax.set_position([0.85, 0.25, 0.03, 0.5])
+
 plt.show()
 ```
 
@@ -589,21 +587,25 @@ type_combinations = top_alerts_map['type_subtype'].unique()
 len(type_combinations)
 ```
 
-![APP1_UI](APP1a.png)
+![APP1_UI](APP1_UI.png)
 
 b.
 
-![Jam - Heavy Traffic plot](APP1_plot.png)
+![Jam - Heavy Traffic plot](APP1_b.png)
 
-c. Where do construction works result in road closures the most?
-It seems there are more road closures up north.
+c. where are alerts for road
+closures due to events most common??
+It seems there are more road closures up north (such as: Jefferson Park, North Park, Edison Park, and Lincon Square).
 
-
-![Road_Closure_Events](APP1_5c.png)
+Note: names of neighborhoods were added to the plot for demonstartion.
+![Road_Closure_Events](APP1_c.png)
 
 d. Where do unclassified road closures occur the most?
-West loop and downtwon 
-![Unclassified Road Closures](APP1_5d.png)
+West loop
+Note: names of neighborhoods were added to the plot for demonstartion.
+
+![Unclassified Road Closures](APP1_d.png)
+
 
 
 e. Adding a time column to the columns will enhance the information about the incidents.
@@ -687,6 +689,9 @@ ax.set_ylabel('Latitude')
 ax.set_title(
     'Top 10 Locations with Highest "Jam - Heavy Traffic" Alerts at Different Times in Chicago'
 )
+cbar = plt.colorbar(scatter, ax=ax, orientation="vertical")
+cbar.set_label('Number of Incidents')
+cbar.ax.set_position([0.85, 0.25, 0.03, 0.5])
 
 plt.tight_layout()
 plt.show()
@@ -695,6 +700,7 @@ plt.show()
 2. 
 
 a. 
+I am using @reactive.effect and def _():
 
 ![APP2_UI](APP2_a.png)
 
@@ -709,7 +715,7 @@ c. it is hard to tell but it seems like road construction is done slightly more 
 
 ![Road_Closure_Construction](APP2_c_m.png)
 
-![Road_Closure_Construction](APP2_c_n.png)
+![Road_Closure_Construction](APP2_c_night.png)
 
 # App #3: Top Location by Alert Type and Hour Dashboard (20 points){-}
 
@@ -751,13 +757,16 @@ ax.set_ylabel('Latitude')
 ax.set_xlim(-87.94, -87.52)
 ax.set_ylim(41.64, 42.02)
 ax.grid(True)
-
+cbar = plt.colorbar(scatter, ax=ax, orientation="vertical")
+cbar.set_label('Number of Incidents')
+cbar.ax.set_position([0.85, 0.25, 0.03, 0.5])
 plt.show()
 ```
 
 2. 
 
 a. 
+I am using @reactive.effect and def _():
 
 ![APP3_UI](APP3_1a.png)
 
@@ -769,20 +778,22 @@ b.
 
 a. The possible vaule are true or false, since the value depends on the boolean condition of which panel to switch to.
 
+I am using @reactive.effect and def _():
+
 ![APP3_UI](APP3_3a.png)
 
 b. 
 
-![Jam_Heavy_Traffic_plot](APP3_3bf.png)
+![Jam_Heavy_Traffic_plot](APP_3bf.png)
 
 
-![Jam_Heavy_Traffic_plot](APP3_3bt.png)
+![Jam_Heavy_Traffic_plot](APP_3t.png)
 
 c. 
 
-![Jam_Heavy_Traffic_plot](APP3_3bf.png)
+![Jam_Heavy_Traffic_plot](APP3_cf.png)
 
-![Jam_Heavy_Traffic_plot](APP3_3bt.png)
+![Jam_Heavy_Traffic_plot](APP3_ct.png)
 
 
 d. adding a column in the dataframe for time of day based on hour to specify morning, afternoon, evening, night. For example, the values for hour between 4 - 12 morning, 13 - 15 afternoon, 16 - 19 evening, 20 - 3 night.
