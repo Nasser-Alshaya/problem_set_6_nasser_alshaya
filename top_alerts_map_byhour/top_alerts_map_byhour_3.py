@@ -101,6 +101,9 @@ def server(input, output, session):
         ax.grid(True)
         ax.set_xlim(-87.94, -87.52)
         ax.set_ylim(41.64, 42.02)
+        cbar = plt.colorbar(scatter, ax=ax, orientation="vertical")
+        cbar.set_label('Number of Incidents')
+        cbar.ax.set_position([0.85, 0.25, 0.03, 0.5])
 
         return fig
 
